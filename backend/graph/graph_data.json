@@ -1,0 +1,7 @@
+{
+  "Variables": ["Loops"],
+  "Loops": ["Functions"],
+  "Functions": ["Recursion"],
+  "Recursion": ["Dynamic Programming"],
+  "Dynamic Programming": []
+}
