@@ -1,0 +1,5001 @@
+student_id,concept,concept_difficulty,attempts,time_spent,correct,mastery_label
+69487be7,Variables,1,1,22,1,1
+1932d7f3,Recursion,3,1,29,0,0
+a13cc4dc,Loops,2,3,22,0,0
+00e69998,Dynamic Programming,4,2,51,1,0
+c1db4161,Variables,1,2,22,0,0
+75eee0b0,Loops,2,1,22,1,1
+96ed030e,Loops,2,3,29,0,0
+0efdd7c7,Variables,1,1,28,0,0
+8e5699ff,Loops,2,2,23,1,0
+f1fc10b2,Functions,2,1,25,0,0
+28fc7c4c,Recursion,3,2,18,0,0
+d7be5c1e,Recursion,3,2,48,0,0
+67386278,Dynamic Programming,4,2,50,0,0
+59811e5d,Variables,1,1,29,0,0
+80459ec7,Recursion,3,1,33,1,0
+cb5d5a7d,Functions,2,2,26,1,0
+a4e0c28d,Variables,1,1,20,1,1
+4fb1bc31,Recursion,3,2,30,0,0
+c30bde50,Functions,2,1,27,1,0
+2d51fd19,Loops,2,1,14,1,1
+e1571e55,Dynamic Programming,4,1,38,0,0
+b8b005de,Functions,2,3,28,1,0
+7882fad6,Dynamic Programming,4,3,49,1,0
+fe579de6,Loops,2,3,24,0,0
+5c2bc04a,Loops,2,2,22,0,0
+09505742,Recursion,3,2,30,0,0
+ecbc285c,Functions,2,3,34,0,0
+0db3460b,Functions,2,2,25,0,0
+67386278,Dynamic Programming,4,2,37,0,0
+2d51fd19,Dynamic Programming,4,2,35,0,0
+faf2230c,Dynamic Programming,4,1,38,0,0
+28fc7c4c,Dynamic Programming,4,1,36,0,0
+7498baf0,Recursion,3,2,37,1,0
+d20907be,Variables,1,2,25,1,0
+b87fb52d,Variables,1,1,12,1,1
+5537bfd1,Dynamic Programming,4,3,40,0,0
+c1db4161,Functions,2,3,31,0,0
+dc54d27c,Dynamic Programming,4,1,35,0,0
+84c8caac,Recursion,3,1,34,1,0
+86878cf1,Dynamic Programming,4,2,39,0,0
+a13cc4dc,Dynamic Programming,4,1,19,0,0
+1e9af1a8,Loops,2,1,21,1,0
+f2af96c0,Functions,2,1,38,1,0
+f6bfc15f,Recursion,3,1,38,0,0
+0ae7c5b8,Functions,2,2,32,1,0
+9f98a2dc,Recursion,3,1,26,1,0
+d20907be,Recursion,3,1,27,1,0
+00e69998,Recursion,3,1,31,1,0
+6313f2f8,Recursion,3,2,31,1,0
+82b05027,Functions,2,1,14,1,0
+00a8a9a8,Loops,2,3,24,0,0
+049fc19a,Dynamic Programming,4,2,38,1,0
+5ac87020,Functions,2,1,17,0,0
+dc54d27c,Functions,2,2,25,1,0
+5e4c63f7,Dynamic Programming,4,1,20,0,0
+ccd462cf,Dynamic Programming,4,3,24,0,0
+0fa3f87c,Variables,1,3,26,0,0
+e6237686,Variables,1,3,19,0,0
+abb9c659,Recursion,3,2,36,0,0
+d611361f,Loops,2,1,36,1,0
+22394829,Dynamic Programming,4,2,36,1,0
+b87fb52d,Variables,1,2,26,1,0
+7498baf0,Dynamic Programming,4,1,28,1,0
+56060b4d,Recursion,3,3,29,0,0
+dc54d27c,Loops,2,2,42,0,0
+92807a16,Dynamic Programming,4,1,42,0,0
+25c83068,Loops,2,3,28,0,0
+fe579de6,Dynamic Programming,4,3,47,0,0
+4334f0ec,Recursion,3,2,36,1,0
+bd0c2b39,Recursion,3,2,20,0,0
+03f4c13e,Dynamic Programming,4,2,27,0,0
+342d668c,Dynamic Programming,4,1,27,0,0
+3d1f9bcf,Variables,1,2,25,1,0
+abb9c659,Functions,2,1,43,1,0
+dbd84587,Dynamic Programming,4,1,41,0,0
+5c2bc04a,Variables,1,2,23,1,0
+09505742,Loops,2,2,23,0,0
+60e2fa70,Dynamic Programming,4,3,35,0,0
+a13cc4dc,Functions,2,2,25,1,0
+25823a23,Loops,2,1,30,1,1
+5c2bc04a,Recursion,3,2,37,0,0
+dbd84587,Functions,2,2,25,0,0
+80f3d5b0,Loops,2,3,22,0,0
+c5ebe991,Recursion,3,1,31,0,0
+1d4c9cc0,Loops,2,1,29,1,0
+96ed030e,Dynamic Programming,4,3,44,0,0
+629f1950,Recursion,3,2,25,0,0
+c30bfd68,Dynamic Programming,4,3,41,1,0
+a13cc4dc,Dynamic Programming,4,2,30,1,0
+f6bfc15f,Loops,2,1,21,1,0
+30b66672,Variables,1,1,24,1,1
+5745afc1,Functions,2,1,40,0,0
+543086ca,Dynamic Programming,4,3,51,0,0
+c30bde50,Variables,1,3,23,0,0
+697ebb27,Loops,2,3,46,0,0
+7d83aaa2,Functions,2,1,28,1,0
+b87fb52d,Recursion,3,2,28,1,0
+e11c2057,Recursion,3,2,39,0,0
+84b563ae,Functions,2,2,38,1,0
+60b5d26b,Recursion,3,1,40,1,0
+e3f0ada2,Functions,2,1,34,0,0
+faf2230c,Loops,2,2,29,0,0
+4fb1bc31,Variables,1,2,27,1,1
+f6bfc15f,Dynamic Programming,4,2,27,1,0
+163a7d7d,Recursion,3,1,31,1,0
+1104d582,Dynamic Programming,4,3,36,0,0
+b1694887,Recursion,3,1,20,0,0
+72ddfa48,Functions,2,1,21,0,0
+c54abbb6,Recursion,3,2,25,1,0
+7eb5baa2,Variables,1,3,23,0,0
+e96f6898,Dynamic Programming,4,3,43,0,0
+96ed030e,Functions,2,1,28,1,0
+e9b79c29,Loops,2,1,24,1,0
+38caeb3c,Dynamic Programming,4,1,33,0,0
+aa8a37f4,Functions,2,2,29,1,1
+a8070b67,Variables,1,1,20,1,1
+48123c8b,Functions,2,1,37,0,0
+859789fb,Loops,2,1,16,1,1
+0db3460b,Recursion,3,2,41,1,0
+c06c593a,Variables,1,1,27,0,0
+25823a23,Recursion,3,1,42,1,0
+e9b79c29,Loops,2,2,33,0,0
+2a9272f0,Recursion,3,1,21,0,0
+080b3811,Functions,2,1,21,1,0
+28fc7c4c,Variables,1,1,35,0,0
+4f4a93f9,Functions,2,1,35,0,0
+8fb1f315,Recursion,3,1,34,1,0
+d41f22aa,Functions,2,1,36,0,0
+c1db4161,Dynamic Programming,4,1,33,0,0
+39119303,Loops,2,1,40,1,1
+cc50d102,Dynamic Programming,4,1,19,1,0
+c1db4161,Loops,2,1,30,1,1
+3dfc2e3a,Functions,2,2,54,0,0
+bd0c2b39,Dynamic Programming,4,1,33,0,0
+1932d7f3,Functions,2,2,18,0,0
+b3f64f19,Recursion,3,3,38,0,0
+dc2ec317,Functions,2,1,21,1,1
+73b88305,Functions,2,2,35,0,0
+03e26a0b,Dynamic Programming,4,2,39,0,0
+4eba48a6,Loops,2,1,33,0,0
+0413c097,Recursion,3,1,44,0,0
+39119303,Recursion,3,1,23,0,0
+40bdcaf0,Functions,2,1,23,0,0
+75eee0b0,Dynamic Programming,4,1,37,0,0
+8fb1f315,Functions,2,1,19,0,0
+0fa3f87c,Loops,2,3,24,0,0
+f6bfc15f,Loops,2,1,27,0,0
+bf0e5c55,Variables,1,1,22,0,0
+09505742,Variables,1,2,27,0,0
+1f33c4ce,Loops,2,2,30,0,0
+1214605f,Loops,2,1,5,1,1
+56060b4d,Dynamic Programming,4,2,39,0,0
+03f4c13e,Functions,2,1,15,0,0
+d63b006e,Loops,2,3,28,0,0
+c1db4161,Functions,2,1,14,1,1
+a4e0c28d,Functions,2,2,35,1,0
+96ed030e,Recursion,3,1,27,1,0
+66429af5,Functions,2,1,26,0,0
+b3f64f19,Functions,2,3,23,0,0
+5e4c63f7,Loops,2,2,30,1,0
+dc54d27c,Loops,2,2,36,0,0
+faf2230c,Dynamic Programming,4,1,25,1,0
+45b5de1a,Variables,1,2,30,0,0
+b87fb52d,Variables,1,2,32,1,0
+c21eefb7,Functions,2,1,7,0,0
+84b563ae,Variables,1,3,31,0,0
+82b05027,Variables,1,3,37,1,1
+72ddfa48,Variables,1,3,37,0,0
+5ac87020,Functions,2,1,40,0,0
+342d668c,Functions,2,1,24,1,1
+b8b005de,Recursion,3,3,50,0,0
+5ac87020,Variables,1,3,32,0,0
+ec60e30b,Recursion,3,2,34,1,0
+39119303,Recursion,3,2,29,0,0
+e6237686,Functions,2,3,30,0,0
+3d59b919,Functions,2,2,19,1,0
+d611361f,Variables,1,1,37,1,1
+f4ad70ed,Functions,2,2,33,1,0
+4e096844,Functions,2,1,29,0,0
+bf0e5c55,Recursion,3,1,20,0,0
+8680f577,Loops,2,1,23,0,0
+b1694887,Variables,1,3,30,1,0
+72ddfa48,Dynamic Programming,4,1,19,1,0
+99e180db,Recursion,3,1,38,0,0
+3263dca5,Loops,2,3,27,1,0
+0fa3f87c,Loops,2,1,36,0,0
+5745afc1,Recursion,3,3,38,1,0
+0db3460b,Dynamic Programming,4,1,36,0,0
+0e79cd40,Dynamic Programming,4,2,44,0,0
+e11c2057,Recursion,3,1,24,1,0
+1d4c9cc0,Variables,1,2,22,0,0
+0413c097,Loops,2,1,30,0,0
+847c54fb,Loops,2,1,11,1,1
+3d69c0ca,Variables,1,3,30,0,0
+6c985f1e,Functions,2,1,30,0,0
+a8e1ff27,Functions,2,1,25,0,0
+7eb5baa2,Variables,1,2,29,1,0
+637f435d,Variables,1,1,27,1,1
+9f98a2dc,Functions,2,2,30,1,0
+b41f7116,Dynamic Programming,4,2,43,1,0
+daee0007,Variables,1,2,32,0,0
+84b563ae,Loops,2,2,19,0,0
+5537bfd1,Variables,1,2,44,1,0
+717f86c2,Dynamic Programming,4,1,29,0,0
+25823a23,Variables,1,3,18,0,0
+7eb5baa2,Variables,1,2,35,1,1
+45b5de1a,Loops,2,2,25,1,0
+c1db4161,Variables,1,2,33,1,1
+1c4b0d66,Variables,1,1,47,1,1
+abb9c659,Functions,2,3,25,1,0
+6c985f1e,Variables,1,1,22,1,1
+0bbd03f9,Recursion,3,2,45,0,0
+f1fc10b2,Loops,2,2,28,0,0
+c1c9edb9,Recursion,3,1,21,0,0
+a13cc4dc,Dynamic Programming,4,2,43,0,0
+049fc19a,Dynamic Programming,4,2,25,0,0
+56060b4d,Loops,2,1,26,1,1
+d20907be,Variables,1,3,37,0,0
+717f86c2,Dynamic Programming,4,2,30,0,0
+b3f64f19,Recursion,3,1,27,0,0
+09505742,Recursion,3,1,32,0,0
+91e64a70,Loops,2,1,31,1,1
+bd0c2b39,Dynamic Programming,4,1,41,0,0
+c54abbb6,Recursion,3,1,32,1,0
+057a3be1,Loops,2,2,27,0,0
+03f4c13e,Recursion,3,2,32,1,0
+fdb66605,Dynamic Programming,4,1,29,0,0
+1d4c9cc0,Functions,2,2,35,0,0
+a83e881d,Variables,1,2,32,0,0
+1f33c4ce,Dynamic Programming,4,2,27,1,0
+4ecbb3b7,Recursion,3,1,39,1,0
+3a9f6f1f,Functions,2,1,23,1,0
+8539e3ec,Loops,2,1,34,0,0
+00e69998,Dynamic Programming,4,3,30,0,0
+6c6ea779,Functions,2,2,30,1,1
+39119303,Variables,1,2,17,1,1
+38caeb3c,Loops,2,2,23,0,0
+080b3811,Recursion,3,1,45,1,0
+aa8a37f4,Dynamic Programming,4,2,48,1,0
+84c8caac,Functions,2,1,35,1,0
+03e26a0b,Functions,2,1,23,0,0
+4eba48a6,Recursion,3,1,39,1,1
+a749cce0,Dynamic Programming,4,2,31,0,0
+fdb66605,Recursion,3,3,34,0,0
+7498baf0,Functions,2,3,31,0,0
+d41f22aa,Recursion,3,3,32,0,0
+e6574e00,Dynamic Programming,4,2,33,1,0
+0f512b8e,Recursion,3,2,27,0,0
+8680f577,Recursion,3,3,46,0,0
+52ff1a49,Loops,2,2,40,1,0
+f1fc10b2,Loops,2,2,27,1,1
+0813b66c,Variables,1,1,23,0,0
+c5ebe991,Dynamic Programming,4,2,45,0,0
+1f33c4ce,Functions,2,1,12,1,0
+b3f64f19,Variables,1,1,18,0,0
+0e79cd40,Loops,2,2,14,1,0
+0f512b8e,Recursion,3,3,29,0,0
+64f6fedd,Variables,1,2,34,1,1
+7882fad6,Functions,2,1,32,0,0
+27b49b90,Recursion,3,1,31,1,0
+5c2bc04a,Variables,1,2,19,1,0
+b41f7116,Loops,2,1,26,1,0
+283b0d8b,Functions,2,3,22,1,0
+c5ebe991,Dynamic Programming,4,2,37,0,0
+72ddfa48,Functions,2,3,30,0,0
+e9d0c683,Variables,1,3,36,0,0
+84392e9a,Loops,2,3,29,0,0
+e9b79c29,Loops,2,3,27,1,0
+c0a8a86f,Variables,1,1,38,1,1
+1e9af1a8,Recursion,3,1,15,0,0
+faf2230c,Dynamic Programming,4,2,33,0,0
+e9d0c683,Dynamic Programming,4,1,37,0,0
+0f512b8e,Functions,2,2,26,1,0
+c0a8a86f,Functions,2,2,37,1,0
+df9ead78,Recursion,3,1,17,1,0
+163a7d7d,Variables,1,1,21,1,0
+0db3460b,Functions,2,3,37,0,0
+39119303,Variables,1,3,36,0,0
+80f3d5b0,Dynamic Programming,4,2,50,0,0
+fdb66605,Recursion,3,2,41,0,0
+73b88305,Loops,2,1,30,1,1
+cbc58144,Variables,1,1,31,1,0
+ec60e30b,Dynamic Programming,4,2,28,1,0
+b8b005de,Functions,2,1,15,1,1
+c1db4161,Loops,2,1,24,1,0
+f1fc10b2,Loops,2,1,28,1,0
+283b0d8b,Recursion,3,2,31,0,0
+cbc58144,Dynamic Programming,4,2,30,0,0
+897979a0,Loops,2,2,37,0,0
+75eee0b0,Recursion,3,1,21,0,0
+3f3826f3,Recursion,3,3,29,0,0
+82b05027,Dynamic Programming,4,1,40,0,0
+c30bfd68,Recursion,3,1,33,1,0
+cce7da75,Dynamic Programming,4,2,41,0,0
+080b3811,Dynamic Programming,4,2,41,0,0
+a8070b67,Loops,2,2,22,0,0
+a6e23819,Variables,1,1,28,1,1
+5c2bc04a,Loops,2,1,29,1,0
+0ae7c5b8,Dynamic Programming,4,1,39,1,0
+27b49b90,Dynamic Programming,4,3,30,0,0
+163a7d7d,Loops,2,1,27,1,1
+e6574e00,Variables,1,1,19,1,1
+67386278,Recursion,3,2,20,1,0
+0413c097,Variables,1,1,27,1,1
+e96f6898,Recursion,3,1,44,0,0
+cb7b5ea5,Recursion,3,2,28,1,0
+8fb1f315,Functions,2,1,26,1,0
+e6574e00,Recursion,3,1,34,0,0
+84b563ae,Loops,2,1,22,1,1
+0f512b8e,Dynamic Programming,4,1,38,0,0
+1f33c4ce,Loops,2,1,25,0,0
+35645b69,Dynamic Programming,4,3,61,0,0
+b41f7116,Functions,2,1,38,1,1
+283b0d8b,Dynamic Programming,4,1,41,0,0
+73b88305,Dynamic Programming,4,1,37,1,0
+84392e9a,Variables,1,1,40,0,0
+049fc19a,Loops,2,3,23,0,0
+e5b4ad69,Loops,2,1,35,0,0
+abb9c659,Recursion,3,2,37,1,0
+0813b66c,Variables,1,3,33,1,0
+03e26a0b,Functions,2,3,24,0,0
+8539e3ec,Variables,1,2,34,1,0
+39119303,Dynamic Programming,4,2,57,0,0
+0413c097,Recursion,3,1,39,1,0
+45b5de1a,Dynamic Programming,4,1,40,0,0
+d49f68ef,Recursion,3,3,23,0,0
+717f86c2,Loops,2,1,32,1,0
+b8b005de,Variables,1,1,13,1,1
+38caeb3c,Functions,2,3,21,1,0
+5537bfd1,Variables,1,3,27,1,1
+6c0d033e,Loops,2,3,41,0,0
+7e3123d1,Functions,2,3,41,0,0
+b87fb52d,Dynamic Programming,4,1,30,0,0
+595afe07,Variables,1,1,24,0,0
+e5b4ad69,Functions,2,3,28,1,0
+1c4b0d66,Functions,2,3,27,0,0
+847c54fb,Dynamic Programming,4,1,30,0,0
+bf0e5c55,Loops,2,2,41,1,0
+8fb1f315,Functions,2,1,43,1,1
+6313f2f8,Dynamic Programming,4,1,34,0,0
+cb7b5ea5,Variables,1,1,23,1,1
+595afe07,Functions,2,3,24,0,0
+96ed030e,Loops,2,2,40,0,0
+c9d83e66,Loops,2,2,32,1,0
+897979a0,Dynamic Programming,4,1,26,0,0
+0413c097,Variables,1,1,19,1,1
+cc50d102,Variables,1,1,18,1,1
+697ebb27,Variables,1,1,5,0,0
+6c985f1e,Functions,2,2,47,0,0
+859789fb,Functions,2,2,25,0,0
+d26e930c,Loops,2,1,19,1,0
+a749cce0,Dynamic Programming,4,1,45,0,0
+daee0007,Variables,1,2,32,1,0
+60b5d26b,Variables,1,2,16,1,0
+d63b006e,Recursion,3,3,25,0,0
+e9b79c29,Functions,2,3,21,1,0
+fe579de6,Recursion,3,1,35,0,0
+d26e930c,Recursion,3,1,37,0,0
+e96f6898,Functions,2,2,25,1,0
+b8b005de,Dynamic Programming,4,2,28,1,0
+6c0d033e,Functions,2,1,18,0,0
+3a9f6f1f,Loops,2,1,27,1,1
+a4e0c28d,Dynamic Programming,4,1,46,0,0
+daee0007,Functions,2,1,23,0,0
+28fc7c4c,Variables,1,1,22,0,0
+590f8480,Dynamic Programming,4,2,43,1,0
+cb7b5ea5,Loops,2,1,28,0,0
+2dd0eb22,Dynamic Programming,4,1,31,1,0
+67386278,Variables,1,1,29,0,0
+c54abbb6,Loops,2,2,30,1,0
+1d4c9cc0,Variables,1,1,27,0,0
+e96f6898,Variables,1,1,22,0,0
+9f98a2dc,Dynamic Programming,4,1,37,0,0
+cb7b5ea5,Dynamic Programming,4,2,39,0,0
+29d8241a,Loops,2,2,50,1,0
+45b5de1a,Loops,2,1,24,0,0
+99e180db,Variables,1,2,34,0,0
+60e2fa70,Variables,1,1,23,1,0
+3d59b919,Loops,2,3,37,0,0
+fdb66605,Variables,1,1,29,1,1
+859789fb,Variables,1,2,19,0,0
+c30bde50,Functions,2,2,35,1,1
+7e3123d1,Variables,1,2,29,0,0
+1b3c9480,Functions,2,1,25,0,0
+7498baf0,Functions,2,1,28,0,0
+5745afc1,Recursion,3,3,23,0,0
+8fb1f315,Recursion,3,1,33,1,0
+1104d582,Variables,1,3,23,1,0
+86878cf1,Functions,2,1,23,1,1
+e33fb13f,Loops,2,1,44,1,1
+e6574e00,Functions,2,1,30,0,0
+09505742,Recursion,3,1,29,1,0
+e6d5e657,Variables,1,3,25,0,0
+6313f2f8,Recursion,3,1,24,0,0
+a9b93c93,Variables,1,2,23,1,1
+fdb66605,Recursion,3,2,22,1,0
+0bbd03f9,Dynamic Programming,4,3,29,1,0
+e6237686,Loops,2,2,16,0,0
+7498baf0,Functions,2,1,37,1,1
+1104d582,Functions,2,3,38,0,0
+f6bfc15f,Recursion,3,2,25,0,0
+56060b4d,Functions,2,2,37,0,0
+96afdb6a,Recursion,3,2,28,0,0
+abb9c659,Loops,2,1,38,1,0
+cce7da75,Dynamic Programming,4,2,28,0,0
+1e9af1a8,Functions,2,1,15,0,0
+3d1f9bcf,Variables,1,1,32,1,1
+d20907be,Functions,2,3,39,1,0
+39119303,Dynamic Programming,4,2,16,0,0
+a749cce0,Loops,2,1,34,1,1
+b41f7116,Functions,2,1,32,1,0
+25823a23,Variables,1,1,19,0,0
+00e69998,Dynamic Programming,4,1,29,0,0
+dc54d27c,Loops,2,1,43,1,1
+fe579de6,Dynamic Programming,4,2,43,0,0
+7d83aaa2,Recursion,3,1,24,1,0
+48123c8b,Loops,2,1,26,1,0
+342d668c,Loops,2,1,22,1,1
+fe579de6,Dynamic Programming,4,2,30,1,0
+faf2230c,Dynamic Programming,4,1,48,1,0
+ecbc285c,Recursion,3,3,32,1,0
+56060b4d,Recursion,3,1,42,0,0
+897979a0,Recursion,3,2,29,1,0
+cbc58144,Dynamic Programming,4,2,35,1,0
+1104d582,Functions,2,2,31,0,0
+b1694887,Functions,2,3,34,0,0
+7498baf0,Variables,1,1,18,0,0
+00e69998,Variables,1,1,18,1,1
+7b55af79,Variables,1,2,24,1,1
+b08626e4,Loops,2,2,21,0,0
+f4ad70ed,Functions,2,3,10,0,0
+25c83068,Loops,2,1,38,1,0
+8539e3ec,Variables,1,1,20,1,1
+44e50da6,Loops,2,3,25,0,0
+73b88305,Recursion,3,3,19,1,0
+f4ad70ed,Functions,2,2,34,0,0
+44110570,Recursion,3,2,29,0,0
+629f1950,Dynamic Programming,4,2,39,1,0
+b8b005de,Dynamic Programming,4,3,38,0,0
+faf2230c,Loops,2,2,24,0,0
+c30bfd68,Dynamic Programming,4,1,56,0,0
+2a9272f0,Dynamic Programming,4,3,31,0,0
+283b0d8b,Loops,2,3,43,1,0
+84392e9a,Loops,2,2,32,1,0
+d20907be,Dynamic Programming,4,1,39,0,0
+3d1f9bcf,Recursion,3,3,28,0,0
+d49f68ef,Dynamic Programming,4,2,37,1,0
+8539e3ec,Dynamic Programming,4,1,46,0,0
+75eee0b0,Variables,1,2,33,0,0
+b41f7116,Recursion,3,1,30,0,0
+56060b4d,Functions,2,1,23,1,1
+52ff1a49,Variables,1,1,39,1,1
+a9b93c93,Recursion,3,1,28,0,0
+b41f7116,Recursion,3,1,32,0,0
+0db3460b,Functions,2,3,26,0,0
+e3f0ada2,Dynamic Programming,4,1,18,0,0
+bf0e5c55,Recursion,3,1,28,0,0
+049fc19a,Dynamic Programming,4,1,22,0,0
+73b88305,Dynamic Programming,4,1,37,0,0
+2a9272f0,Recursion,3,2,31,0,0
+342d668c,Variables,1,2,28,1,1
+c21eefb7,Recursion,3,3,38,0,0
+6313f2f8,Dynamic Programming,4,1,17,1,0
+1104d582,Recursion,3,1,39,1,0
+9f98a2dc,Dynamic Programming,4,1,22,1,0
+daee0007,Loops,2,1,34,1,0
+96ed030e,Recursion,3,3,31,1,0
+8fb1f315,Recursion,3,2,24,1,0
+c1db4161,Variables,1,2,38,1,1
+629f1950,Loops,2,1,33,0,0
+1d9fc720,Variables,1,3,21,0,0
+b1694887,Recursion,3,1,38,0,0
+717f86c2,Recursion,3,1,28,0,0
+d20907be,Dynamic Programming,4,3,36,0,0
+84c8caac,Dynamic Programming,4,3,40,0,0
+56060b4d,Functions,2,1,26,0,0
+73b88305,Dynamic Programming,4,1,31,0,0
+e6574e00,Loops,2,1,29,1,1
+f2af96c0,Functions,2,2,26,0,0
+f1fc10b2,Variables,1,1,38,1,0
+e9b79c29,Recursion,3,2,16,1,0
+25823a23,Functions,2,2,23,0,0
+1bd8d2b4,Variables,1,3,26,0,0
+1c4b0d66,Variables,1,2,23,0,0
+a6e23819,Loops,2,1,29,0,0
+35645b69,Dynamic Programming,4,3,41,0,0
+5745afc1,Variables,1,1,27,0,0
+29da264a,Variables,1,1,30,1,1
+e5b4ad69,Loops,2,1,32,0,0
+629f1950,Recursion,3,2,41,1,0
+1104d582,Loops,2,1,25,1,0
+163a7d7d,Functions,2,1,19,0,0
+d7be5c1e,Functions,2,1,33,1,0
+b3f64f19,Recursion,3,2,28,0,0
+a8e1ff27,Functions,2,2,33,1,0
+4ecbb3b7,Dynamic Programming,4,1,32,1,0
+d41f22aa,Functions,2,1,31,1,0
+d49f68ef,Loops,2,1,30,0,0
+5064bff6,Functions,2,2,25,1,0
+40bdcaf0,Recursion,3,1,32,0,0
+c06c593a,Loops,2,1,19,0,0
+4eba48a6,Dynamic Programming,4,1,44,1,0
+e9b79c29,Variables,1,2,31,1,0
+1bd8d2b4,Functions,2,3,33,0,0
+91e64a70,Variables,1,3,32,1,0
+0ae7c5b8,Variables,1,1,27,0,0
+40bdcaf0,Variables,1,3,33,1,1
+6c6ea779,Dynamic Programming,4,3,42,0,0
+5ac87020,Dynamic Programming,4,1,34,0,0
+aa8a37f4,Functions,2,1,21,1,0
+d7be5c1e,Recursion,3,2,27,0,0
+86878cf1,Variables,1,2,14,0,0
+0413c097,Recursion,3,1,30,0,0
+3d1f9bcf,Functions,2,2,15,1,0
+60e2fa70,Functions,2,2,36,0,0
+60b5d26b,Recursion,3,3,38,0,0
+fdb66605,Functions,2,2,27,1,0
+bf0e5c55,Functions,2,2,28,1,0
+e5b4ad69,Dynamic Programming,4,1,48,0,0
+3f3826f3,Functions,2,1,24,1,1
+3a9f6f1f,Dynamic Programming,4,1,37,1,0
+fdb66605,Loops,2,2,34,1,0
+d26e930c,Dynamic Programming,4,3,33,0,0
+cd86db99,Variables,1,1,20,0,0
+6e99ac2f,Variables,1,1,11,1,1
+c0a8a86f,Variables,1,1,24,1,1
+e5b4ad69,Dynamic Programming,4,1,26,1,0
+faf2230c,Dynamic Programming,4,1,17,1,0
+7d83aaa2,Variables,1,1,31,0,0
+dbd84587,Functions,2,1,37,1,1
+a749cce0,Variables,1,2,34,1,0
+283b0d8b,Variables,1,3,12,0,0
+697ebb27,Recursion,3,3,38,0,0
+e3f0ada2,Variables,1,1,31,1,1
+2a9272f0,Variables,1,2,36,1,1
+0e79cd40,Recursion,3,1,18,1,0
+1f33c4ce,Loops,2,3,13,0,0
+8e5699ff,Loops,2,3,25,0,0
+df9ead78,Loops,2,1,22,1,1
+283b0d8b,Functions,2,3,46,1,0
+c30bde50,Variables,1,2,27,1,1
+0813b66c,Functions,2,1,13,0,0
+e9b79c29,Recursion,3,3,39,0,0
+75eee0b0,Functions,2,3,33,1,0
+a83e881d,Variables,1,1,33,1,1
+44e50da6,Variables,1,1,23,1,1
+27b49b90,Loops,2,1,19,0,0
+ecbc285c,Dynamic Programming,4,3,35,0,0
+d611361f,Functions,2,2,44,0,0
+1bd8d2b4,Variables,1,2,33,1,0
+e6574e00,Loops,2,1,28,0,0
+c30bfd68,Variables,1,2,29,1,0
+69487be7,Variables,1,3,30,0,0
+82b05027,Recursion,3,1,37,0,0
+1e9af1a8,Dynamic Programming,4,1,17,0,0
+0fa3f87c,Variables,1,2,35,1,0
+cbc58144,Variables,1,1,34,1,1
+1f33c4ce,Recursion,3,2,34,0,0
+847c54fb,Variables,1,2,19,0,0
+2a9272f0,Loops,2,2,27,0,0
+6e99ac2f,Dynamic Programming,4,1,34,0,0
+bd0c2b39,Functions,2,1,36,0,0
+e6237686,Functions,2,2,18,1,0
+5e4c63f7,Variables,1,3,38,1,0
+4ecbb3b7,Functions,2,1,34,0,0
+e9b79c29,Functions,2,2,32,0,0
+049fc19a,Functions,2,1,30,0,0
+4f4a93f9,Loops,2,1,26,1,1
+c9d83e66,Variables,1,3,38,1,0
+dbd84587,Variables,1,1,31,0,0
+00a8a9a8,Loops,2,1,31,0,0
+c30bde50,Functions,2,3,40,0,0
+29da264a,Loops,2,3,27,0,0
+0efdd7c7,Loops,2,1,19,1,0
+717f86c2,Recursion,3,2,30,0,0
+5e4c63f7,Functions,2,1,34,1,1
+1661ded5,Variables,1,2,29,0,0
+56060b4d,Loops,2,1,36,0,0
+8e5699ff,Functions,2,1,29,1,1
+d26e930c,Functions,2,2,29,0,0
+cb7b5ea5,Loops,2,1,26,1,0
+dc2ec317,Loops,2,1,26,0,0
+91e64a70,Functions,2,2,43,0,0
+dc54d27c,Loops,2,2,36,0,0
+cb7b5ea5,Variables,1,1,27,1,1
+d49f68ef,Loops,2,1,22,0,0
+ccd462cf,Loops,2,1,17,0,0
+1c4b0d66,Dynamic Programming,4,2,25,0,0
+0efdd7c7,Recursion,3,2,33,0,0
+d63b006e,Variables,1,1,14,0,0
+00e69998,Dynamic Programming,4,1,17,0,0
+65c08f13,Dynamic Programming,4,3,47,0,0
+08d327e6,Loops,2,1,30,1,0
+35645b69,Loops,2,1,24,1,0
+00a8a9a8,Dynamic Programming,4,1,36,0,0
+d41f22aa,Recursion,3,1,34,1,0
+75eee0b0,Variables,1,1,19,1,0
+a749cce0,Recursion,3,1,28,1,0
+a13cc4dc,Recursion,3,2,29,1,0
+897979a0,Loops,2,2,23,1,0
+1d9fc720,Loops,2,2,38,1,0
+8fb1f315,Dynamic Programming,4,1,34,0,0
+d20907be,Recursion,3,1,36,0,0
+b08626e4,Dynamic Programming,4,2,42,1,0
+f1fc10b2,Recursion,3,1,36,1,0
+45b5de1a,Dynamic Programming,4,2,28,0,0
+c30bde50,Variables,1,3,29,1,0
+1932d7f3,Functions,2,2,21,0,0
+0f512b8e,Dynamic Programming,4,2,13,0,0
+847c54fb,Functions,2,2,31,0,0
+44110570,Loops,2,1,21,0,0
+8680f577,Recursion,3,1,21,0,0
+f6bfc15f,Functions,2,2,46,1,0
+7498baf0,Dynamic Programming,4,2,32,1,0
+697ebb27,Dynamic Programming,4,3,35,0,0
+cc50d102,Functions,2,2,40,0,0
+6c6ea779,Dynamic Programming,4,1,15,0,0
+faf2230c,Dynamic Programming,4,1,47,1,0
+48123c8b,Loops,2,2,18,1,0
+3d59b919,Dynamic Programming,4,2,30,0,0
+6c985f1e,Loops,2,2,13,1,0
+637f435d,Functions,2,2,32,0,0
+3263dca5,Loops,2,1,23,0,0
+590f8480,Recursion,3,2,37,1,0
+66429af5,Dynamic Programming,4,1,37,0,0
+7d83aaa2,Recursion,3,2,38,0,0
+a9b93c93,Functions,2,1,23,0,0
+65c08f13,Variables,1,1,32,1,1
+48123c8b,Recursion,3,2,41,1,0
+7882fad6,Functions,2,2,22,0,0
+5e4c63f7,Variables,1,2,23,1,1
+c1db4161,Functions,2,3,35,1,0
+d20907be,Recursion,3,3,39,1,0
+5ac87020,Dynamic Programming,4,2,32,0,0
+0db3460b,Loops,2,1,28,1,1
+92807a16,Loops,2,3,33,1,0
+59811e5d,Dynamic Programming,4,1,37,1,0
+c30bde50,Loops,2,1,32,1,0
+df9ead78,Dynamic Programming,4,2,45,0,0
+2a9272f0,Dynamic Programming,4,2,23,1,0
+3dfc2e3a,Dynamic Programming,4,1,51,1,0
+f1fc10b2,Variables,1,1,44,0,0
+91e64a70,Dynamic Programming,4,1,32,1,0
+e9d0c683,Variables,1,3,33,0,0
+35645b69,Loops,2,1,29,0,0
+03e26a0b,Functions,2,1,25,0,0
+590f8480,Recursion,3,1,16,0,0
+543086ca,Recursion,3,2,51,0,0
+0ae7c5b8,Variables,1,2,31,0,0
+c9d83e66,Recursion,3,1,38,0,0
+38caeb3c,Dynamic Programming,4,1,32,0,0
+c06c593a,Loops,2,1,19,1,0
+25c83068,Functions,2,2,25,0,0
+f4ad70ed,Loops,2,1,24,0,0
+bd0c2b39,Functions,2,2,22,0,0
+e9b79c29,Recursion,3,2,41,0,0
+0efdd7c7,Functions,2,1,28,1,0
+5745afc1,Functions,2,3,13,1,0
+f4ad70ed,Loops,2,2,30,0,0
+48123c8b,Dynamic Programming,4,2,46,0,0
+29da264a,Variables,1,1,25,0,0
+0bbd03f9,Loops,2,2,24,1,0
+cbc58144,Functions,2,2,35,0,0
+abb9c659,Dynamic Programming,4,1,23,0,0
+1f33c4ce,Loops,2,3,33,1,0
+0413c097,Variables,1,1,25,0,0
+a9b93c93,Variables,1,1,31,0,0
+48123c8b,Loops,2,2,33,1,0
+3263dca5,Functions,2,1,22,1,1
+b87fb52d,Recursion,3,2,25,0,0
+96ed030e,Variables,1,3,21,1,0
+96f5f1e4,Recursion,3,2,26,0,0
+c30bde50,Recursion,3,3,44,1,0
+ec60e30b,Functions,2,1,21,0,0
+f64a2ed0,Recursion,3,1,30,0,0
+b87fb52d,Variables,1,1,35,1,1
+d7be5c1e,Loops,2,1,33,1,1
+4eba48a6,Recursion,3,2,40,1,0
+859789fb,Variables,1,1,20,1,1
+2dd0eb22,Functions,2,3,30,0,0
+3a9f6f1f,Dynamic Programming,4,1,38,0,0
+ec846410,Variables,1,2,37,1,1
+3f3826f3,Dynamic Programming,4,2,36,0,0
+8539e3ec,Recursion,3,1,46,0,0
+b87fb52d,Functions,2,2,40,0,0
+0e79cd40,Functions,2,2,40,0,0
+25823a23,Recursion,3,1,34,1,0
+56060b4d,Functions,2,3,34,0,0
+6313f2f8,Recursion,3,1,22,0,0
+b08626e4,Dynamic Programming,4,1,29,0,0
+52ff1a49,Functions,2,3,47,1,0
+30b66672,Loops,2,2,37,0,0
+1f33c4ce,Variables,1,1,6,0,0
+2a9272f0,Loops,2,2,25,0,0
+2a9272f0,Dynamic Programming,4,2,33,0,0
+cb7b5ea5,Loops,2,2,26,0,0
+1e9af1a8,Recursion,3,2,48,0,0
+590f8480,Loops,2,1,27,0,0
+52ff1a49,Loops,2,3,36,0,0
+7b55af79,Loops,2,1,30,0,0
+e9b79c29,Loops,2,1,36,1,0
+a13cc4dc,Dynamic Programming,4,2,37,0,0
+daee0007,Variables,1,3,24,0,0
+5c2bc04a,Loops,2,1,41,0,0
+f4ad70ed,Loops,2,1,34,0,0
+cd86db99,Functions,2,2,29,0,0
+0ae7c5b8,Recursion,3,2,28,0,0
+3f3826f3,Recursion,3,1,50,0,0
+d611361f,Loops,2,2,31,1,0
+2d51fd19,Recursion,3,2,46,0,0
+e9b79c29,Functions,2,1,25,1,0
+cce7da75,Functions,2,3,12,0,0
+08b99ac1,Loops,2,1,39,0,0
+717f86c2,Functions,2,1,32,0,0
+25823a23,Loops,2,2,28,1,0
+ec60e30b,Loops,2,1,19,0,0
+29da264a,Loops,2,2,26,1,0
+d26e930c,Variables,1,3,29,0,0
+cb7b5ea5,Dynamic Programming,4,2,27,0,0
+b41f7116,Dynamic Programming,4,2,37,0,0
+4f4a93f9,Recursion,3,2,37,1,0
+8e5699ff,Loops,2,1,25,0,0
+4334f0ec,Variables,1,1,27,0,0
+c21eefb7,Dynamic Programming,4,1,31,1,0
+52ff1a49,Functions,2,2,26,1,0
+6e99ac2f,Variables,1,3,37,0,0
+a6e23819,Recursion,3,1,31,1,0
+a4e0c28d,Variables,1,2,27,1,0
+3a9f6f1f,Loops,2,1,28,0,0
+60e2fa70,Dynamic Programming,4,2,41,0,0
+44110570,Dynamic Programming,4,2,33,0,0
+96afdb6a,Dynamic Programming,4,3,39,0,0
+629f1950,Dynamic Programming,4,2,35,0,0
+08b99ac1,Recursion,3,2,45,1,0
+5e4c63f7,Variables,1,1,31,1,1
+d20907be,Recursion,3,1,33,1,0
+2d51fd19,Recursion,3,1,30,1,0
+b3f64f19,Variables,1,2,21,1,0
+7b55af79,Variables,1,2,18,1,0
+96afdb6a,Functions,2,2,38,0,0
+8d26d65b,Variables,1,3,32,0,0
+59811e5d,Loops,2,2,39,0,0
+b8b005de,Dynamic Programming,4,1,47,0,0
+c1c9edb9,Recursion,3,1,26,1,0
+f4ad70ed,Dynamic Programming,4,2,42,1,0
+52ff1a49,Variables,1,1,28,0,0
+b87fb52d,Dynamic Programming,4,1,32,1,0
+96afdb6a,Dynamic Programming,4,3,30,0,0
+faf2230c,Dynamic Programming,4,2,43,0,0
+e9d0c683,Loops,2,1,33,0,0
+91e64a70,Recursion,3,2,28,0,0
+c0a8a86f,Dynamic Programming,4,3,39,0,0
+4fb1bc31,Dynamic Programming,4,1,43,0,0
+c30bde50,Dynamic Programming,4,1,29,0,0
+cbc58144,Variables,1,1,24,0,0
+cd86db99,Recursion,3,1,39,1,0
+637f435d,Functions,2,1,32,1,0
+4ecbb3b7,Functions,2,2,40,1,0
+80459ec7,Recursion,3,1,20,0,0
+e1571e55,Variables,1,1,34,1,1
+d611361f,Recursion,3,1,27,0,0
+e11c2057,Variables,1,3,28,1,0
+abb9c659,Functions,2,1,19,1,1
+1f33c4ce,Recursion,3,1,37,0,0
+e6574e00,Recursion,3,1,28,1,0
+00e69998,Recursion,3,1,37,0,0
+0f512b8e,Loops,2,3,38,0,0
+44e50da6,Recursion,3,1,41,1,0
+69487be7,Variables,1,1,26,1,1
+38caeb3c,Variables,1,2,30,1,1
+28fc7c4c,Recursion,3,2,23,0,0
+9f98a2dc,Loops,2,3,22,0,0
+7d83aaa2,Dynamic Programming,4,1,42,0,0
+fdb66605,Variables,1,1,17,1,1
+84392e9a,Recursion,3,1,37,1,0
+a83e881d,Loops,2,3,30,0,0
+3d59b919,Dynamic Programming,4,2,38,0,0
+b8b005de,Functions,2,1,29,0,0
+60e2fa70,Loops,2,2,30,1,0
+dc54d27c,Recursion,3,1,33,0,0
+00e69998,Recursion,3,2,32,0,0
+8fb1f315,Recursion,3,3,26,1,0
+0bbd03f9,Dynamic Programming,4,1,24,0,0
+7eb5baa2,Functions,2,1,5,0,0
+80f3d5b0,Variables,1,2,40,1,1
+6c0d033e,Loops,2,3,33,0,0
+00e69998,Loops,2,1,32,1,0
+1e9af1a8,Recursion,3,1,37,1,0
+25823a23,Functions,2,1,11,1,1
+fdb66605,Variables,1,1,6,1,0
+52ff1a49,Variables,1,2,29,1,1
+5ac87020,Functions,2,2,27,1,0
+f2af96c0,Recursion,3,1,45,0,0
+e1571e55,Loops,2,2,31,0,0
+dfcd6b5b,Variables,1,1,29,1,1
+b1694887,Variables,1,1,30,0,0
+e3f0ada2,Dynamic Programming,4,3,40,1,0
+d7be5c1e,Recursion,3,2,24,0,0
+60e2fa70,Dynamic Programming,4,2,41,0,0
+00e69998,Functions,2,1,49,1,1
+4eba48a6,Recursion,3,2,34,1,0
+6e99ac2f,Functions,2,1,34,1,1
+c54abbb6,Dynamic Programming,4,3,44,0,0
+3263dca5,Dynamic Programming,4,1,34,0,0
+25c83068,Variables,1,2,29,1,0
+7d83aaa2,Functions,2,1,27,1,1
+e1571e55,Variables,1,1,36,1,0
+09505742,Functions,2,3,15,1,0
+52ff1a49,Dynamic Programming,4,1,34,0,0
+b08626e4,Loops,2,1,33,1,0
+c1c9edb9,Variables,1,1,16,0,0
+84392e9a,Loops,2,1,22,0,0
+ecbc285c,Dynamic Programming,4,1,44,1,0
+92807a16,Functions,2,2,33,1,0
+60b5d26b,Dynamic Programming,4,2,24,0,0
+30b66672,Variables,1,2,24,1,1
+a8070b67,Loops,2,1,30,1,0
+ddaf7ca2,Variables,1,2,26,0,0
+1d4c9cc0,Dynamic Programming,4,3,45,0,0
+0813b66c,Variables,1,1,11,0,0
+00e69998,Dynamic Programming,4,1,32,0,0
+5e4c63f7,Loops,2,2,25,1,0
+e9b79c29,Variables,1,2,24,1,1
+00a8a9a8,Loops,2,1,29,1,0
+3263dca5,Variables,1,2,24,0,0
+7e3123d1,Recursion,3,3,34,0,0
+30b66672,Functions,2,2,30,0,0
+b8b005de,Variables,1,2,31,1,1
+67386278,Functions,2,2,27,1,0
+a9b93c93,Functions,2,1,36,0,0
+3263dca5,Functions,2,2,32,0,0
+0f512b8e,Variables,1,1,13,1,1
+3dfc2e3a,Variables,1,2,13,1,0
+847c54fb,Variables,1,1,26,0,0
+aa8a37f4,Functions,2,1,22,1,1
+92807a16,Functions,2,3,41,0,0
+cbc58144,Variables,1,2,25,0,0
+4fb1bc31,Functions,2,1,29,1,1
+a8070b67,Loops,2,2,18,0,0
+08b99ac1,Variables,1,1,25,1,1
+1214605f,Functions,2,2,19,1,0
+897979a0,Dynamic Programming,4,1,21,0,0
+1932d7f3,Recursion,3,3,47,1,0
+080b3811,Functions,2,1,19,0,0
+049fc19a,Loops,2,2,35,0,0
+2dd0eb22,Recursion,3,3,31,0,0
+ec60e30b,Loops,2,2,26,0,0
+1932d7f3,Functions,2,1,37,1,0
+35645b69,Variables,1,1,16,1,1
+0db3460b,Dynamic Programming,4,1,46,1,0
+c30bfd68,Variables,1,1,14,1,1
+40bdcaf0,Recursion,3,2,13,0,0
+84c8caac,Loops,2,1,24,1,0
+e9b79c29,Functions,2,1,26,0,0
+080b3811,Loops,2,1,18,1,0
+2a9272f0,Loops,2,2,15,1,0
+44110570,Dynamic Programming,4,2,25,0,0
+60b5d26b,Dynamic Programming,4,1,43,1,0
+25c83068,Dynamic Programming,4,1,38,1,0
+e9b79c29,Variables,1,2,21,1,1
+fdb66605,Functions,2,3,24,0,0
+cce7da75,Dynamic Programming,4,1,34,0,0
+7882fad6,Recursion,3,1,28,1,0
+283b0d8b,Loops,2,2,50,1,0
+1661ded5,Dynamic Programming,4,1,34,0,0
+b3f64f19,Dynamic Programming,4,1,31,1,0
+859789fb,Recursion,3,3,43,1,0
+4e096844,Functions,2,2,29,0,0
+d611361f,Loops,2,1,24,0,0
+b1694887,Recursion,3,1,32,1,0
+e6d5e657,Recursion,3,2,46,1,0
+29d8241a,Dynamic Programming,4,3,34,0,0
+e1571e55,Variables,1,1,32,1,0
+b08626e4,Dynamic Programming,4,1,24,0,0
+22394829,Variables,1,1,31,1,1
+4fb1bc31,Dynamic Programming,4,1,35,0,0
+09505742,Variables,1,2,22,1,1
+1bd8d2b4,Recursion,3,1,14,1,0
+72ddfa48,Recursion,3,2,37,0,0
+1661ded5,Loops,2,3,14,1,0
+1c4b0d66,Variables,1,2,12,1,1
+dbd84587,Dynamic Programming,4,2,41,1,0
+c54abbb6,Dynamic Programming,4,3,41,0,0
+3d1f9bcf,Loops,2,3,24,0,0
+0813b66c,Functions,2,2,25,0,0
+f2af96c0,Dynamic Programming,4,2,43,1,0
+8e5699ff,Functions,2,1,22,0,0
+0ae7c5b8,Dynamic Programming,4,2,39,0,0
+342d668c,Functions,2,2,21,1,0
+543086ca,Recursion,3,3,39,0,0
+5745afc1,Variables,1,2,32,0,0
+44110570,Variables,1,1,33,1,0
+1d4c9cc0,Recursion,3,1,38,0,0
+b3f64f19,Variables,1,1,36,1,1
+92807a16,Dynamic Programming,4,1,40,1,0
+ec60e30b,Loops,2,2,36,0,0
+7e3123d1,Functions,2,1,29,1,1
+e6237686,Dynamic Programming,4,1,25,0,0
+4ecbb3b7,Recursion,3,1,17,0,0
+3dfc2e3a,Variables,1,1,29,1,0
+25823a23,Dynamic Programming,4,3,32,0,0
+5064bff6,Loops,2,1,28,1,0
+6313f2f8,Variables,1,3,29,1,0
+b41f7116,Dynamic Programming,4,1,33,1,0
+a749cce0,Functions,2,3,23,1,0
+e9d0c683,Functions,2,1,36,0,0
+1f33c4ce,Recursion,3,1,42,1,0
+a9b93c93,Functions,2,2,38,1,0
+00e69998,Dynamic Programming,4,3,29,1,0
+0f512b8e,Dynamic Programming,4,3,38,0,0
+29d8241a,Dynamic Programming,4,1,29,1,0
+ecbc285c,Dynamic Programming,4,2,44,0,0
+2dd0eb22,Dynamic Programming,4,1,36,1,0
+629f1950,Variables,1,2,27,0,0
+44110570,Functions,2,1,41,1,0
+84c8caac,Functions,2,2,29,0,0
+717f86c2,Loops,2,2,28,0,0
+590f8480,Loops,2,3,52,0,0
+3d59b919,Loops,2,1,25,1,0
+69487be7,Loops,2,1,22,1,0
+28fc7c4c,Recursion,3,3,18,0,0
+f1fc10b2,Dynamic Programming,4,1,42,0,0
+2d51fd19,Variables,1,1,26,0,0
+1e9af1a8,Loops,2,1,24,0,0
+697ebb27,Dynamic Programming,4,1,28,0,0
+c30bde50,Functions,2,2,5,0,0
+daee0007,Loops,2,1,29,0,0
+e6d5e657,Loops,2,2,28,0,0
+f1fc10b2,Recursion,3,2,35,1,0
+0db3460b,Variables,1,3,41,1,0
+a9b93c93,Variables,1,1,32,1,1
+bf0e5c55,Loops,2,3,30,0,0
+59811e5d,Functions,2,1,16,0,0
+92807a16,Functions,2,1,38,1,0
+6313f2f8,Functions,2,1,45,1,1
+44e50da6,Loops,2,1,29,1,0
+92807a16,Dynamic Programming,4,1,39,0,0
+faf2230c,Dynamic Programming,4,1,33,1,0
+1f33c4ce,Functions,2,1,45,1,0
+30b66672,Functions,2,3,39,0,0
+29da264a,Dynamic Programming,4,2,24,0,0
+03f4c13e,Loops,2,2,20,0,0
+60e2fa70,Loops,2,1,23,1,0
+65c08f13,Functions,2,3,24,0,0
+29d8241a,Functions,2,2,50,0,0
+f4ad70ed,Variables,1,1,20,1,1
+342d668c,Functions,2,1,30,1,1
+80459ec7,Variables,1,1,17,1,1
+39119303,Dynamic Programming,4,3,32,1,0
+283b0d8b,Recursion,3,2,25,0,0
+e6d5e657,Recursion,3,1,37,1,0
+5c2bc04a,Functions,2,1,32,1,1
+af3a75f2,Recursion,3,1,34,0,0
+67386278,Functions,2,2,39,1,0
+b41f7116,Functions,2,1,27,1,0
+d49f68ef,Recursion,3,2,26,0,0
+163a7d7d,Functions,2,2,23,1,0
+75eee0b0,Variables,1,2,22,1,1
+f64a2ed0,Recursion,3,1,24,0,0
+91e64a70,Dynamic Programming,4,1,21,0,0
+f4ad70ed,Functions,2,2,35,1,0
+00e69998,Variables,1,1,32,1,1
+39119303,Functions,2,3,21,0,0
+25823a23,Dynamic Programming,4,3,34,0,0
+5e4c63f7,Loops,2,1,22,1,1
+1d9fc720,Variables,1,1,21,1,1
+6c985f1e,Dynamic Programming,4,3,39,0,0
+e33fb13f,Recursion,3,2,38,1,0
+4f4a93f9,Recursion,3,1,31,0,0
+00a8a9a8,Loops,2,1,21,1,0
+4ecbb3b7,Variables,1,1,18,1,1
+ccd462cf,Recursion,3,2,34,0,0
+abb9c659,Loops,2,2,32,0,0
+c30bde50,Dynamic Programming,4,3,40,0,0
+0ae7c5b8,Recursion,3,2,33,0,0
+91e64a70,Variables,1,1,23,1,1
+0e79cd40,Loops,2,1,10,0,0
+f1fc10b2,Dynamic Programming,4,2,57,0,0
+c0a8a86f,Loops,2,1,26,1,1
+dbd84587,Dynamic Programming,4,2,37,0,0
+c06c593a,Functions,2,3,41,0,0
+99e180db,Variables,1,1,40,0,0
+0bbd03f9,Variables,1,2,30,0,0
+86878cf1,Dynamic Programming,4,1,36,0,0
+d7be5c1e,Variables,1,1,36,0,0
+c30bfd68,Dynamic Programming,4,1,23,1,0
+91e64a70,Functions,2,2,32,1,0
+dc2ec317,Functions,2,1,25,1,0
+cbc58144,Dynamic Programming,4,3,27,0,0
+8fb1f315,Variables,1,3,26,0,0
+5064bff6,Functions,2,1,40,0,0
+3dfc2e3a,Variables,1,1,15,0,0
+2d51fd19,Functions,2,1,15,1,0
+c0a8a86f,Recursion,3,1,36,1,0
+bd0c2b39,Variables,1,2,14,1,0
+dc2ec317,Loops,2,3,38,0,0
+8e5699ff,Variables,1,1,20,1,1
+049fc19a,Recursion,3,2,22,0,0
+60b5d26b,Loops,2,2,35,1,0
+cc50d102,Dynamic Programming,4,1,34,0,0
+f64a2ed0,Dynamic Programming,4,3,26,0,0
+27b49b90,Functions,2,2,23,0,0
+2dd0eb22,Functions,2,1,19,0,0
+c1db4161,Variables,1,1,17,1,1
+40bdcaf0,Dynamic Programming,4,1,25,0,0
+1e9af1a8,Dynamic Programming,4,2,44,0,0
+0efdd7c7,Variables,1,1,30,0,0
+bd0c2b39,Functions,2,3,31,1,0
+b41f7116,Variables,1,2,31,0,0
+ec60e30b,Loops,2,2,30,0,0
+7e3123d1,Loops,2,2,28,0,0
+c9d83e66,Variables,1,1,10,0,0
+1214605f,Loops,2,2,21,1,0
+4eba48a6,Recursion,3,1,29,0,0
+a8070b67,Functions,2,3,48,0,0
+abb9c659,Functions,2,3,42,1,0
+00a8a9a8,Dynamic Programming,4,1,34,0,0
+f6bfc15f,Dynamic Programming,4,2,17,0,0
+28fc7c4c,Functions,2,1,22,0,0
+08d327e6,Dynamic Programming,4,1,32,0,0
+25c83068,Functions,2,2,30,1,0
+1932d7f3,Dynamic Programming,4,1,29,0,0
+697ebb27,Recursion,3,3,40,1,0
+0fa3f87c,Dynamic Programming,4,1,35,0,0
+5c2bc04a,Variables,1,2,32,0,0
+5537bfd1,Recursion,3,1,40,0,0
+283b0d8b,Functions,2,1,27,1,0
+cb5d5a7d,Functions,2,1,19,1,0
+5064bff6,Loops,2,3,31,0,0
+c5ebe991,Functions,2,1,21,1,0
+e96f6898,Variables,1,1,21,1,1
+09505742,Variables,1,2,26,1,1
+2a9272f0,Dynamic Programming,4,2,32,0,0
+64f6fedd,Variables,1,1,38,1,1
+f4ad70ed,Recursion,3,3,30,1,0
+c0a8a86f,Dynamic Programming,4,2,35,0,0
+049fc19a,Recursion,3,2,18,0,0
+1f33c4ce,Recursion,3,3,40,0,0
+abb9c659,Functions,2,2,17,1,0
+60b5d26b,Loops,2,1,22,1,1
+d7be5c1e,Dynamic Programming,4,2,44,0,0
+4fb1bc31,Dynamic Programming,4,2,42,0,0
+283b0d8b,Functions,2,2,27,1,0
+a8e1ff27,Variables,1,2,39,0,0
+96f5f1e4,Recursion,3,2,36,0,0
+7498baf0,Functions,2,3,30,0,0
+ec846410,Functions,2,3,20,0,0
+d26e930c,Dynamic Programming,4,2,30,1,0
+d26e930c,Functions,2,3,38,0,0
+daee0007,Functions,2,3,33,0,0
+cb7b5ea5,Loops,2,1,32,0,0
+64f6fedd,Variables,1,3,24,0,0
+4eba48a6,Dynamic Programming,4,1,39,1,0
+aa8a37f4,Dynamic Programming,4,2,33,0,0
+72ddfa48,Functions,2,1,43,1,0
+08d327e6,Dynamic Programming,4,2,46,1,0
+1661ded5,Recursion,3,1,28,1,0
+a8070b67,Loops,2,2,21,1,0
+b87fb52d,Loops,2,1,28,0,0
+543086ca,Variables,1,2,26,1,1
+bf0e5c55,Loops,2,2,25,0,0
+7eb5baa2,Recursion,3,1,36,0,0
+86878cf1,Variables,1,1,28,0,0
+590f8480,Loops,2,3,25,1,0
+80459ec7,Loops,2,3,34,1,0
+e6d5e657,Variables,1,3,16,0,0
+b87fb52d,Dynamic Programming,4,1,36,0,0
+b8b005de,Loops,2,1,34,1,1
+637f435d,Variables,1,2,26,0,0
+22394829,Dynamic Programming,4,1,35,0,0
+e5b4ad69,Functions,2,1,30,1,0
+3a9f6f1f,Recursion,3,1,32,1,0
+595afe07,Loops,2,1,28,1,1
+daee0007,Functions,2,3,24,1,0
+1d9fc720,Dynamic Programming,4,2,41,0,0
+f4ad70ed,Functions,2,2,45,1,0
+00a8a9a8,Recursion,3,2,36,0,0
+faf2230c,Functions,2,1,42,0,0
+0f512b8e,Functions,2,1,30,1,0
+08b99ac1,Recursion,3,2,31,0,0
+3d59b919,Dynamic Programming,4,2,36,1,0
+abb9c659,Dynamic Programming,4,1,43,0,0
+44110570,Recursion,3,1,23,0,0
+28fc7c4c,Variables,1,1,19,1,1
+1932d7f3,Functions,2,2,16,0,0
+27b49b90,Loops,2,2,41,1,0
+0fa3f87c,Loops,2,3,20,0,0
+c06c593a,Dynamic Programming,4,1,23,0,0
+8680f577,Dynamic Programming,4,2,46,0,0
+a749cce0,Variables,1,2,38,1,0
+4eba48a6,Functions,2,3,34,1,0
+049fc19a,Functions,2,3,34,1,0
+57691047,Dynamic Programming,4,2,39,0,0
+22394829,Dynamic Programming,4,2,37,0,0
+73b88305,Variables,1,3,21,0,0
+abb9c659,Loops,2,1,26,0,0
+84c8caac,Loops,2,3,32,0,0
+3d59b919,Loops,2,1,26,0,0
+163a7d7d,Recursion,3,2,43,1,0
+3dfc2e3a,Variables,1,1,20,0,0
+cce7da75,Loops,2,1,20,0,0
+342d668c,Loops,2,1,28,1,0
+fe579de6,Dynamic Programming,4,1,41,0,0
+6e99ac2f,Variables,1,2,32,1,0
+3263dca5,Variables,1,2,13,1,0
+1e9af1a8,Dynamic Programming,4,3,31,0,0
+96ed030e,Recursion,3,3,35,1,0
+163a7d7d,Recursion,3,2,36,0,0
+2dd0eb22,Dynamic Programming,4,3,36,0,0
+60b5d26b,Loops,2,1,46,1,1
+b1694887,Functions,2,2,26,1,0
+bd0c2b39,Variables,1,2,32,1,0
+35645b69,Loops,2,2,40,1,0
+64f6fedd,Loops,2,1,27,1,0
+4e096844,Dynamic Programming,4,2,36,1,0
+60e2fa70,Recursion,3,2,29,0,0
+60b5d26b,Functions,2,1,35,0,0
+1b3c9480,Functions,2,2,18,0,0
+65c08f13,Functions,2,1,29,1,0
+dbd84587,Variables,1,1,18,1,1
+aa8a37f4,Loops,2,3,38,0,0
+c06c593a,Dynamic Programming,4,2,37,0,0
+0e79cd40,Dynamic Programming,4,1,15,0,0
+8d26d65b,Loops,2,1,22,0,0
+c5ebe991,Recursion,3,1,39,0,0
+86d4132b,Functions,2,3,37,0,0
+38caeb3c,Dynamic Programming,4,1,38,0,0
+342d668c,Variables,1,1,24,1,0
+00a8a9a8,Loops,2,1,29,1,0
+e1571e55,Functions,2,2,39,0,0
+96afdb6a,Loops,2,1,31,1,0
+2a9272f0,Functions,2,2,29,0,0
+c0a8a86f,Dynamic Programming,4,1,29,0,0
+4e096844,Recursion,3,2,39,0,0
+d7be5c1e,Loops,2,2,25,0,0
+29da264a,Dynamic Programming,4,1,36,0,0
+44110570,Variables,1,2,18,0,0
+82b05027,Functions,2,2,14,0,0
+60b5d26b,Functions,2,3,29,1,0
+cb5d5a7d,Loops,2,1,37,0,0
+5064bff6,Variables,1,2,21,1,1
+4fb1bc31,Variables,1,1,36,1,1
+73b88305,Dynamic Programming,4,1,46,0,0
+44110570,Functions,2,2,36,1,0
+847c54fb,Functions,2,1,14,1,0
+64f6fedd,Loops,2,2,23,0,0
+39119303,Recursion,3,3,31,0,0
+0bbd03f9,Variables,1,1,32,1,1
+8539e3ec,Recursion,3,2,24,0,0
+57691047,Variables,1,1,21,1,1
+7eb5baa2,Recursion,3,3,31,0,0
+1932d7f3,Recursion,3,2,28,1,0
+283b0d8b,Loops,2,3,28,1,0
+0413c097,Recursion,3,1,43,1,0
+1214605f,Dynamic Programming,4,1,31,0,0
+cce7da75,Dynamic Programming,4,2,37,0,0
+73b88305,Functions,2,1,25,0,0
+3f3826f3,Recursion,3,2,31,0,0
+697ebb27,Functions,2,1,16,1,0
+d20907be,Functions,2,1,23,0,0
+45b5de1a,Dynamic Programming,4,1,34,1,0
+75eee0b0,Recursion,3,3,35,1,0
+e1571e55,Functions,2,1,27,0,0
+283b0d8b,Variables,1,1,30,1,1
+cd86db99,Dynamic Programming,4,2,30,0,0
+717f86c2,Functions,2,2,34,1,0
+4eba48a6,Loops,2,1,37,0,0
+aa8a37f4,Variables,1,1,32,1,1
+9f98a2dc,Variables,1,2,15,0,0
+44110570,Loops,2,2,37,0,0
+a83e881d,Variables,1,1,20,1,0
+03f4c13e,Variables,1,2,26,0,0
+057a3be1,Loops,2,2,30,1,1
+67386278,Dynamic Programming,4,2,22,0,0
+84b563ae,Recursion,3,3,25,0,0
+1661ded5,Recursion,3,1,30,1,0
+4e096844,Loops,2,2,21,1,0
+faf2230c,Dynamic Programming,4,3,38,0,0
+049fc19a,Variables,1,3,31,1,0
+f1fc10b2,Functions,2,3,43,1,0
+a8070b67,Functions,2,2,39,0,0
+7e3123d1,Loops,2,1,25,0,0
+b41f7116,Loops,2,3,36,0,0
+28fc7c4c,Variables,1,1,19,1,1
+29da264a,Variables,1,1,19,1,1
+4334f0ec,Dynamic Programming,4,1,34,1,0
+82b05027,Recursion,3,1,38,1,0
+4eba48a6,Loops,2,1,21,1,1
+1104d582,Variables,1,2,24,1,1
+73b88305,Dynamic Programming,4,3,44,1,0
+a749cce0,Variables,1,1,29,1,1
+0813b66c,Dynamic Programming,4,1,28,0,0
+d49f68ef,Dynamic Programming,4,1,31,0,0
+ddaf7ca2,Recursion,3,2,31,0,0
+29d8241a,Functions,2,1,21,1,1
+7d83aaa2,Recursion,3,3,34,0,0
+df9ead78,Recursion,3,3,21,0,0
+c06c593a,Recursion,3,1,27,0,0
+e6237686,Dynamic Programming,4,3,31,1,0
+fdb66605,Dynamic Programming,4,3,48,0,0
+2a9272f0,Dynamic Programming,4,1,29,0,0
+0ae7c5b8,Variables,1,1,19,1,1
+1e9af1a8,Variables,1,3,31,0,0
+342d668c,Functions,2,2,26,0,0
+1661ded5,Functions,2,1,27,1,1
+84b563ae,Recursion,3,1,46,0,0
+080b3811,Variables,1,1,36,1,1
+629f1950,Loops,2,1,26,0,0
+69487be7,Recursion,3,1,24,1,0
+52ff1a49,Variables,1,2,44,0,0
+0f512b8e,Dynamic Programming,4,1,28,1,0
+1932d7f3,Variables,1,1,22,1,1
+cbc58144,Variables,1,1,33,1,1
+543086ca,Variables,1,2,34,1,1
+a9b93c93,Loops,2,1,26,1,1
+3d1f9bcf,Loops,2,3,14,0,0
+342d668c,Recursion,3,3,29,0,0
+84b563ae,Dynamic Programming,4,1,41,0,0
+82b05027,Dynamic Programming,4,1,30,1,0
+bd0c2b39,Variables,1,2,34,1,0
+5064bff6,Recursion,3,3,24,0,0
+39119303,Recursion,3,1,24,0,0
+dc54d27c,Variables,1,2,23,0,0
+2a9272f0,Dynamic Programming,4,1,30,1,0
+82b05027,Dynamic Programming,4,2,23,0,0
+c5ebe991,Dynamic Programming,4,1,34,0,0
+65c08f13,Dynamic Programming,4,1,33,1,0
+66429af5,Dynamic Programming,4,1,22,0,0
+40bdcaf0,Variables,1,1,30,1,0
+5745afc1,Dynamic Programming,4,2,21,1,0
+dfcd6b5b,Functions,2,1,12,1,0
+e6574e00,Variables,1,1,23,1,1
+7882fad6,Variables,1,1,24,0,0
+5537bfd1,Loops,2,2,33,1,0
+f6bfc15f,Functions,2,3,47,0,0
+0efdd7c7,Dynamic Programming,4,3,34,1,0
+8d26d65b,Recursion,3,2,30,0,0
+a8e1ff27,Functions,2,2,23,0,0
+22394829,Dynamic Programming,4,2,38,0,0
+0db3460b,Recursion,3,2,33,0,0
+590f8480,Variables,1,1,25,1,1
+00e69998,Variables,1,1,35,1,1
+a8e1ff27,Recursion,3,3,27,0,0
+b3f64f19,Variables,1,2,21,1,1
+91e64a70,Recursion,3,2,21,0,0
+0413c097,Recursion,3,1,40,0,0
+0e79cd40,Dynamic Programming,4,1,34,0,0
+1bd8d2b4,Dynamic Programming,4,1,43,0,0
+5064bff6,Dynamic Programming,4,3,45,0,0
+df9ead78,Functions,2,2,29,0,0
+0413c097,Loops,2,2,29,1,0
+4fb1bc31,Dynamic Programming,4,3,29,0,0
+283b0d8b,Functions,2,2,27,1,0
+3dfc2e3a,Dynamic Programming,4,3,26,0,0
+8d26d65b,Loops,2,2,43,0,0
+bd0c2b39,Recursion,3,1,38,0,0
+84b563ae,Recursion,3,1,49,0,0
+44110570,Functions,2,1,34,1,0
+e11c2057,Variables,1,1,28,0,0
+1d4c9cc0,Variables,1,1,15,1,1
+b08626e4,Dynamic Programming,4,2,45,0,0
+595afe07,Functions,2,2,28,0,0
+0e79cd40,Functions,2,1,41,1,0
+69487be7,Loops,2,2,42,1,0
+897979a0,Recursion,3,1,24,1,0
+c1c9edb9,Functions,2,1,13,1,1
+e6237686,Functions,2,1,26,1,0
+0efdd7c7,Dynamic Programming,4,1,46,0,0
+a4e0c28d,Functions,2,1,39,1,1
+6c6ea779,Variables,1,2,25,0,0
+b3f64f19,Variables,1,1,30,1,1
+e6574e00,Dynamic Programming,4,1,42,0,0
+bf0e5c55,Recursion,3,2,39,0,0
+c1c9edb9,Variables,1,1,42,1,1
+d41f22aa,Recursion,3,3,35,0,0
+5537bfd1,Dynamic Programming,4,2,39,0,0
+e3f0ada2,Functions,2,1,27,1,1
+0e79cd40,Variables,1,1,41,0,0
+a749cce0,Recursion,3,3,33,0,0
+c30bfd68,Variables,1,1,41,1,0
+73b88305,Loops,2,2,28,1,0
+629f1950,Recursion,3,2,23,0,0
+1104d582,Functions,2,2,31,1,0
+1bd8d2b4,Dynamic Programming,4,3,34,0,0
+c30bde50,Functions,2,1,16,1,0
+0bbd03f9,Recursion,3,1,32,0,0
+e9b79c29,Loops,2,3,39,1,0
+00e69998,Variables,1,2,26,1,1
+fdb66605,Variables,1,2,24,0,0
+29d8241a,Functions,2,2,31,0,0
+a13cc4dc,Loops,2,2,46,1,1
+e1571e55,Dynamic Programming,4,2,23,0,0
+e6574e00,Recursion,3,1,36,1,0
+6c985f1e,Variables,1,2,44,1,0
+38caeb3c,Dynamic Programming,4,2,42,0,0
+b41f7116,Dynamic Programming,4,1,36,0,0
+7e3123d1,Loops,2,3,36,0,0
+d49f68ef,Recursion,3,2,29,1,0
+dbd84587,Functions,2,2,34,1,1
+e9d0c683,Loops,2,3,30,1,0
+cb5d5a7d,Recursion,3,1,28,1,0
+bd0c2b39,Functions,2,3,22,1,0
+0fa3f87c,Recursion,3,1,25,0,0
+9f98a2dc,Recursion,3,1,35,1,0
+7e3123d1,Loops,2,1,26,0,0
+1bd8d2b4,Loops,2,2,23,1,0
+c1db4161,Loops,2,2,31,1,1
+5c2bc04a,Variables,1,2,34,0,0
+a83e881d,Variables,1,2,29,1,1
+bd0c2b39,Loops,2,1,34,1,1
+df9ead78,Functions,2,1,35,1,0
+35645b69,Variables,1,3,38,1,0
+99e180db,Functions,2,2,29,1,1
+84b563ae,Loops,2,1,33,0,0
+3263dca5,Functions,2,2,34,1,1
+7b55af79,Functions,2,1,28,1,0
+cc50d102,Recursion,3,1,25,1,0
+2d51fd19,Loops,2,3,31,0,0
+96afdb6a,Dynamic Programming,4,3,40,1,0
+2a9272f0,Recursion,3,1,36,0,0
+f64a2ed0,Recursion,3,2,16,0,0
+03f4c13e,Variables,1,2,32,1,0
+c0a8a86f,Dynamic Programming,4,1,32,0,0
+59811e5d,Recursion,3,3,50,0,0
+c54abbb6,Dynamic Programming,4,1,51,0,0
+2d51fd19,Variables,1,2,28,1,0
+ddaf7ca2,Variables,1,2,30,1,0
+adef3c23,Functions,2,2,16,1,1
+64f6fedd,Loops,2,1,33,1,1
+c30bfd68,Recursion,3,3,36,0,0
+96ed030e,Loops,2,1,27,1,1
+e96f6898,Loops,2,2,20,1,0
+aa8a37f4,Recursion,3,1,34,1,0
+1bd8d2b4,Functions,2,2,18,1,0
+5e4c63f7,Loops,2,2,37,1,0
+35645b69,Dynamic Programming,4,1,37,0,0
+1b3c9480,Dynamic Programming,4,2,33,0,0
+5064bff6,Functions,2,1,25,1,0
+e6574e00,Dynamic Programming,4,2,45,0,0
+96f5f1e4,Variables,1,3,23,1,1
+e9b79c29,Functions,2,1,21,0,0
+6c0d033e,Recursion,3,2,29,0,0
+0db3460b,Variables,1,1,42,1,0
+96f5f1e4,Functions,2,2,17,0,0
+44e50da6,Loops,2,1,13,0,0
+25823a23,Loops,2,2,37,0,0
+03f4c13e,Loops,2,3,36,1,0
+99e180db,Variables,1,1,26,0,0
+d49f68ef,Variables,1,2,29,1,1
+595afe07,Functions,2,2,31,1,0
+2a9272f0,Recursion,3,1,24,1,0
+8680f577,Functions,2,2,28,1,0
+abb9c659,Variables,1,1,22,1,1
+3dfc2e3a,Loops,2,3,27,1,0
+057a3be1,Variables,1,2,24,1,0
+bf0e5c55,Functions,2,1,38,1,1
+fe579de6,Loops,2,1,12,1,0
+3a9f6f1f,Recursion,3,1,32,0,0
+2a9272f0,Loops,2,2,26,1,1
+4eba48a6,Recursion,3,1,48,1,0
+0e79cd40,Functions,2,2,29,0,0
+e6237686,Functions,2,1,16,1,0
+f2af96c0,Functions,2,1,20,1,0
+1bd8d2b4,Variables,1,1,25,1,1
+56060b4d,Functions,2,1,34,1,1
+3d1f9bcf,Loops,2,1,20,1,1
+00a8a9a8,Functions,2,1,19,1,1
+629f1950,Loops,2,3,32,0,0
+80f3d5b0,Loops,2,1,40,0,0
+daee0007,Recursion,3,1,32,0,0
+c54abbb6,Dynamic Programming,4,1,39,0,0
+1214605f,Recursion,3,1,38,0,0
+4e096844,Variables,1,1,23,0,0
+8539e3ec,Loops,2,1,23,0,0
+629f1950,Recursion,3,2,27,0,0
+7b55af79,Functions,2,3,32,1,0
+7882fad6,Dynamic Programming,4,2,38,0,0
+64f6fedd,Dynamic Programming,4,2,36,0,0
+1c4b0d66,Loops,2,3,37,0,0
+e1571e55,Loops,2,2,30,0,0
+09505742,Loops,2,2,49,0,0
+c30bde50,Dynamic Programming,4,1,43,0,0
+45b5de1a,Recursion,3,3,36,1,0
+8539e3ec,Loops,2,2,23,0,0
+57691047,Variables,1,1,20,1,1
+cd86db99,Functions,2,1,23,1,1
+163a7d7d,Functions,2,1,42,1,1
+59811e5d,Loops,2,3,32,0,0
+cb7b5ea5,Dynamic Programming,4,3,36,1,0
+d26e930c,Loops,2,2,26,0,0
+cd86db99,Variables,1,3,32,1,0
+cce7da75,Recursion,3,1,38,0,0
+39119303,Recursion,3,1,37,1,0
+049fc19a,Dynamic Programming,4,2,47,0,0
+64f6fedd,Variables,1,1,26,0,0
+4e096844,Recursion,3,3,29,1,0
+3f3826f3,Functions,2,1,25,0,0
+92807a16,Loops,2,2,28,1,0
+03f4c13e,Variables,1,2,22,0,0
+8539e3ec,Loops,2,2,24,1,0
+e96f6898,Recursion,3,2,36,1,0
+3a9f6f1f,Variables,1,2,17,1,0
+d611361f,Recursion,3,2,24,1,0
+86d4132b,Variables,1,1,19,1,1
+057a3be1,Variables,1,1,28,1,1
+595afe07,Loops,2,2,26,1,0
+697ebb27,Variables,1,2,26,0,0
+c1db4161,Loops,2,3,32,0,0
+d611361f,Dynamic Programming,4,1,36,1,0
+5537bfd1,Functions,2,1,33,1,1
+4fb1bc31,Loops,2,3,23,0,0
+0ae7c5b8,Loops,2,3,15,1,0
+e9b79c29,Loops,2,1,33,0,0
+44110570,Variables,1,2,32,1,1
+57691047,Dynamic Programming,4,1,28,0,0
+00a8a9a8,Loops,2,1,34,0,0
+8d26d65b,Variables,1,1,13,1,1
+8680f577,Functions,2,1,18,1,0
+a8070b67,Functions,2,1,14,1,0
+45b5de1a,Functions,2,3,37,0,0
+637f435d,Loops,2,2,26,1,1
+4334f0ec,Recursion,3,3,29,0,0
+8680f577,Loops,2,1,8,1,1
+859789fb,Loops,2,3,28,0,0
+28fc7c4c,Dynamic Programming,4,1,32,0,0
+cb5d5a7d,Loops,2,1,27,1,0
+44e50da6,Loops,2,1,30,1,0
+e6574e00,Recursion,3,2,33,0,0
+aa8a37f4,Functions,2,1,30,1,0
+9f98a2dc,Loops,2,1,33,1,0
+c54abbb6,Recursion,3,3,42,0,0
+1f33c4ce,Dynamic Programming,4,1,38,0,0
+a13cc4dc,Recursion,3,1,38,0,0
+5c2bc04a,Variables,1,2,30,0,0
+c54abbb6,Loops,2,1,24,0,0
+dfcd6b5b,Dynamic Programming,4,2,39,1,0
+00e69998,Functions,2,1,17,1,0
+69487be7,Functions,2,1,16,0,0
+44110570,Loops,2,1,28,1,1
+84b563ae,Dynamic Programming,4,1,41,0,0
+dc2ec317,Loops,2,1,31,0,0
+b8b005de,Variables,1,2,25,0,0
+ec846410,Functions,2,3,43,0,0
+adef3c23,Loops,2,1,31,0,0
+f2af96c0,Recursion,3,3,28,0,0
+1214605f,Loops,2,1,15,1,0
+03e26a0b,Loops,2,1,36,1,0
+ecbc285c,Functions,2,2,21,1,0
+5745afc1,Loops,2,3,35,0,0
+cce7da75,Functions,2,2,42,0,0
+cb5d5a7d,Loops,2,1,25,0,0
+4e096844,Variables,1,1,15,1,1
+adef3c23,Functions,2,1,28,1,1
+e3f0ada2,Loops,2,1,22,1,0
+595afe07,Dynamic Programming,4,1,44,0,0
+717f86c2,Variables,1,1,23,0,0
+92807a16,Variables,1,3,18,1,0
+8539e3ec,Functions,2,1,28,0,0
+d49f68ef,Variables,1,2,29,1,1
+629f1950,Dynamic Programming,4,2,57,0,0
+3d69c0ca,Loops,2,1,26,0,0
+6e99ac2f,Functions,2,1,32,1,0
+057a3be1,Functions,2,2,24,0,0
+6c985f1e,Recursion,3,2,23,1,0
+4ecbb3b7,Recursion,3,1,36,0,0
+1bd8d2b4,Dynamic Programming,4,2,42,0,0
+ec60e30b,Variables,1,2,24,0,0
+5e4c63f7,Recursion,3,2,26,0,0
+f64a2ed0,Functions,2,1,30,1,0
+7eb5baa2,Functions,2,1,30,0,0
+8539e3ec,Dynamic Programming,4,1,24,1,0
+1c4b0d66,Recursion,3,2,30,0,0
+c1db4161,Variables,1,1,32,0,0
+637f435d,Recursion,3,2,42,0,0
+e3f0ada2,Functions,2,1,28,1,1
+73b88305,Loops,2,1,22,0,0
+7498baf0,Recursion,3,2,39,0,0
+cce7da75,Functions,2,1,23,0,0
+29da264a,Recursion,3,1,31,1,0
+08b99ac1,Functions,2,2,36,1,0
+59811e5d,Loops,2,1,36,1,0
+af3a75f2,Dynamic Programming,4,1,35,0,0
+7b55af79,Variables,1,1,31,1,1
+a83e881d,Loops,2,3,39,1,0
+7eb5baa2,Loops,2,2,17,1,0
+e9d0c683,Dynamic Programming,4,1,34,0,0
+af3a75f2,Functions,2,1,25,1,1
+2a9272f0,Recursion,3,1,27,0,0
+0413c097,Functions,2,1,23,0,0
+25c83068,Functions,2,3,26,0,0
+56060b4d,Variables,1,2,38,0,0
+f1fc10b2,Variables,1,1,26,1,0
+44110570,Dynamic Programming,4,3,30,0,0
+40bdcaf0,Loops,2,1,28,1,0
+48123c8b,Dynamic Programming,4,1,30,1,0
+595afe07,Functions,2,1,30,0,0
+e33fb13f,Dynamic Programming,4,2,41,0,0
+0e79cd40,Functions,2,3,37,1,0
+abb9c659,Dynamic Programming,4,2,35,0,0
+aa8a37f4,Loops,2,1,28,0,0
+e6d5e657,Variables,1,1,26,1,1
+7b55af79,Recursion,3,1,25,0,0
+22394829,Variables,1,1,24,1,1
+0ae7c5b8,Dynamic Programming,4,1,30,1,0
+f1fc10b2,Dynamic Programming,4,1,42,1,0
+30b66672,Recursion,3,2,30,0,0
+ddaf7ca2,Variables,1,3,29,1,0
+f4ad70ed,Loops,2,1,35,0,0
+08d327e6,Recursion,3,1,35,1,0
+5e4c63f7,Dynamic Programming,4,3,33,1,0
+39119303,Functions,2,1,20,1,1
+283b0d8b,Variables,1,2,13,1,0
+d41f22aa,Variables,1,1,35,1,1
+a749cce0,Variables,1,1,24,0,0
+ec846410,Recursion,3,1,26,0,0
+73b88305,Loops,2,2,41,1,0
+0ae7c5b8,Variables,1,1,5,0,0
+44110570,Dynamic Programming,4,1,43,0,0
+ec60e30b,Dynamic Programming,4,2,42,0,0
+4334f0ec,Dynamic Programming,4,1,31,1,0
+080b3811,Functions,2,3,32,0,0
+dc54d27c,Loops,2,1,37,1,1
+b1694887,Functions,2,2,27,1,0
+29d8241a,Variables,1,1,18,0,0
+af3a75f2,Loops,2,2,42,1,0
+057a3be1,Recursion,3,3,39,0,0
+c1c9edb9,Dynamic Programming,4,1,36,0,0
+c06c593a,Dynamic Programming,4,2,49,0,0
+75eee0b0,Dynamic Programming,4,1,37,0,0
+1d4c9cc0,Loops,2,1,33,0,0
+99e180db,Variables,1,1,27,1,1
+d49f68ef,Functions,2,2,37,1,1
+cbc58144,Functions,2,3,42,0,0
+543086ca,Functions,2,1,26,0,0
+a13cc4dc,Variables,1,2,27,1,0
+0ae7c5b8,Recursion,3,1,28,1,0
+80459ec7,Recursion,3,2,36,0,0
+39119303,Variables,1,3,36,0,0
+48123c8b,Functions,2,2,22,1,0
+ec846410,Variables,1,2,23,1,1
+96ed030e,Recursion,3,2,33,0,0
+590f8480,Recursion,3,3,41,1,0
+3dfc2e3a,Dynamic Programming,4,1,33,1,0
+f6bfc15f,Recursion,3,1,20,0,0
+b3f64f19,Dynamic Programming,4,1,33,1,0
+fdb66605,Functions,2,3,31,1,0
+7882fad6,Variables,1,1,33,1,1
+0f512b8e,Recursion,3,2,45,1,0
+91e64a70,Loops,2,1,26,1,1
+e11c2057,Functions,2,1,14,1,1
+a6e23819,Loops,2,3,31,1,0
+c9d83e66,Recursion,3,1,20,0,0
+a4e0c28d,Loops,2,2,27,1,0
+cbc58144,Dynamic Programming,4,1,28,1,0
+e6574e00,Variables,1,3,33,0,0
+56060b4d,Recursion,3,2,38,0,0
+3d69c0ca,Functions,2,1,24,0,0
+163a7d7d,Loops,2,3,36,0,0
+6e99ac2f,Loops,2,1,38,1,1
+00a8a9a8,Recursion,3,2,31,0,0
+1c4b0d66,Functions,2,1,11,1,1
+1661ded5,Loops,2,1,34,1,0
+a4e0c28d,Functions,2,1,35,1,1
+7882fad6,Functions,2,3,37,0,0
+6e99ac2f,Recursion,3,1,44,1,0
+859789fb,Functions,2,2,28,0,0
+30b66672,Recursion,3,1,37,1,0
+3dfc2e3a,Recursion,3,1,33,0,0
+897979a0,Loops,2,1,44,1,0
+4334f0ec,Functions,2,3,37,1,0
+1b3c9480,Variables,1,1,30,0,0
+8fb1f315,Variables,1,1,10,0,0
+29d8241a,Dynamic Programming,4,1,30,1,0
+99e180db,Functions,2,1,35,0,0
+faf2230c,Dynamic Programming,4,1,44,1,0
+7b55af79,Loops,2,2,38,0,0
+6c985f1e,Dynamic Programming,4,2,38,0,0
+080b3811,Dynamic Programming,4,1,29,1,0
+e6237686,Variables,1,1,29,1,1
+fdb66605,Dynamic Programming,4,2,33,0,0
+8539e3ec,Loops,2,1,34,1,1
+8539e3ec,Recursion,3,1,40,0,0
+f1fc10b2,Variables,1,1,23,1,1
+22394829,Variables,1,3,29,0,0
+b1694887,Functions,2,1,26,1,0
+96ed030e,Loops,2,1,30,0,0
+daee0007,Functions,2,1,25,1,0
+a8e1ff27,Recursion,3,3,39,0,0
+25823a23,Recursion,3,1,35,0,0
+7498baf0,Functions,2,3,26,0,0
+84b563ae,Dynamic Programming,4,1,40,0,0
+2dd0eb22,Recursion,3,2,25,0,0
+c0a8a86f,Dynamic Programming,4,1,35,1,0
+3263dca5,Dynamic Programming,4,2,32,0,0
+60b5d26b,Loops,2,1,31,0,0
+59811e5d,Functions,2,3,28,0,0
+dfcd6b5b,Loops,2,3,18,1,0
+f2af96c0,Recursion,3,1,30,1,0
+e9d0c683,Loops,2,2,22,1,0
+f4ad70ed,Loops,2,1,28,1,0
+84392e9a,Dynamic Programming,4,2,33,1,0
+0f512b8e,Variables,1,1,13,0,0
+5c2bc04a,Dynamic Programming,4,1,35,0,0
+8fb1f315,Variables,1,2,30,1,0
+cce7da75,Loops,2,1,30,1,1
+cbc58144,Dynamic Programming,4,3,45,0,0
+f1fc10b2,Recursion,3,1,22,0,0
+c30bde50,Functions,2,1,21,1,1
+057a3be1,Dynamic Programming,4,3,43,0,0
+c5ebe991,Variables,1,2,16,1,0
+859789fb,Recursion,3,1,38,1,0
+80f3d5b0,Loops,2,1,29,1,1
+e9d0c683,Recursion,3,1,27,0,0
+56060b4d,Recursion,3,1,29,0,0
+e3f0ada2,Variables,1,1,29,0,0
+dbd84587,Variables,1,2,36,0,0
+4e096844,Dynamic Programming,4,2,30,0,0
+f1fc10b2,Functions,2,1,15,1,0
+0413c097,Loops,2,3,32,0,0
+e11c2057,Variables,1,1,20,1,1
+60e2fa70,Functions,2,3,52,0,0
+717f86c2,Dynamic Programming,4,3,45,0,0
+c06c593a,Functions,2,1,11,1,1
+69487be7,Loops,2,3,29,0,0
+7e3123d1,Functions,2,1,20,1,1
+adef3c23,Dynamic Programming,4,1,32,0,0
+45b5de1a,Recursion,3,1,34,0,0
+9f98a2dc,Loops,2,2,31,0,0
+f1fc10b2,Loops,2,2,44,0,0
+080b3811,Recursion,3,1,38,0,0
+e9b79c29,Recursion,3,1,23,1,0
+57691047,Variables,1,1,24,1,1
+2d51fd19,Loops,2,2,20,1,0
+91e64a70,Variables,1,1,25,0,0
+d26e930c,Loops,2,2,41,0,0
+e9b79c29,Loops,2,2,29,1,0
+0f512b8e,Dynamic Programming,4,1,35,0,0
+40bdcaf0,Recursion,3,2,33,0,0
+080b3811,Loops,2,2,20,1,0
+daee0007,Functions,2,2,20,0,0
+1b3c9480,Recursion,3,2,38,0,0
+86878cf1,Dynamic Programming,4,1,35,1,0
+59811e5d,Variables,1,1,24,1,1
+30b66672,Recursion,3,2,33,0,0
+00e69998,Dynamic Programming,4,3,39,0,0
+44110570,Loops,2,1,32,1,0
+1104d582,Variables,1,1,5,1,1
+e5b4ad69,Recursion,3,1,18,1,0
+697ebb27,Variables,1,3,26,1,1
+d41f22aa,Variables,1,3,42,0,0
+60e2fa70,Loops,2,2,28,0,0
+e5b4ad69,Recursion,3,1,32,1,0
+60b5d26b,Loops,2,2,39,1,0
+3f3826f3,Functions,2,1,24,1,0
+00a8a9a8,Functions,2,2,25,1,0
+53716029,Dynamic Programming,4,1,38,0,0
+543086ca,Functions,2,1,21,1,0
+35645b69,Dynamic Programming,4,2,26,0,0
+7eb5baa2,Loops,2,1,41,0,0
+1932d7f3,Dynamic Programming,4,2,19,0,0
+637f435d,Functions,2,2,36,1,1
+92807a16,Variables,1,3,33,1,0
+3d1f9bcf,Recursion,3,1,25,1,0
+2d51fd19,Loops,2,1,27,1,1
+b3f64f19,Variables,1,1,26,0,0
+0bbd03f9,Recursion,3,2,38,0,0
+c54abbb6,Loops,2,2,14,0,0
+a8e1ff27,Functions,2,1,26,0,0
+cb5d5a7d,Variables,1,2,39,0,0
+5745afc1,Recursion,3,1,26,0,0
+7882fad6,Functions,2,2,32,0,0
+cce7da75,Loops,2,1,31,1,1
+b08626e4,Dynamic Programming,4,2,31,0,0
+c5ebe991,Recursion,3,1,22,0,0
+717f86c2,Dynamic Programming,4,3,41,0,0
+3d1f9bcf,Loops,2,1,20,1,1
+84b563ae,Loops,2,1,26,1,1
+b87fb52d,Loops,2,1,41,0,0
+d63b006e,Functions,2,1,19,0,0
+e6574e00,Functions,2,1,29,0,0
+6c0d033e,Recursion,3,3,33,0,0
+e6574e00,Recursion,3,2,17,0,0
+25823a23,Dynamic Programming,4,1,23,0,0
+99e180db,Recursion,3,3,31,0,0
+342d668c,Recursion,3,3,29,1,0
+717f86c2,Dynamic Programming,4,3,26,0,0
+7b55af79,Variables,1,3,32,0,0
+29da264a,Functions,2,2,26,1,0
+3263dca5,Recursion,3,1,37,0,0
+84392e9a,Loops,2,1,21,1,1
+d26e930c,Dynamic Programming,4,1,45,0,0
+28fc7c4c,Loops,2,1,30,0,0
+69487be7,Functions,2,2,11,0,0
+73b88305,Dynamic Programming,4,1,44,0,0
+faf2230c,Variables,1,1,24,0,0
+faf2230c,Dynamic Programming,4,1,24,1,0
+ec60e30b,Recursion,3,1,42,0,0
+aa8a37f4,Dynamic Programming,4,2,41,0,0
+5ac87020,Variables,1,1,34,1,0
+5064bff6,Recursion,3,1,35,0,0
+86d4132b,Loops,2,2,33,0,0
+f1fc10b2,Dynamic Programming,4,1,37,0,0
+e9d0c683,Dynamic Programming,4,1,40,0,0
+86878cf1,Variables,1,1,25,1,1
+590f8480,Loops,2,1,20,0,0
+6c0d033e,Functions,2,1,48,1,1
+bf0e5c55,Dynamic Programming,4,2,46,0,0
+c1db4161,Loops,2,3,36,1,0
+2dd0eb22,Dynamic Programming,4,1,45,0,0
+5064bff6,Dynamic Programming,4,1,33,0,0
+8539e3ec,Dynamic Programming,4,1,40,1,0
+e33fb13f,Functions,2,1,29,0,0
+e9b79c29,Functions,2,2,27,1,0
+35645b69,Dynamic Programming,4,2,30,0,0
+91e64a70,Recursion,3,1,38,0,0
+69487be7,Functions,2,3,42,0,0
+a4e0c28d,Variables,1,1,23,1,0
+5537bfd1,Loops,2,1,13,1,0
+73b88305,Variables,1,1,15,0,0
+a8070b67,Functions,2,3,32,0,0
+ec60e30b,Recursion,3,1,32,0,0
+45b5de1a,Loops,2,1,16,1,1
+09505742,Recursion,3,2,45,0,0
+c54abbb6,Dynamic Programming,4,2,45,0,0
+96afdb6a,Loops,2,2,24,0,0
+0bbd03f9,Loops,2,2,27,1,0
+99e180db,Recursion,3,1,30,0,0
+1b3c9480,Functions,2,1,34,1,1
+e3f0ada2,Functions,2,2,30,0,0
+c1db4161,Functions,2,1,43,1,0
+27b49b90,Variables,1,2,17,0,0
+4334f0ec,Functions,2,3,38,0,0
+4f4a93f9,Loops,2,2,41,1,0
+8d26d65b,Functions,2,1,33,1,1
+0413c097,Loops,2,2,18,0,0
+4ecbb3b7,Loops,2,2,29,0,0
+e5b4ad69,Dynamic Programming,4,2,37,1,0
+91e64a70,Dynamic Programming,4,1,28,0,0
+abb9c659,Recursion,3,2,19,1,0
+cce7da75,Dynamic Programming,4,2,40,0,0
+1b3c9480,Loops,2,1,45,1,1
+e9b79c29,Functions,2,3,31,0,0
+a6e23819,Loops,2,2,26,0,0
+fdb66605,Recursion,3,3,32,0,0
+5c2bc04a,Loops,2,1,22,0,0
+080b3811,Dynamic Programming,4,1,20,0,0
+a13cc4dc,Dynamic Programming,4,1,31,0,0
+52ff1a49,Functions,2,1,26,0,0
+543086ca,Loops,2,2,35,0,0
+1f33c4ce,Recursion,3,2,42,1,0
+e6237686,Dynamic Programming,4,1,33,0,0
+342d668c,Loops,2,2,32,1,0
+72ddfa48,Loops,2,1,31,1,1
+f64a2ed0,Variables,1,1,27,1,1
+b1694887,Functions,2,1,36,1,1
+d41f22aa,Variables,1,3,30,0,0
+dc2ec317,Recursion,3,1,32,0,0
+bf0e5c55,Loops,2,1,26,1,1
+3d1f9bcf,Recursion,3,2,29,0,0
+5537bfd1,Recursion,3,1,30,0,0
+d41f22aa,Dynamic Programming,4,1,50,0,0
+86d4132b,Variables,1,1,22,1,1
+3dfc2e3a,Variables,1,1,37,1,0
+8fb1f315,Recursion,3,3,33,1,0
+39119303,Loops,2,2,31,0,0
+cb7b5ea5,Variables,1,3,17,1,0
+abb9c659,Recursion,3,3,52,0,0
+e5b4ad69,Loops,2,2,23,0,0
+595afe07,Variables,1,2,30,0,0
+0813b66c,Functions,2,2,39,1,1
+b41f7116,Variables,1,1,30,0,0
+9f98a2dc,Recursion,3,3,32,0,0
+cce7da75,Recursion,3,1,33,0,0
+92807a16,Dynamic Programming,4,1,54,1,0
+cce7da75,Variables,1,3,30,1,0
+e9b79c29,Functions,2,3,31,0,0
+25823a23,Functions,2,3,22,1,0
+2dd0eb22,Loops,2,1,29,0,0
+a6e23819,Functions,2,1,22,0,0
+c0a8a86f,Dynamic Programming,4,2,42,0,0
+ecbc285c,Loops,2,3,17,0,0
+92807a16,Dynamic Programming,4,1,38,0,0
+3d1f9bcf,Dynamic Programming,4,1,34,0,0
+a9b93c93,Loops,2,3,38,0,0
+d7be5c1e,Recursion,3,2,33,1,0
+e9d0c683,Dynamic Programming,4,1,35,1,0
+1e9af1a8,Variables,1,1,32,0,0
+84c8caac,Loops,2,1,24,1,1
+c1c9edb9,Variables,1,2,34,0,0
+73b88305,Variables,1,1,21,1,0
+0813b66c,Loops,2,1,41,0,0
+73b88305,Recursion,3,2,38,1,0
+84b563ae,Dynamic Programming,4,1,37,0,0
+ecbc285c,Recursion,3,2,34,0,0
+fe579de6,Variables,1,3,29,1,0
+cc50d102,Variables,1,1,17,1,1
+cce7da75,Functions,2,2,29,0,0
+cce7da75,Variables,1,2,40,1,0
+d63b006e,Loops,2,2,30,0,0
+45b5de1a,Dynamic Programming,4,2,21,0,0
+60b5d26b,Dynamic Programming,4,1,36,1,0
+60e2fa70,Recursion,3,1,34,0,0
+3a9f6f1f,Functions,2,2,31,0,0
+c1db4161,Dynamic Programming,4,1,41,1,0
+8fb1f315,Loops,2,1,30,1,0
+6c985f1e,Dynamic Programming,4,2,31,0,0
+b3f64f19,Recursion,3,2,36,0,0
+7eb5baa2,Recursion,3,1,24,0,0
+f4ad70ed,Functions,2,1,16,1,0
+25c83068,Recursion,3,3,37,0,0
+40bdcaf0,Variables,1,2,17,1,1
+48123c8b,Loops,2,1,25,1,1
+f6bfc15f,Variables,1,1,26,1,1
+080b3811,Functions,2,1,29,1,1
+7882fad6,Functions,2,2,20,1,0
+22394829,Dynamic Programming,4,3,37,0,0
+e3f0ada2,Dynamic Programming,4,3,48,1,0
+28fc7c4c,Dynamic Programming,4,2,26,1,0
+b08626e4,Recursion,3,1,36,1,0
+c30bde50,Functions,2,1,22,1,0
+1d4c9cc0,Recursion,3,1,41,0,0
+b1694887,Loops,2,1,29,1,0
+ddaf7ca2,Functions,2,2,35,1,0
+80f3d5b0,Dynamic Programming,4,1,27,0,0
+1214605f,Functions,2,3,33,0,0
+590f8480,Dynamic Programming,4,3,44,0,0
+ddaf7ca2,Recursion,3,1,29,0,0
+f1fc10b2,Recursion,3,1,29,0,0
+bf0e5c55,Functions,2,3,36,1,0
+3d1f9bcf,Loops,2,1,44,0,0
+1d4c9cc0,Recursion,3,3,40,0,0
+86d4132b,Dynamic Programming,4,1,32,0,0
+1661ded5,Variables,1,1,9,1,1
+1d9fc720,Variables,1,1,27,0,0
+0efdd7c7,Loops,2,1,31,0,0
+92807a16,Recursion,3,1,34,1,0
+c1db4161,Dynamic Programming,4,1,37,1,0
+4334f0ec,Functions,2,2,29,0,0
+1104d582,Dynamic Programming,4,3,21,0,0
+0f512b8e,Recursion,3,1,42,1,1
+6c0d033e,Variables,1,2,26,0,0
+8680f577,Dynamic Programming,4,1,38,1,0
+5537bfd1,Loops,2,3,26,0,0
+38caeb3c,Functions,2,1,19,0,0
+1d4c9cc0,Dynamic Programming,4,2,34,0,0
+4ecbb3b7,Loops,2,3,23,0,0
+cb5d5a7d,Recursion,3,2,45,0,0
+af3a75f2,Variables,1,1,12,1,1
+c30bde50,Recursion,3,2,25,1,0
+86878cf1,Recursion,3,2,28,0,0
+e5b4ad69,Variables,1,1,16,0,0
+bd0c2b39,Variables,1,3,35,0,0
+283b0d8b,Recursion,3,1,28,1,0
+5064bff6,Variables,1,3,40,0,0
+2dd0eb22,Functions,2,1,17,1,1
+5ac87020,Recursion,3,2,37,0,0
+64f6fedd,Dynamic Programming,4,2,38,1,0
+c30bfd68,Dynamic Programming,4,2,31,0,0
+5c2bc04a,Dynamic Programming,4,3,26,0,0
+8fb1f315,Variables,1,1,15,1,1
+dfcd6b5b,Variables,1,2,30,1,1
+5537bfd1,Loops,2,1,34,0,0
+5ac87020,Dynamic Programming,4,1,30,1,0
+d26e930c,Functions,2,3,29,0,0
+25c83068,Dynamic Programming,4,1,23,1,0
+3d1f9bcf,Dynamic Programming,4,1,27,0,0
+595afe07,Functions,2,1,11,0,0
+a6e23819,Functions,2,2,34,1,0
+ddaf7ca2,Variables,1,1,32,1,0
+66429af5,Dynamic Programming,4,2,33,0,0
+25c83068,Loops,2,1,38,1,1
+163a7d7d,Dynamic Programming,4,1,29,0,0
+1932d7f3,Recursion,3,1,29,0,0
+080b3811,Recursion,3,2,28,0,0
+5c2bc04a,Recursion,3,2,30,0,0
+30b66672,Loops,2,1,23,0,0
+342d668c,Functions,2,1,28,1,0
+5537bfd1,Variables,1,1,20,1,1
+7498baf0,Loops,2,1,39,0,0
+09505742,Functions,2,1,13,0,0
+0e79cd40,Loops,2,2,19,0,0
+ec60e30b,Functions,2,1,41,1,0
+f64a2ed0,Dynamic Programming,4,2,28,0,0
+52ff1a49,Functions,2,1,37,1,1
+8d26d65b,Recursion,3,1,29,1,0
+1e9af1a8,Variables,1,2,17,1,1
+8680f577,Recursion,3,1,34,1,0
+5e4c63f7,Variables,1,2,24,1,1
+67386278,Dynamic Programming,4,2,35,0,0
+25c83068,Functions,2,1,28,0,0
+e5b4ad69,Loops,2,2,27,0,0
+859789fb,Variables,1,2,34,0,0
+5c2bc04a,Loops,2,2,26,0,0
+7498baf0,Functions,2,2,30,0,0
+6c985f1e,Dynamic Programming,4,2,26,1,0
+ec846410,Functions,2,2,46,0,0
+08b99ac1,Recursion,3,3,37,1,0
+8539e3ec,Variables,1,1,17,1,1
+c21eefb7,Dynamic Programming,4,2,32,0,0
+d41f22aa,Functions,2,2,20,1,0
+4e096844,Dynamic Programming,4,1,26,0,0
+cb5d5a7d,Loops,2,2,32,1,0
+cd86db99,Variables,1,2,26,0,0
+9f98a2dc,Dynamic Programming,4,3,32,1,0
+7498baf0,Loops,2,1,26,1,0
+cc50d102,Dynamic Programming,4,1,24,0,0
+697ebb27,Recursion,3,2,46,0,0
+6c985f1e,Recursion,3,1,28,0,0
+1932d7f3,Dynamic Programming,4,2,39,0,0
+dfcd6b5b,Functions,2,3,51,0,0
+c5ebe991,Dynamic Programming,4,2,23,0,0
+d7be5c1e,Dynamic Programming,4,3,24,0,0
+dbd84587,Loops,2,1,25,1,1
+25823a23,Variables,1,2,21,0,0
+c1c9edb9,Dynamic Programming,4,2,39,1,0
+cb5d5a7d,Functions,2,1,34,1,0
+c54abbb6,Dynamic Programming,4,3,37,0,0
+03f4c13e,Loops,2,1,26,1,0
+5e4c63f7,Dynamic Programming,4,1,21,1,0
+717f86c2,Recursion,3,1,27,1,0
+a749cce0,Variables,1,3,25,0,0
+4eba48a6,Loops,2,3,33,0,0
+56060b4d,Functions,2,1,27,0,0
+717f86c2,Variables,1,2,26,0,0
+dbd84587,Loops,2,3,33,0,0
+4eba48a6,Functions,2,1,27,0,0
+bf0e5c55,Dynamic Programming,4,1,22,0,0
+aa8a37f4,Recursion,3,2,40,0,0
+c21eefb7,Dynamic Programming,4,1,31,1,0
+d7be5c1e,Dynamic Programming,4,1,39,1,0
+52ff1a49,Loops,2,1,25,0,0
+2dd0eb22,Recursion,3,3,35,0,0
+84392e9a,Dynamic Programming,4,2,44,0,0
+53716029,Loops,2,2,38,0,0
+84b563ae,Loops,2,2,30,1,0
+b87fb52d,Loops,2,2,32,1,0
+bd0c2b39,Functions,2,1,35,0,0
+e9d0c683,Functions,2,1,31,0,0
+96f5f1e4,Recursion,3,3,39,0,0
+590f8480,Recursion,3,1,17,1,0
+0bbd03f9,Loops,2,1,34,1,1
+2dd0eb22,Variables,1,1,31,0,0
+53716029,Dynamic Programming,4,2,49,0,0
+84b563ae,Loops,2,1,37,1,1
+4fb1bc31,Variables,1,2,29,1,1
+0efdd7c7,Variables,1,2,23,1,1
+a9b93c93,Loops,2,2,23,1,0
+f64a2ed0,Dynamic Programming,4,2,48,0,0
+1d4c9cc0,Recursion,3,3,31,0,0
+35645b69,Functions,2,1,24,0,0
+1932d7f3,Loops,2,1,23,0,0
+7498baf0,Loops,2,1,21,1,0
+1104d582,Variables,1,3,37,0,0
+4ecbb3b7,Variables,1,3,21,0,0
+b08626e4,Recursion,3,3,30,1,0
+aa8a37f4,Functions,2,1,24,0,0
+d41f22aa,Variables,1,2,27,0,0
+0fa3f87c,Loops,2,1,14,0,0
+38caeb3c,Dynamic Programming,4,2,31,0,0
+e9d0c683,Dynamic Programming,4,1,41,0,0
+b3f64f19,Functions,2,2,28,0,0
+ccd462cf,Recursion,3,2,35,0,0
+897979a0,Functions,2,1,32,0,0
+44110570,Dynamic Programming,4,2,48,1,0
+0813b66c,Functions,2,2,34,1,0
+ec846410,Loops,2,1,36,1,0
+e1571e55,Variables,1,1,26,1,1
+f4ad70ed,Recursion,3,2,34,0,0
+5c2bc04a,Functions,2,2,37,0,0
+1b3c9480,Loops,2,1,35,1,0
+3d69c0ca,Recursion,3,2,28,1,0
+5e4c63f7,Functions,2,2,31,1,1
+8e5699ff,Recursion,3,1,25,0,0
+c54abbb6,Functions,2,3,39,0,0
+cb7b5ea5,Loops,2,1,13,1,0
+80459ec7,Dynamic Programming,4,1,35,0,0
+2dd0eb22,Functions,2,2,27,0,0
+c30bde50,Dynamic Programming,4,1,35,0,0
+96f5f1e4,Dynamic Programming,4,2,40,1,0
+e6237686,Variables,1,1,13,1,1
+dc2ec317,Functions,2,2,45,0,0
+c5ebe991,Recursion,3,2,42,1,0
+df9ead78,Recursion,3,1,35,1,0
+f6bfc15f,Variables,1,2,39,1,0
+1e9af1a8,Functions,2,1,35,0,0
+c9d83e66,Dynamic Programming,4,1,30,0,0
+75eee0b0,Recursion,3,2,38,1,0
+29da264a,Recursion,3,2,38,1,0
+f1fc10b2,Dynamic Programming,4,1,30,1,0
+67386278,Variables,1,1,34,1,1
+e6d5e657,Variables,1,1,17,1,1
+abb9c659,Dynamic Programming,4,3,40,0,0
+ecbc285c,Dynamic Programming,4,1,42,0,0
+29da264a,Variables,1,3,31,1,0
+99e180db,Loops,2,1,24,1,1
+d49f68ef,Recursion,3,3,27,0,0
+0813b66c,Dynamic Programming,4,3,38,0,0
+5064bff6,Recursion,3,1,37,0,0
+27b49b90,Recursion,3,1,30,0,0
+cb7b5ea5,Recursion,3,2,26,0,0
+f4ad70ed,Functions,2,1,31,1,1
+66429af5,Recursion,3,3,40,0,0
+ddaf7ca2,Dynamic Programming,4,1,29,0,0
+29da264a,Functions,2,1,30,1,0
+1bd8d2b4,Recursion,3,3,35,0,0
+a749cce0,Dynamic Programming,4,2,42,0,0
+cb5d5a7d,Loops,2,1,22,1,1
+a749cce0,Dynamic Programming,4,2,41,0,0
+e9b79c29,Loops,2,3,26,0,0
+a749cce0,Recursion,3,1,31,0,0
+f64a2ed0,Loops,2,1,29,1,1
+1d4c9cc0,Loops,2,1,31,0,0
+08b99ac1,Functions,2,1,27,1,0
+637f435d,Functions,2,2,36,0,0
+91e64a70,Dynamic Programming,4,2,32,0,0
+897979a0,Loops,2,1,31,1,1
+080b3811,Functions,2,2,18,0,0
+72ddfa48,Variables,1,3,12,1,0
+1d4c9cc0,Recursion,3,2,24,0,0
+e6d5e657,Functions,2,2,14,1,0
+08d327e6,Dynamic Programming,4,1,22,0,0
+c30bfd68,Loops,2,1,28,1,1
+60e2fa70,Functions,2,1,21,1,0
+b3f64f19,Loops,2,2,36,0,0
+4334f0ec,Variables,1,2,20,1,0
+75eee0b0,Variables,1,1,21,1,0
+69487be7,Variables,1,1,8,1,0
+a13cc4dc,Variables,1,2,38,0,0
+af3a75f2,Dynamic Programming,4,2,40,0,0
+abb9c659,Variables,1,3,27,0,0
+e1571e55,Dynamic Programming,4,2,25,0,0
+3d1f9bcf,Recursion,3,2,25,0,0
+59811e5d,Dynamic Programming,4,2,44,0,0
+543086ca,Functions,2,1,20,0,0
+7d83aaa2,Recursion,3,1,33,0,0
+cd86db99,Recursion,3,1,26,1,0
+e6237686,Loops,2,1,30,0,0
+cb7b5ea5,Loops,2,1,28,1,0
+ddaf7ca2,Variables,1,2,33,1,1
+38caeb3c,Loops,2,2,31,1,0
+bf0e5c55,Variables,1,3,35,1,0
+5064bff6,Variables,1,2,21,1,1
+69487be7,Loops,2,2,25,0,0
+3263dca5,Variables,1,2,39,1,1
+d26e930c,Dynamic Programming,4,1,14,0,0
+d26e930c,Variables,1,2,26,1,1
+4f4a93f9,Variables,1,2,22,1,1
+a4e0c28d,Variables,1,1,25,1,1
+57691047,Variables,1,1,20,1,1
+6c985f1e,Dynamic Programming,4,1,35,0,0
+a749cce0,Dynamic Programming,4,2,33,0,0
+d63b006e,Functions,2,2,26,0,0
+a9b93c93,Recursion,3,2,39,0,0
+4334f0ec,Dynamic Programming,4,1,16,0,0
+4f4a93f9,Dynamic Programming,4,1,34,0,0
+057a3be1,Functions,2,2,35,0,0
+1bd8d2b4,Loops,2,1,23,1,1
+7d83aaa2,Functions,2,3,36,1,0
+8680f577,Dynamic Programming,4,2,22,0,0
+2a9272f0,Recursion,3,2,39,0,0
+03f4c13e,Variables,1,1,15,0,0
+d611361f,Recursion,3,1,29,0,0
+a8070b67,Recursion,3,2,38,0,0
+44e50da6,Variables,1,2,37,1,1
+7498baf0,Loops,2,2,27,1,0
+b41f7116,Dynamic Programming,4,2,29,0,0
+a6e23819,Variables,1,1,15,1,0
+64f6fedd,Functions,2,2,12,1,0
+45b5de1a,Variables,1,1,9,1,1
+a4e0c28d,Loops,2,1,21,0,0
+03e26a0b,Recursion,3,1,39,1,0
+72ddfa48,Dynamic Programming,4,3,33,0,0
+a6e23819,Loops,2,1,21,1,0
+8e5699ff,Recursion,3,1,32,1,0
+e6237686,Variables,1,3,23,0,0
+163a7d7d,Loops,2,3,21,1,0
+a9b93c93,Dynamic Programming,4,2,33,0,0
+c1c9edb9,Functions,2,2,24,0,0
+d63b006e,Loops,2,1,33,1,0
+0db3460b,Variables,1,2,32,1,1
+283b0d8b,Recursion,3,1,27,0,0
+1661ded5,Functions,2,3,50,0,0
+99e180db,Variables,1,3,10,0,0
+00e69998,Dynamic Programming,4,1,37,0,0
+3a9f6f1f,Loops,2,2,20,0,0
+3a9f6f1f,Variables,1,2,13,1,0
+30b66672,Recursion,3,1,20,0,0
+283b0d8b,Variables,1,2,28,0,0
+3a9f6f1f,Dynamic Programming,4,2,47,0,0
+03e26a0b,Loops,2,2,34,1,0
+7d83aaa2,Loops,2,1,30,1,0
+80459ec7,Loops,2,2,22,0,0
+7498baf0,Loops,2,1,20,0,0
+5745afc1,Dynamic Programming,4,2,24,0,0
+697ebb27,Variables,1,3,17,0,0
+4eba48a6,Recursion,3,1,11,0,0
+5537bfd1,Loops,2,3,35,1,0
+cd86db99,Functions,2,1,22,0,0
+163a7d7d,Variables,1,2,30,0,0
+5ac87020,Loops,2,1,15,0,0
+8680f577,Functions,2,2,5,1,0
+8fb1f315,Dynamic Programming,4,3,37,0,0
+3d59b919,Dynamic Programming,4,2,44,0,0
+595afe07,Functions,2,2,37,0,0
+48123c8b,Loops,2,2,34,0,0
+6c0d033e,Variables,1,2,21,1,1
+d41f22aa,Variables,1,1,20,0,0
+cb7b5ea5,Variables,1,3,34,1,1
+f2af96c0,Dynamic Programming,4,2,43,1,0
+cb7b5ea5,Variables,1,3,39,1,0
+86d4132b,Dynamic Programming,4,2,30,1,0
+629f1950,Dynamic Programming,4,2,35,1,0
+1e9af1a8,Loops,2,2,27,0,0
+e5b4ad69,Functions,2,1,35,1,0
+3263dca5,Recursion,3,2,38,1,0
+1d9fc720,Functions,2,2,33,1,0
+4eba48a6,Dynamic Programming,4,3,35,0,0
+cb7b5ea5,Dynamic Programming,4,1,25,0,0
+fdb66605,Variables,1,2,26,1,1
+22394829,Loops,2,3,29,1,0
+1104d582,Dynamic Programming,4,1,40,0,0
+1104d582,Functions,2,3,19,1,0
+0813b66c,Functions,2,2,24,0,0
+c21eefb7,Variables,1,3,31,1,0
+c21eefb7,Recursion,3,1,25,0,0
+72ddfa48,Loops,2,3,31,0,0
+d49f68ef,Functions,2,1,24,1,0
+3263dca5,Functions,2,1,35,0,0
+c9d83e66,Loops,2,1,24,0,0
+dfcd6b5b,Functions,2,1,33,0,0
+697ebb27,Variables,1,2,29,0,0
+e6d5e657,Variables,1,1,13,1,1
+0fa3f87c,Recursion,3,3,39,0,0
+1932d7f3,Recursion,3,2,32,1,0
+abb9c659,Functions,2,1,19,1,0
+c30bde50,Variables,1,2,28,1,1
+f2af96c0,Variables,1,1,28,1,0
+25823a23,Variables,1,1,31,1,1
+1f33c4ce,Functions,2,3,38,0,0
+57691047,Variables,1,1,24,0,0
+b3f64f19,Dynamic Programming,4,2,23,1,0
+6c6ea779,Loops,2,2,12,0,0
+d26e930c,Variables,1,2,29,0,0
+ccd462cf,Variables,1,1,25,1,1
+717f86c2,Loops,2,1,27,1,0
+29d8241a,Functions,2,1,16,0,0
+ec60e30b,Functions,2,1,33,1,1
+1bd8d2b4,Loops,2,1,8,0,0
+a8e1ff27,Variables,1,1,19,1,1
+59811e5d,Dynamic Programming,4,2,59,0,0
+f2af96c0,Dynamic Programming,4,1,27,0,0
+637f435d,Functions,2,1,16,1,1
+e6237686,Loops,2,2,35,1,1
+e6d5e657,Recursion,3,3,10,0,0
+cb7b5ea5,Dynamic Programming,4,2,24,0,0
+c30bfd68,Dynamic Programming,4,2,43,0,0
+56060b4d,Functions,2,1,25,1,1
+2dd0eb22,Functions,2,1,20,1,1
+c30bde50,Variables,1,2,32,1,1
+1214605f,Variables,1,2,17,1,0
+dc2ec317,Functions,2,1,27,0,0
+38caeb3c,Functions,2,1,23,0,0
+35645b69,Functions,2,1,29,1,1
+0db3460b,Dynamic Programming,4,1,28,0,0
+5064bff6,Variables,1,1,26,0,0
+dc54d27c,Dynamic Programming,4,2,30,0,0
+3dfc2e3a,Recursion,3,3,30,0,0
+cce7da75,Variables,1,2,13,0,0
+84b563ae,Functions,2,3,39,0,0
+80f3d5b0,Variables,1,3,34,0,0
+d20907be,Variables,1,2,24,1,0
+84b563ae,Functions,2,1,28,1,1
+28fc7c4c,Functions,2,2,27,1,0
+29da264a,Functions,2,2,23,1,0
+1d9fc720,Dynamic Programming,4,1,34,1,0
+049fc19a,Dynamic Programming,4,2,37,0,0
+a9b93c93,Dynamic Programming,4,2,33,1,0
+abb9c659,Functions,2,3,32,1,0
+e6237686,Recursion,3,2,31,1,0
+96f5f1e4,Variables,1,1,25,1,1
+ccd462cf,Recursion,3,1,28,0,0
+80f3d5b0,Loops,2,2,35,1,0
+03f4c13e,Functions,2,1,31,1,0
+283b0d8b,Loops,2,1,37,1,0
+7e3123d1,Loops,2,1,13,1,0
+1661ded5,Dynamic Programming,4,2,46,0,0
+897979a0,Loops,2,3,28,1,0
+82b05027,Loops,2,2,26,0,0
+bd0c2b39,Recursion,3,2,32,0,0
+faf2230c,Variables,1,1,5,1,1
+8539e3ec,Recursion,3,1,30,1,0
+cbc58144,Recursion,3,1,42,0,0
+86878cf1,Functions,2,1,31,1,0
+03e26a0b,Dynamic Programming,4,2,36,0,0
+0f512b8e,Recursion,3,1,43,0,0
+1d9fc720,Loops,2,1,33,0,0
+af3a75f2,Loops,2,1,23,0,0
+ec846410,Variables,1,2,12,1,1
+dbd84587,Loops,2,1,19,1,1
+7882fad6,Loops,2,1,25,1,0
+00a8a9a8,Variables,1,1,26,1,1
+99e180db,Loops,2,3,18,1,0
+e6d5e657,Variables,1,2,21,0,0
+859789fb,Dynamic Programming,4,1,20,0,0
+0e79cd40,Functions,2,2,35,0,0
+e5b4ad69,Loops,2,1,25,1,1
+283b0d8b,Loops,2,1,21,0,0
+163a7d7d,Recursion,3,1,12,0,0
+66429af5,Functions,2,2,35,0,0
+1214605f,Recursion,3,2,35,0,0
+0e79cd40,Functions,2,1,19,1,0
+af3a75f2,Recursion,3,2,28,0,0
+66429af5,Dynamic Programming,4,1,29,0,0
+c1db4161,Loops,2,3,32,0,0
+0fa3f87c,Recursion,3,1,21,1,0
+d41f22aa,Loops,2,1,21,1,0
+b8b005de,Recursion,3,2,29,0,0
+48123c8b,Loops,2,1,25,0,0
+637f435d,Dynamic Programming,4,2,35,0,0
+df9ead78,Loops,2,2,46,0,0
+8539e3ec,Recursion,3,1,20,0,0
+44110570,Recursion,3,2,47,0,0
+e9d0c683,Dynamic Programming,4,1,27,1,0
+4fb1bc31,Functions,2,2,34,0,0
+53716029,Dynamic Programming,4,2,36,1,0
+52ff1a49,Dynamic Programming,4,1,32,0,0
+1c4b0d66,Recursion,3,1,17,0,0
+f4ad70ed,Variables,1,2,32,0,0
+35645b69,Loops,2,1,30,0,0
+a83e881d,Recursion,3,1,34,0,0
+29da264a,Functions,2,1,31,1,0
+c30bfd68,Recursion,3,1,37,1,0
+b87fb52d,Functions,2,2,28,1,0
+09505742,Recursion,3,1,27,0,0
+7e3123d1,Dynamic Programming,4,1,45,0,0
+cce7da75,Functions,2,3,34,0,0
+3d1f9bcf,Variables,1,1,14,1,1
+96f5f1e4,Dynamic Programming,4,1,25,0,0
+e11c2057,Dynamic Programming,4,1,28,1,0
+859789fb,Loops,2,1,24,1,0
+1f33c4ce,Functions,2,2,23,0,0
+d26e930c,Functions,2,3,21,1,0
+cb7b5ea5,Loops,2,2,30,0,0
+dbd84587,Dynamic Programming,4,1,51,0,0
+30b66672,Variables,1,1,31,0,0
+d26e930c,Loops,2,1,24,0,0
+e33fb13f,Functions,2,3,35,0,0
+a8070b67,Loops,2,1,30,1,0
+d7be5c1e,Functions,2,2,35,0,0
+ec60e30b,Functions,2,2,28,1,0
+96f5f1e4,Functions,2,3,20,0,0
+8539e3ec,Recursion,3,2,40,1,0
+96afdb6a,Variables,1,3,30,0,0
+daee0007,Functions,2,3,33,1,0
+c9d83e66,Variables,1,1,36,1,1
+e96f6898,Loops,2,2,29,1,0
+ec60e30b,Loops,2,3,32,0,0
+a9b93c93,Variables,1,1,32,0,0
+b41f7116,Dynamic Programming,4,2,37,1,0
+3d59b919,Variables,1,2,20,0,0
+27b49b90,Dynamic Programming,4,1,23,0,0
+2d51fd19,Functions,2,1,29,0,0
+b3f64f19,Functions,2,2,24,0,0
+dc54d27c,Loops,2,2,35,1,0
+1932d7f3,Functions,2,1,22,1,1
+38caeb3c,Dynamic Programming,4,1,29,0,0
+03f4c13e,Loops,2,2,40,1,0
+8fb1f315,Loops,2,2,25,0,0
+595afe07,Dynamic Programming,4,1,33,0,0
+a8070b67,Loops,2,2,33,0,0
+595afe07,Variables,1,3,42,0,0
+72ddfa48,Recursion,3,1,42,0,0
+a8070b67,Variables,1,2,19,1,0
+283b0d8b,Loops,2,2,26,1,1
+40bdcaf0,Dynamic Programming,4,3,55,0,0
+ccd462cf,Loops,2,1,29,1,0
+fe579de6,Recursion,3,1,32,0,0
+a8e1ff27,Dynamic Programming,4,2,24,0,0
+39119303,Dynamic Programming,4,1,30,1,0
+96afdb6a,Recursion,3,3,56,0,0
+84b563ae,Loops,2,1,30,1,1
+cb7b5ea5,Functions,2,1,40,0,0
+0813b66c,Recursion,3,3,34,1,0
+d63b006e,Variables,1,2,26,1,1
+fe579de6,Recursion,3,2,45,0,0
+3d1f9bcf,Variables,1,1,15,0,0
+dc54d27c,Dynamic Programming,4,1,33,1,0
+60b5d26b,Variables,1,1,26,1,1
+8680f577,Functions,2,2,40,0,0
+e6d5e657,Functions,2,2,18,1,0
+03e26a0b,Variables,1,1,34,1,1
+75eee0b0,Functions,2,2,36,0,0
+c30bfd68,Dynamic Programming,4,1,33,1,0
+84c8caac,Loops,2,2,30,0,0
+0f512b8e,Variables,1,1,23,1,1
+fdb66605,Variables,1,1,7,1,1
+cce7da75,Loops,2,1,32,1,0
+abb9c659,Loops,2,2,23,0,0
+69487be7,Functions,2,2,13,0,0
+e6d5e657,Functions,2,2,29,1,0
+c9d83e66,Variables,1,1,14,1,1
+35645b69,Functions,2,2,33,0,0
+0813b66c,Loops,2,3,33,1,0
+8d26d65b,Dynamic Programming,4,1,30,1,0
+283b0d8b,Loops,2,1,42,1,1
+3d69c0ca,Functions,2,1,26,1,1
+72ddfa48,Variables,1,1,29,1,1
+d7be5c1e,Dynamic Programming,4,1,38,0,0
+f1fc10b2,Recursion,3,1,31,0,0
+f64a2ed0,Loops,2,2,35,0,0
+629f1950,Recursion,3,2,26,0,0
+7d83aaa2,Functions,2,1,17,0,0
+d26e930c,Variables,1,1,27,1,0
+3263dca5,Dynamic Programming,4,1,38,0,0
+3a9f6f1f,Loops,2,2,33,1,0
+dbd84587,Dynamic Programming,4,2,42,0,0
+0ae7c5b8,Functions,2,3,19,0,0
+4334f0ec,Variables,1,1,21,1,0
+b87fb52d,Functions,2,3,33,1,0
+dfcd6b5b,Dynamic Programming,4,2,30,0,0
+c0a8a86f,Loops,2,2,21,0,0
+e6d5e657,Dynamic Programming,4,2,24,1,0
+f1fc10b2,Recursion,3,1,38,0,0
+d7be5c1e,Loops,2,2,31,1,0
+595afe07,Recursion,3,1,20,0,0
+c1db4161,Functions,2,2,33,1,0
+cce7da75,Dynamic Programming,4,1,38,1,0
+73b88305,Recursion,3,2,27,1,0
+859789fb,Functions,2,1,24,1,0
+cd86db99,Variables,1,1,10,0,0
+f4ad70ed,Functions,2,3,38,1,0
+1f33c4ce,Recursion,3,2,40,1,0
+c9d83e66,Functions,2,1,24,0,0
+f64a2ed0,Recursion,3,2,33,0,0
+ecbc285c,Loops,2,1,47,0,0
+bf0e5c55,Recursion,3,1,34,0,0
+3f3826f3,Loops,2,3,36,1,0
+c5ebe991,Loops,2,2,35,0,0
+96f5f1e4,Variables,1,1,19,0,0
+859789fb,Dynamic Programming,4,2,28,0,0
+f1fc10b2,Recursion,3,2,37,0,0
+5c2bc04a,Functions,2,1,37,1,0
+66429af5,Recursion,3,1,49,1,0
+7e3123d1,Variables,1,2,25,0,0
+1661ded5,Loops,2,1,22,1,0
+c06c593a,Loops,2,1,23,1,1
+daee0007,Functions,2,3,26,1,0
+60e2fa70,Dynamic Programming,4,3,47,0,0
+8539e3ec,Recursion,3,2,35,1,0
+f64a2ed0,Functions,2,1,13,0,0
+2dd0eb22,Functions,2,3,27,0,0
+6c6ea779,Recursion,3,3,46,0,0
+1e9af1a8,Functions,2,1,28,1,1
+fe579de6,Functions,2,1,31,0,0
+057a3be1,Loops,2,1,32,0,0
+4334f0ec,Functions,2,2,40,1,0
+daee0007,Dynamic Programming,4,1,35,0,0
+27b49b90,Functions,2,1,32,0,0
+1d4c9cc0,Loops,2,1,31,1,0
+cce7da75,Variables,1,2,25,0,0
+0e79cd40,Variables,1,1,32,1,1
+ddaf7ca2,Recursion,3,3,30,0,0
+342d668c,Variables,1,1,23,1,1
+1bd8d2b4,Variables,1,2,8,0,0
+c30bde50,Functions,2,1,12,1,1
+5064bff6,Recursion,3,2,25,0,0
+859789fb,Variables,1,1,20,1,1
+c9d83e66,Functions,2,1,32,0,0
+39119303,Recursion,3,1,42,1,0
+c9d83e66,Functions,2,3,30,0,0
+5064bff6,Functions,2,1,31,0,0
+56060b4d,Functions,2,3,30,0,0
+60e2fa70,Dynamic Programming,4,2,28,0,0
+faf2230c,Dynamic Programming,4,1,29,0,0
+60b5d26b,Variables,1,1,18,1,1
+8680f577,Functions,2,2,27,0,0
+a13cc4dc,Functions,2,1,19,0,0
+0f512b8e,Variables,1,1,30,1,1
+0db3460b,Variables,1,1,34,1,1
+4eba48a6,Functions,2,2,18,1,0
+847c54fb,Recursion,3,1,41,1,0
+86878cf1,Loops,2,2,23,1,0
+6e99ac2f,Dynamic Programming,4,1,24,0,0
+e6d5e657,Loops,2,1,32,1,0
+c21eefb7,Functions,2,2,27,0,0
+859789fb,Variables,1,2,21,0,0
+ccd462cf,Dynamic Programming,4,1,38,0,0
+f64a2ed0,Dynamic Programming,4,3,45,0,0
+09505742,Recursion,3,2,34,0,0
+d7be5c1e,Functions,2,1,33,1,1
+2dd0eb22,Loops,2,1,41,0,0
+859789fb,Loops,2,2,23,0,0
+57691047,Loops,2,1,18,0,0
+1c4b0d66,Dynamic Programming,4,2,24,1,0
+8539e3ec,Loops,2,2,24,1,0
+1104d582,Recursion,3,2,34,1,0
+af3a75f2,Dynamic Programming,4,1,22,1,0
+bd0c2b39,Recursion,3,2,31,0,0
+a8e1ff27,Loops,2,1,30,1,1
+e6237686,Functions,2,3,39,1,0
+d49f68ef,Recursion,3,1,24,0,0
+e6d5e657,Recursion,3,1,34,0,0
+3a9f6f1f,Recursion,3,1,35,1,0
+8539e3ec,Loops,2,2,31,0,0
+08b99ac1,Functions,2,1,38,0,0
+cc50d102,Variables,1,1,32,1,0
+1bd8d2b4,Loops,2,2,32,1,0
+44e50da6,Variables,1,2,29,1,1
+8e5699ff,Recursion,3,2,27,1,0
+8fb1f315,Functions,2,2,25,1,0
+38caeb3c,Loops,2,1,29,1,1
+99e180db,Variables,1,3,22,1,0
+1c4b0d66,Recursion,3,3,44,0,0
+543086ca,Loops,2,1,21,1,1
+1932d7f3,Variables,1,3,28,0,0
+44110570,Dynamic Programming,4,1,33,0,0
+f64a2ed0,Functions,2,1,28,0,0
+08d327e6,Functions,2,3,26,0,0
+dc2ec317,Recursion,3,1,29,0,0
+e3f0ada2,Dynamic Programming,4,3,29,0,0
+e11c2057,Variables,1,2,32,0,0
+a6e23819,Recursion,3,1,46,0,0
+6c0d033e,Variables,1,1,34,0,0
+0fa3f87c,Functions,2,1,20,0,0
+cd86db99,Dynamic Programming,4,2,34,0,0
+cb7b5ea5,Functions,2,1,35,1,0
+697ebb27,Dynamic Programming,4,1,29,1,0
+86878cf1,Recursion,3,1,32,0,0
+0e79cd40,Recursion,3,3,36,1,0
+af3a75f2,Variables,1,1,24,1,1
+5c2bc04a,Variables,1,2,28,0,0
+86878cf1,Recursion,3,1,33,0,0
+5e4c63f7,Variables,1,2,35,1,1
+53716029,Loops,2,1,29,1,1
+f64a2ed0,Recursion,3,1,40,1,0
+6313f2f8,Loops,2,3,28,0,0
+f4ad70ed,Dynamic Programming,4,1,38,1,0
+35645b69,Dynamic Programming,4,1,23,0,0
+cb5d5a7d,Recursion,3,2,15,1,0
+44110570,Loops,2,1,34,1,1
+637f435d,Variables,1,1,22,1,1
+7d83aaa2,Recursion,3,1,25,1,0
+38caeb3c,Recursion,3,1,47,0,0
+5c2bc04a,Dynamic Programming,4,1,26,1,0
+c21eefb7,Recursion,3,3,28,0,0
+1e9af1a8,Loops,2,1,31,1,0
+1214605f,Dynamic Programming,4,1,34,0,0
+1d4c9cc0,Dynamic Programming,4,3,36,0,0
+cc50d102,Dynamic Programming,4,1,28,1,0
+c1c9edb9,Recursion,3,2,28,0,0
+dc54d27c,Functions,2,3,32,1,0
+a8e1ff27,Variables,1,1,21,1,1
+75eee0b0,Dynamic Programming,4,2,35,0,0
+b08626e4,Variables,1,1,8,1,0
+d7be5c1e,Loops,2,2,24,1,0
+f64a2ed0,Dynamic Programming,4,2,41,0,0
+f1fc10b2,Variables,1,1,32,1,1
+b3f64f19,Loops,2,1,20,1,1
+4e096844,Variables,1,1,13,1,1
+d7be5c1e,Loops,2,3,24,0,0
+c06c593a,Functions,2,2,41,1,0
+1d4c9cc0,Functions,2,2,39,0,0
+1c4b0d66,Functions,2,3,23,0,0
+5ac87020,Loops,2,2,30,0,0
+283b0d8b,Recursion,3,1,26,0,0
+72ddfa48,Recursion,3,3,41,1,0
+e11c2057,Variables,1,1,29,1,1
+44e50da6,Variables,1,1,31,1,1
+57691047,Variables,1,1,32,1,1
+e9d0c683,Loops,2,1,23,0,0
+1f33c4ce,Functions,2,2,27,1,1
+d63b006e,Recursion,3,1,35,1,0
+5e4c63f7,Variables,1,2,27,1,0
+38caeb3c,Functions,2,2,28,0,0
+52ff1a49,Variables,1,1,19,1,0
+d26e930c,Variables,1,2,29,1,1
+e11c2057,Recursion,3,2,19,0,0
+99e180db,Variables,1,2,27,1,0
+96f5f1e4,Recursion,3,1,38,1,0
+d49f68ef,Variables,1,1,25,0,0
+5745afc1,Variables,1,3,35,1,0
+84392e9a,Loops,2,2,36,1,0
+e9d0c683,Variables,1,2,17,0,0
+c30bde50,Recursion,3,2,29,0,0
+2a9272f0,Recursion,3,1,29,1,0
+45b5de1a,Dynamic Programming,4,1,28,0,0
+ec60e30b,Dynamic Programming,4,2,34,0,0
+5c2bc04a,Loops,2,1,22,1,1
+86878cf1,Functions,2,2,37,1,0
+0fa3f87c,Functions,2,2,15,1,0
+c54abbb6,Recursion,3,3,21,0,0
+dfcd6b5b,Variables,1,2,35,1,0
+56060b4d,Recursion,3,1,43,0,0
+29da264a,Variables,1,1,35,1,1
+dc2ec317,Functions,2,3,53,0,0
+a13cc4dc,Variables,1,1,23,1,1
+ccd462cf,Loops,2,2,23,0,0
+fdb66605,Recursion,3,1,38,0,0
+c5ebe991,Variables,1,1,29,1,1
+52ff1a49,Recursion,3,1,24,1,0
+b3f64f19,Functions,2,2,26,0,0
+e11c2057,Loops,2,1,27,1,0
+e6d5e657,Dynamic Programming,4,2,31,0,0
+1d4c9cc0,Loops,2,3,32,0,0
+60b5d26b,Loops,2,1,5,1,0
+91e64a70,Functions,2,1,17,1,1
+1f33c4ce,Dynamic Programming,4,1,37,1,0
+9f98a2dc,Dynamic Programming,4,1,26,0,0
+1e9af1a8,Recursion,3,3,49,0,0
+e3f0ada2,Loops,2,2,28,0,0
+2d51fd19,Dynamic Programming,4,1,20,0,0
+86878cf1,Dynamic Programming,4,1,28,0,0
+09505742,Loops,2,3,31,0,0
+8d26d65b,Recursion,3,2,36,0,0
+a8e1ff27,Recursion,3,3,41,0,0
+0e79cd40,Loops,2,1,22,0,0
+1214605f,Functions,2,2,22,0,0
+057a3be1,Functions,2,2,28,1,0
+7eb5baa2,Recursion,3,3,16,1,0
+7eb5baa2,Loops,2,3,28,0,0
+b8b005de,Variables,1,2,23,1,1
+cb5d5a7d,Loops,2,3,21,0,0
+f2af96c0,Dynamic Programming,4,3,37,0,0
+6e99ac2f,Dynamic Programming,4,2,43,0,0
+08b99ac1,Functions,2,2,40,1,0
+e96f6898,Variables,1,2,16,0,0
+92807a16,Variables,1,1,27,1,1
+dc2ec317,Loops,2,2,44,0,0
+1d9fc720,Recursion,3,2,31,1,0
+e6574e00,Functions,2,1,19,0,0
+96afdb6a,Dynamic Programming,4,3,30,0,0
+57691047,Variables,1,1,21,1,1
+adef3c23,Dynamic Programming,4,2,36,0,0
+8d26d65b,Dynamic Programming,4,3,37,0,0
+c06c593a,Recursion,3,2,44,0,0
+64f6fedd,Dynamic Programming,4,1,41,1,0
+08b99ac1,Functions,2,1,30,1,1
+22394829,Dynamic Programming,4,3,34,0,0
+fdb66605,Recursion,3,2,34,0,0
+e9b79c29,Variables,1,3,23,0,0
+4334f0ec,Dynamic Programming,4,1,16,0,0
+4f4a93f9,Loops,2,1,29,1,1
+cb7b5ea5,Loops,2,2,26,1,0
+84392e9a,Recursion,3,3,20,0,0
+faf2230c,Recursion,3,1,27,0,0
+2dd0eb22,Recursion,3,2,35,1,0
+f4ad70ed,Functions,2,2,36,0,0
+ccd462cf,Variables,1,1,26,1,1
+a4e0c28d,Dynamic Programming,4,2,45,0,0
+09505742,Variables,1,1,18,1,1
+f1fc10b2,Loops,2,2,28,1,0
+5e4c63f7,Dynamic Programming,4,2,39,0,0
+25c83068,Dynamic Programming,4,1,37,0,0
+4f4a93f9,Functions,2,1,16,1,1
+67386278,Loops,2,1,18,1,1
+dbd84587,Recursion,3,3,16,0,0
+f6bfc15f,Functions,2,1,33,0,0
+adef3c23,Functions,2,2,30,0,0
+5ac87020,Functions,2,2,22,0,0
+8d26d65b,Dynamic Programming,4,3,44,0,0
+ecbc285c,Variables,1,1,29,0,0
+8e5699ff,Loops,2,1,14,1,0
+66429af5,Loops,2,3,41,0,0
+d49f68ef,Variables,1,1,27,1,0
+28fc7c4c,Loops,2,2,27,1,1
+859789fb,Loops,2,2,14,0,0
+8e5699ff,Functions,2,1,15,0,0
+30b66672,Functions,2,1,15,1,0
+d41f22aa,Variables,1,3,34,1,0
+d26e930c,Dynamic Programming,4,1,41,1,0
+4334f0ec,Loops,2,3,29,1,0
+57691047,Functions,2,2,28,1,0
+5745afc1,Recursion,3,3,28,0,0
+c06c593a,Functions,2,3,44,0,0
+e9d0c683,Recursion,3,3,38,1,0
+84b563ae,Loops,2,3,26,1,0
+38caeb3c,Recursion,3,1,26,1,0
+22394829,Variables,1,1,12,1,1
+d611361f,Variables,1,1,14,1,1
+67386278,Dynamic Programming,4,2,42,0,0
+27b49b90,Dynamic Programming,4,1,37,1,0
+7d83aaa2,Variables,1,1,23,1,1
+629f1950,Recursion,3,2,42,0,0
+6c6ea779,Recursion,3,2,42,1,0
+dfcd6b5b,Dynamic Programming,4,3,53,0,0
+03f4c13e,Variables,1,2,39,1,1
+6c6ea779,Loops,2,3,37,1,0
+4ecbb3b7,Recursion,3,1,34,1,0
+75eee0b0,Dynamic Programming,4,1,43,0,0
+7b55af79,Functions,2,3,28,0,0
+3dfc2e3a,Variables,1,3,14,1,1
+8e5699ff,Loops,2,1,20,1,0
+ddaf7ca2,Variables,1,1,35,1,1
+60b5d26b,Recursion,3,2,42,1,0
+a8e1ff27,Variables,1,1,33,0,0
+75eee0b0,Variables,1,1,42,0,0
+af3a75f2,Recursion,3,2,27,0,0
+2d51fd19,Functions,2,1,13,1,0
+c1db4161,Recursion,3,2,25,0,0
+df9ead78,Loops,2,3,36,1,0
+1932d7f3,Loops,2,2,23,1,0
+c9d83e66,Functions,2,1,32,0,0
+84c8caac,Dynamic Programming,4,2,32,1,0
+697ebb27,Dynamic Programming,4,3,32,0,0
+84b563ae,Loops,2,2,38,0,0
+6c0d033e,Dynamic Programming,4,1,46,0,0
+c5ebe991,Recursion,3,2,37,0,0
+96ed030e,Functions,2,1,32,1,0
+0ae7c5b8,Recursion,3,1,33,1,0
+4334f0ec,Variables,1,1,21,0,0
+44110570,Variables,1,2,28,0,0
+c0a8a86f,Functions,2,2,31,0,0
+44110570,Dynamic Programming,4,1,39,0,0
+e3f0ada2,Dynamic Programming,4,2,40,0,0
+0e79cd40,Dynamic Programming,4,2,33,0,0
+cb5d5a7d,Recursion,3,1,23,0,0
+96ed030e,Functions,2,1,32,0,0
+c06c593a,Dynamic Programming,4,2,32,0,0
+847c54fb,Dynamic Programming,4,2,26,0,0
+cb7b5ea5,Recursion,3,1,28,1,0
+d20907be,Loops,2,1,35,0,0
+1661ded5,Functions,2,2,28,0,0
+75eee0b0,Loops,2,1,16,0,0
+1932d7f3,Recursion,3,3,38,1,0
+2d51fd19,Loops,2,1,16,0,0
+84c8caac,Loops,2,3,33,0,0
+00e69998,Variables,1,2,35,0,0
+ccd462cf,Functions,2,1,44,1,0
+72ddfa48,Functions,2,3,27,1,0
+b1694887,Recursion,3,2,29,0,0
+cbc58144,Recursion,3,1,52,1,0
+283b0d8b,Functions,2,3,37,0,0
+637f435d,Recursion,3,1,22,1,0
+7eb5baa2,Functions,2,1,13,0,0
+ecbc285c,Variables,1,3,23,0,0
+f64a2ed0,Variables,1,1,24,0,0
+faf2230c,Dynamic Programming,4,2,35,0,0
+847c54fb,Recursion,3,2,48,0,0
+4eba48a6,Recursion,3,1,38,0,0
+08d327e6,Functions,2,1,28,0,0
+b3f64f19,Functions,2,2,30,0,0
+82b05027,Loops,2,2,33,1,0
+1d9fc720,Variables,1,2,26,1,0
+283b0d8b,Loops,2,2,23,0,0
+96afdb6a,Variables,1,1,31,0,0
+a13cc4dc,Loops,2,1,36,1,1
+5537bfd1,Dynamic Programming,4,3,38,0,0
+6e99ac2f,Dynamic Programming,4,2,42,0,0
+aa8a37f4,Dynamic Programming,4,3,36,0,0
+cd86db99,Recursion,3,1,32,0,0
+4ecbb3b7,Dynamic Programming,4,1,25,0,0
+5064bff6,Loops,2,1,17,0,0
+a9b93c93,Loops,2,1,37,0,0
+0ae7c5b8,Dynamic Programming,4,1,28,1,0
+e96f6898,Dynamic Programming,4,2,44,0,0
+44110570,Variables,1,1,27,1,1
+080b3811,Dynamic Programming,4,2,32,1,0
+59811e5d,Recursion,3,1,14,1,0
+b1694887,Variables,1,2,20,0,0
+f6bfc15f,Functions,2,3,37,0,0
+bf0e5c55,Functions,2,1,39,1,1
+fe579de6,Dynamic Programming,4,3,19,1,0
+7b55af79,Loops,2,2,22,1,0
+8fb1f315,Loops,2,1,29,1,1
+0db3460b,Loops,2,2,36,0,0
+72ddfa48,Functions,2,2,28,1,0
+d63b006e,Loops,2,2,22,1,1
+dfcd6b5b,Dynamic Programming,4,1,49,0,0
+1661ded5,Recursion,3,1,26,1,0
+1f33c4ce,Loops,2,1,24,1,1
+7eb5baa2,Dynamic Programming,4,3,47,0,0
+38caeb3c,Variables,1,1,36,1,1
+cce7da75,Recursion,3,1,37,0,0
+847c54fb,Recursion,3,1,26,0,0
+057a3be1,Recursion,3,2,28,1,0
+29d8241a,Functions,2,2,35,0,0
+0813b66c,Loops,2,1,11,0,0
+dc2ec317,Loops,2,2,28,0,0
+39119303,Loops,2,2,13,0,0
+64f6fedd,Functions,2,2,14,0,0
+48123c8b,Recursion,3,1,31,0,0
+1bd8d2b4,Variables,1,2,23,0,0
+e9b79c29,Recursion,3,1,28,1,0
+72ddfa48,Recursion,3,3,37,0,0
+57691047,Variables,1,1,19,1,1
+e3f0ada2,Loops,2,1,20,1,1
+08d327e6,Functions,2,1,28,0,0
+64f6fedd,Dynamic Programming,4,2,39,0,0
+4334f0ec,Variables,1,1,14,1,0
+72ddfa48,Loops,2,1,32,0,0
+86d4132b,Recursion,3,1,28,1,0
+ec60e30b,Loops,2,1,23,1,0
+f6bfc15f,Recursion,3,3,32,1,0
+4fb1bc31,Dynamic Programming,4,1,34,0,0
+7882fad6,Dynamic Programming,4,1,23,1,0
+595afe07,Dynamic Programming,4,1,13,0,0
+cb5d5a7d,Loops,2,2,33,1,0
+6c985f1e,Dynamic Programming,4,1,32,0,0
+40bdcaf0,Variables,1,1,8,0,0
+0db3460b,Loops,2,2,37,0,0
+69487be7,Functions,2,2,21,1,1
+3263dca5,Dynamic Programming,4,2,36,1,0
+a4e0c28d,Recursion,3,1,39,0,0
+cc50d102,Functions,2,2,32,1,0
+163a7d7d,Loops,2,2,18,0,0
+5c2bc04a,Variables,1,1,21,1,1
+44e50da6,Functions,2,1,13,1,0
+057a3be1,Dynamic Programming,4,2,42,0,0
+03f4c13e,Dynamic Programming,4,2,31,0,0
+c5ebe991,Loops,2,2,43,1,1
+5537bfd1,Variables,1,3,25,1,0
+5e4c63f7,Functions,2,1,15,0,0
+e3f0ada2,Recursion,3,1,33,0,0
+38caeb3c,Loops,2,1,9,0,0
+1104d582,Functions,2,3,39,0,0
+0fa3f87c,Loops,2,2,45,0,0
+7e3123d1,Recursion,3,2,24,1,0
+1c4b0d66,Dynamic Programming,4,1,44,0,0
+c9d83e66,Dynamic Programming,4,3,44,0,0
+0e79cd40,Recursion,3,2,37,0,0
+65c08f13,Dynamic Programming,4,1,30,0,0
+abb9c659,Functions,2,2,17,1,1
+a4e0c28d,Recursion,3,2,38,0,0
+cd86db99,Functions,2,1,11,1,0
+60e2fa70,Functions,2,2,33,0,0
+bd0c2b39,Loops,2,1,22,0,0
+543086ca,Functions,2,3,33,0,0
+25c83068,Loops,2,1,32,1,0
+e33fb13f,Functions,2,2,38,0,0
+3f3826f3,Variables,1,1,25,1,0
+59811e5d,Loops,2,2,17,0,0
+dbd84587,Recursion,3,3,36,0,0
+f64a2ed0,Functions,2,1,26,1,1
+f6bfc15f,Loops,2,2,15,1,0
+3a9f6f1f,Variables,1,3,21,1,1
+c1db4161,Recursion,3,3,40,0,0
+00e69998,Functions,2,1,27,0,0
+dc54d27c,Loops,2,3,49,1,0
+fe579de6,Functions,2,1,5,0,0
+c30bfd68,Dynamic Programming,4,1,42,0,0
+ec60e30b,Loops,2,2,39,0,0
+c5ebe991,Loops,2,1,20,1,1
+b8b005de,Functions,2,1,19,0,0
+e9d0c683,Dynamic Programming,4,2,36,0,0
+59811e5d,Dynamic Programming,4,1,38,0,0
+84b563ae,Dynamic Programming,4,1,15,1,0
+543086ca,Dynamic Programming,4,3,44,0,0
+8680f577,Loops,2,2,28,0,0
+cd86db99,Variables,1,2,29,0,0
+717f86c2,Functions,2,1,29,1,0
+35645b69,Loops,2,1,21,1,1
+3d69c0ca,Variables,1,3,25,0,0
+64f6fedd,Functions,2,1,23,1,0
+cce7da75,Variables,1,3,21,1,0
+8539e3ec,Functions,2,2,29,0,0
+1d4c9cc0,Variables,1,2,21,1,0
+ecbc285c,Functions,2,2,19,0,0
+03e26a0b,Variables,1,1,22,1,1
+53716029,Dynamic Programming,4,1,38,1,0
+af3a75f2,Dynamic Programming,4,1,33,0,0
+bd0c2b39,Variables,1,3,40,1,0
+4ecbb3b7,Dynamic Programming,4,1,35,0,0
+86878cf1,Recursion,3,2,39,1,0
+65c08f13,Recursion,3,1,21,1,0
+4f4a93f9,Loops,2,2,27,0,0
+7d83aaa2,Functions,2,2,19,0,0
+aa8a37f4,Functions,2,2,22,0,0
+163a7d7d,Dynamic Programming,4,2,36,1,0
+e1571e55,Variables,1,1,9,1,1
+96f5f1e4,Recursion,3,1,41,0,0
+e6d5e657,Variables,1,1,20,0,0
+25823a23,Functions,2,1,28,0,0
+859789fb,Dynamic Programming,4,2,42,1,0
+c30bde50,Dynamic Programming,4,3,30,0,0
+0db3460b,Functions,2,1,13,1,0
+29da264a,Variables,1,1,30,1,1
+03e26a0b,Loops,2,1,27,1,1
+0813b66c,Recursion,3,1,43,0,0
+0813b66c,Variables,1,1,19,1,1
+96f5f1e4,Dynamic Programming,4,3,42,0,0
+859789fb,Variables,1,2,7,1,1
+29d8241a,Dynamic Programming,4,2,37,0,0
+3d1f9bcf,Recursion,3,2,27,0,0
+a13cc4dc,Functions,2,2,33,0,0
+7e3123d1,Recursion,3,2,33,0,0
+5537bfd1,Functions,2,3,32,0,0
+b41f7116,Loops,2,2,7,1,0
+e9b79c29,Loops,2,1,20,1,0
+cc50d102,Recursion,3,1,29,0,0
+66429af5,Loops,2,2,32,0,0
+ddaf7ca2,Loops,2,1,32,1,1
+8680f577,Functions,2,3,22,1,0
+a6e23819,Functions,2,2,24,0,0
+2a9272f0,Dynamic Programming,4,1,30,0,0
+6313f2f8,Functions,2,1,20,1,1
+25c83068,Functions,2,1,5,0,0
+b8b005de,Loops,2,1,30,0,0
+a4e0c28d,Variables,1,3,31,1,0
+2dd0eb22,Recursion,3,2,32,0,0
+a8070b67,Recursion,3,3,28,0,0
+590f8480,Variables,1,2,28,0,0
+80459ec7,Recursion,3,1,20,1,0
+b3f64f19,Recursion,3,3,41,1,0
+64f6fedd,Variables,1,1,32,1,1
+cb5d5a7d,Variables,1,2,26,1,0
+1f33c4ce,Functions,2,1,31,0,0
+69487be7,Variables,1,1,41,1,1
+a8070b67,Dynamic Programming,4,1,25,0,0
+69487be7,Recursion,3,3,27,0,0
+80f3d5b0,Dynamic Programming,4,1,45,0,0
+ecbc285c,Functions,2,1,41,1,1
+080b3811,Recursion,3,1,33,1,0
+2a9272f0,Functions,2,1,13,1,1
+8e5699ff,Recursion,3,1,31,1,0
+c21eefb7,Functions,2,3,22,1,0
+dfcd6b5b,Variables,1,2,21,0,0
+abb9c659,Variables,1,2,25,0,0
+84c8caac,Loops,2,1,17,1,1
+dc2ec317,Recursion,3,1,33,1,0
+2a9272f0,Loops,2,1,31,1,0
+df9ead78,Functions,2,2,30,0,0
+3263dca5,Variables,1,1,27,1,1
+6313f2f8,Dynamic Programming,4,1,40,1,0
+7882fad6,Variables,1,2,23,1,0
+c5ebe991,Recursion,3,2,33,0,0
+5e4c63f7,Functions,2,1,32,1,0
+a8e1ff27,Dynamic Programming,4,1,38,0,0
+629f1950,Variables,1,1,13,1,1
+a6e23819,Dynamic Programming,4,1,32,1,0
+9f98a2dc,Functions,2,2,35,1,0
+44110570,Recursion,3,1,25,0,0
+cce7da75,Loops,2,2,34,1,0
+30b66672,Loops,2,1,28,0,0
+bd0c2b39,Variables,1,3,36,1,0
+3d69c0ca,Recursion,3,3,48,1,0
+75eee0b0,Dynamic Programming,4,1,22,0,0
+60e2fa70,Dynamic Programming,4,1,27,1,0
+cb5d5a7d,Functions,2,1,28,0,0
+e3f0ada2,Functions,2,1,34,1,1
+f64a2ed0,Dynamic Programming,4,1,30,0,0
+52ff1a49,Functions,2,2,20,0,0
+1932d7f3,Dynamic Programming,4,1,25,1,0
+0413c097,Functions,2,2,33,1,0
+25c83068,Recursion,3,2,33,1,0
+5064bff6,Recursion,3,2,30,0,0
+6313f2f8,Functions,2,1,12,1,0
+c21eefb7,Functions,2,1,29,1,1
+57691047,Dynamic Programming,4,3,42,0,0
+c30bfd68,Functions,2,2,13,1,1
+e1571e55,Variables,1,3,21,1,0
+bd0c2b39,Loops,2,1,18,0,0
+03e26a0b,Dynamic Programming,4,3,61,0,0
+84392e9a,Loops,2,1,35,0,0
+ec846410,Variables,1,2,29,1,1
+543086ca,Recursion,3,3,30,0,0
+f1fc10b2,Loops,2,3,41,1,0
+84c8caac,Dynamic Programming,4,2,35,1,0
+38caeb3c,Variables,1,2,16,1,1
+48123c8b,Recursion,3,1,29,0,0
+a9b93c93,Dynamic Programming,4,2,46,0,0
+03e26a0b,Loops,2,1,23,0,0
+09505742,Variables,1,1,29,1,1
+057a3be1,Variables,1,2,21,1,0
+a6e23819,Dynamic Programming,4,1,27,0,0
+e9b79c29,Variables,1,1,23,1,1
+4e096844,Recursion,3,1,26,0,0
+59811e5d,Recursion,3,2,32,0,0
+84b563ae,Dynamic Programming,4,1,34,0,0
+65c08f13,Dynamic Programming,4,1,30,0,0
+d7be5c1e,Dynamic Programming,4,2,40,0,0
+6c985f1e,Loops,2,2,46,0,0
+91e64a70,Dynamic Programming,4,2,37,0,0
+5e4c63f7,Dynamic Programming,4,1,38,0,0
+7b55af79,Recursion,3,2,43,1,0
+cbc58144,Dynamic Programming,4,1,21,1,0
+5745afc1,Variables,1,2,31,1,1
+00e69998,Recursion,3,1,26,0,0
+595afe07,Recursion,3,1,21,0,0
+3a9f6f1f,Variables,1,2,38,0,0
+8d26d65b,Loops,2,2,34,1,0
+45b5de1a,Dynamic Programming,4,2,43,0,0
+7b55af79,Dynamic Programming,4,1,41,1,0
+637f435d,Recursion,3,1,34,1,1
+8fb1f315,Variables,1,2,30,1,1
+5064bff6,Loops,2,1,33,1,0
+d41f22aa,Functions,2,2,40,0,0
+5064bff6,Loops,2,2,13,1,1
+cb7b5ea5,Dynamic Programming,4,1,34,0,0
+5c2bc04a,Loops,2,1,32,1,1
+7b55af79,Functions,2,1,30,1,1
+e96f6898,Recursion,3,1,33,1,0
+859789fb,Functions,2,1,29,1,1
+84b563ae,Variables,1,3,31,0,0
+057a3be1,Recursion,3,1,35,0,0
+d41f22aa,Functions,2,2,46,1,0
+faf2230c,Recursion,3,2,22,0,0
+a13cc4dc,Recursion,3,2,26,1,0
+67386278,Loops,2,1,30,0,0
+847c54fb,Functions,2,1,26,0,0
+bd0c2b39,Recursion,3,2,35,0,0
+b1694887,Functions,2,1,19,1,0
+0e79cd40,Loops,2,2,33,1,0
+1661ded5,Dynamic Programming,4,1,30,0,0
+a8070b67,Variables,1,3,34,0,0
+595afe07,Dynamic Programming,4,1,40,0,0
+b08626e4,Variables,1,1,16,1,1
+c21eefb7,Functions,2,2,28,1,1
+3d59b919,Dynamic Programming,4,1,45,0,0
+f1fc10b2,Recursion,3,2,32,0,0
+a9b93c93,Dynamic Programming,4,2,25,0,0
+595afe07,Recursion,3,1,35,0,0
+3a9f6f1f,Loops,2,2,37,0,0
+c5ebe991,Loops,2,2,20,0,0
+fe579de6,Functions,2,1,37,1,1
+09505742,Loops,2,2,29,1,0
+bf0e5c55,Functions,2,2,20,0,0
+2d51fd19,Variables,1,2,35,1,0
+75eee0b0,Variables,1,2,24,0,0
+cce7da75,Recursion,3,1,41,0,0
+86878cf1,Dynamic Programming,4,2,32,0,0
+f64a2ed0,Functions,2,1,25,0,0
+b1694887,Dynamic Programming,4,1,24,0,0
+e1571e55,Dynamic Programming,4,1,31,1,0
+dc2ec317,Variables,1,1,22,0,0
+897979a0,Variables,1,2,24,1,1
+c1db4161,Variables,1,1,28,1,1
+84392e9a,Dynamic Programming,4,1,26,0,0
+44110570,Loops,2,1,37,1,1
+0db3460b,Dynamic Programming,4,1,41,0,0
+75eee0b0,Functions,2,3,37,1,0
+ccd462cf,Dynamic Programming,4,3,50,0,0
+b3f64f19,Loops,2,2,33,1,0
+057a3be1,Dynamic Programming,4,1,22,1,0
+0db3460b,Dynamic Programming,4,3,34,0,0
+637f435d,Variables,1,2,33,0,0
+a13cc4dc,Dynamic Programming,4,2,37,0,0
+cd86db99,Variables,1,2,18,0,0
+a8070b67,Dynamic Programming,4,1,31,0,0
+86878cf1,Functions,2,1,26,0,0
+4334f0ec,Recursion,3,2,35,1,0
+52ff1a49,Recursion,3,1,33,1,0
+2d51fd19,Dynamic Programming,4,2,31,0,0
+080b3811,Loops,2,1,16,1,1
+a6e23819,Dynamic Programming,4,1,24,0,0
+1bd8d2b4,Variables,1,2,17,1,0
+a6e23819,Variables,1,3,35,1,0
+697ebb27,Dynamic Programming,4,2,36,0,0
+1c4b0d66,Functions,2,3,22,0,0
+0ae7c5b8,Functions,2,2,35,1,0
+1214605f,Loops,2,1,30,0,0
+c21eefb7,Dynamic Programming,4,2,34,0,0
+f6bfc15f,Recursion,3,1,30,0,0
+9f98a2dc,Functions,2,1,14,0,0
+1d4c9cc0,Loops,2,1,29,0,0
+859789fb,Loops,2,1,25,0,0
+25823a23,Dynamic Programming,4,2,34,1,0
+84392e9a,Loops,2,1,29,1,0
+543086ca,Dynamic Programming,4,2,40,1,0
+48123c8b,Variables,1,1,28,0,0
+ccd462cf,Recursion,3,1,21,1,0
+e9b79c29,Recursion,3,2,42,0,0
+44e50da6,Functions,2,3,25,0,0
+00e69998,Recursion,3,1,36,0,0
+abb9c659,Dynamic Programming,4,2,33,0,0
+30b66672,Loops,2,1,27,1,1
+64f6fedd,Variables,1,3,27,1,0
+ec846410,Loops,2,1,16,0,0
+629f1950,Recursion,3,3,31,0,0
+6c0d033e,Dynamic Programming,4,1,33,0,0
+86d4132b,Variables,1,2,23,0,0
+5537bfd1,Dynamic Programming,4,2,29,0,0
+ec846410,Recursion,3,2,42,0,0
+cb5d5a7d,Variables,1,1,11,1,0
+22394829,Loops,2,1,25,1,0
+38caeb3c,Loops,2,2,35,0,0
+6313f2f8,Dynamic Programming,4,1,26,0,0
+c21eefb7,Loops,2,2,42,1,1
+80459ec7,Dynamic Programming,4,3,53,1,0
+717f86c2,Dynamic Programming,4,2,30,0,0
+39119303,Recursion,3,1,33,0,0
+f1fc10b2,Recursion,3,2,36,1,0
+bf0e5c55,Recursion,3,1,26,1,0
+1d4c9cc0,Functions,2,1,20,0,0
+00a8a9a8,Variables,1,2,26,1,1
+1932d7f3,Loops,2,2,28,0,0
+69487be7,Dynamic Programming,4,1,31,1,0
+1f33c4ce,Recursion,3,2,34,0,0
+e3f0ada2,Functions,2,1,18,0,0
+5ac87020,Variables,1,3,29,1,0
+4f4a93f9,Dynamic Programming,4,1,33,0,0
+717f86c2,Functions,2,2,46,1,0
+5ac87020,Recursion,3,1,18,0,0
+09505742,Recursion,3,1,35,1,0
+c30bfd68,Dynamic Programming,4,2,43,0,0
+7498baf0,Loops,2,1,8,1,1
+44110570,Loops,2,1,32,1,1
+e6574e00,Variables,1,1,40,1,1
+847c54fb,Functions,2,2,32,0,0
+2dd0eb22,Loops,2,1,39,1,1
+e6574e00,Variables,1,2,24,1,0
+38caeb3c,Functions,2,1,33,0,0
+c30bde50,Functions,2,2,35,1,0
+f1fc10b2,Recursion,3,2,26,1,0
+96afdb6a,Dynamic Programming,4,3,35,1,0
+64f6fedd,Recursion,3,2,41,1,0
+c1db4161,Recursion,3,1,28,1,0
+ecbc285c,Loops,2,1,31,0,0
+0db3460b,Recursion,3,2,32,0,0
+d26e930c,Variables,1,2,22,1,1
+25c83068,Loops,2,1,30,0,0
+ccd462cf,Variables,1,2,23,1,0
+08d327e6,Functions,2,1,16,1,0
+80459ec7,Variables,1,2,39,1,1
+44e50da6,Variables,1,2,24,0,0
+e9b79c29,Recursion,3,2,27,0,0
+29da264a,Loops,2,1,34,1,1
+45b5de1a,Recursion,3,1,33,0,0
+4334f0ec,Functions,2,1,19,0,0
+91e64a70,Variables,1,2,20,1,1
+44e50da6,Functions,2,1,26,0,0
+a4e0c28d,Functions,2,3,37,1,0
+aa8a37f4,Variables,1,1,27,1,1
+c1c9edb9,Dynamic Programming,4,3,33,0,0
+25c83068,Recursion,3,1,27,1,0
+c54abbb6,Functions,2,1,19,1,1
+00a8a9a8,Functions,2,1,33,0,0
+6c6ea779,Dynamic Programming,4,2,38,0,0
+96f5f1e4,Variables,1,2,18,0,0
+69487be7,Functions,2,1,10,1,0
+1214605f,Loops,2,2,28,0,0
+82b05027,Loops,2,3,36,0,0
+f6bfc15f,Loops,2,3,24,1,0
+03e26a0b,Recursion,3,2,31,0,0
+b08626e4,Recursion,3,2,29,1,0
+0f512b8e,Functions,2,2,28,0,0
+96ed030e,Recursion,3,1,29,0,0
+84c8caac,Functions,2,2,31,0,0
+0db3460b,Variables,1,2,28,1,0
+859789fb,Recursion,3,1,44,1,0
+cb5d5a7d,Dynamic Programming,4,2,45,0,0
+faf2230c,Variables,1,3,24,0,0
+a8e1ff27,Dynamic Programming,4,2,50,0,0
+0f512b8e,Functions,2,1,7,1,0
+0db3460b,Loops,2,2,23,0,0
+cce7da75,Dynamic Programming,4,1,27,0,0
+5e4c63f7,Variables,1,3,23,0,0
+ec60e30b,Dynamic Programming,4,1,33,1,0
+86878cf1,Loops,2,1,24,0,0
+29da264a,Functions,2,1,12,0,0
+cb7b5ea5,Functions,2,3,50,1,0
+b08626e4,Loops,2,2,41,1,1
+6313f2f8,Dynamic Programming,4,2,53,0,0
+1d9fc720,Functions,2,3,28,0,0
+cb7b5ea5,Dynamic Programming,4,2,36,0,0
+96ed030e,Functions,2,2,34,0,0
+b8b005de,Dynamic Programming,4,1,48,0,0
+d49f68ef,Functions,2,1,36,1,0
+60e2fa70,Loops,2,2,16,0,0
+e11c2057,Variables,1,1,32,0,0
+cd86db99,Loops,2,2,38,1,0
+75eee0b0,Functions,2,1,31,1,1
+c21eefb7,Dynamic Programming,4,2,26,0,0
+bf0e5c55,Functions,2,1,30,1,0
+3f3826f3,Dynamic Programming,4,1,42,0,0
+e6237686,Functions,2,1,23,1,0
+0e79cd40,Functions,2,3,13,0,0
+80f3d5b0,Recursion,3,1,28,1,0
+64f6fedd,Recursion,3,3,37,0,0
+48123c8b,Recursion,3,2,25,0,0
+4eba48a6,Recursion,3,1,37,1,0
+1104d582,Recursion,3,2,39,0,0
+b08626e4,Loops,2,1,30,1,1
+7d83aaa2,Functions,2,3,28,1,0
+ecbc285c,Recursion,3,3,32,1,0
+72ddfa48,Variables,1,2,7,1,1
+b3f64f19,Functions,2,2,29,0,0
+3d1f9bcf,Dynamic Programming,4,1,42,1,0
+dbd84587,Functions,2,1,27,1,1
+82b05027,Variables,1,2,21,1,1
+057a3be1,Functions,2,1,22,1,0
+25c83068,Loops,2,2,45,0,0
+bd0c2b39,Dynamic Programming,4,2,47,1,0
+abb9c659,Variables,1,1,33,0,0
+d26e930c,Loops,2,1,21,0,0
+45b5de1a,Functions,2,1,37,0,0
+daee0007,Variables,1,1,23,1,0
+1f33c4ce,Recursion,3,2,39,0,0
+4fb1bc31,Recursion,3,1,34,1,0
+b41f7116,Dynamic Programming,4,3,28,0,0
+6c6ea779,Functions,2,1,43,1,0
+a6e23819,Functions,2,1,40,0,0
+3f3826f3,Dynamic Programming,4,3,43,0,0
+b3f64f19,Loops,2,2,40,0,0
+30b66672,Dynamic Programming,4,1,39,1,0
+a8070b67,Variables,1,2,19,1,0
+7498baf0,Recursion,3,2,23,0,0
+4e096844,Recursion,3,3,34,0,0
+86d4132b,Functions,2,1,13,0,0
+1e9af1a8,Loops,2,1,25,1,0
+3d69c0ca,Functions,2,3,49,0,0
+7eb5baa2,Dynamic Programming,4,2,34,1,0
+1d9fc720,Recursion,3,3,45,0,0
+0efdd7c7,Dynamic Programming,4,1,18,0,0
+57691047,Dynamic Programming,4,1,13,1,0
+08b99ac1,Dynamic Programming,4,3,36,0,0
+0efdd7c7,Functions,2,2,19,1,0
+22394829,Loops,2,1,35,1,0
+8539e3ec,Dynamic Programming,4,1,47,0,0
+af3a75f2,Variables,1,3,31,0,0
+abb9c659,Variables,1,1,12,1,1
+fdb66605,Variables,1,2,37,1,0
+abb9c659,Dynamic Programming,4,2,38,0,0
+f2af96c0,Functions,2,3,25,1,0
+fdb66605,Functions,2,3,25,1,0
+22394829,Dynamic Programming,4,3,24,1,0
+c30bfd68,Dynamic Programming,4,2,25,0,0
+e33fb13f,Loops,2,2,34,0,0
+a8070b67,Recursion,3,1,30,1,0
+1b3c9480,Recursion,3,1,32,1,0
+82b05027,Loops,2,2,25,0,0
+af3a75f2,Variables,1,3,19,0,0
+72ddfa48,Loops,2,1,13,1,1
+0813b66c,Loops,2,3,23,0,0
+4f4a93f9,Loops,2,1,27,1,0
+595afe07,Variables,1,1,35,0,0
+1104d582,Variables,1,3,34,1,1
+80f3d5b0,Dynamic Programming,4,2,47,0,0
+45b5de1a,Loops,2,1,35,1,0
+7e3123d1,Loops,2,1,14,0,0
+e96f6898,Functions,2,3,41,0,0
+66429af5,Loops,2,3,12,1,0
+3dfc2e3a,Loops,2,2,24,1,0
+0f512b8e,Functions,2,2,32,1,0
+b87fb52d,Functions,2,2,31,1,1
+ecbc285c,Functions,2,1,30,1,0
+44e50da6,Loops,2,2,22,0,0
+e96f6898,Functions,2,2,27,1,0
+c30bfd68,Variables,1,1,27,0,0
+86d4132b,Dynamic Programming,4,1,45,1,0
+0f512b8e,Variables,1,2,26,1,0
+0413c097,Dynamic Programming,4,1,42,1,0
+53716029,Functions,2,2,31,1,0
+5ac87020,Loops,2,3,43,0,0
+35645b69,Dynamic Programming,4,2,40,0,0
+3d59b919,Variables,1,1,25,1,0
+00e69998,Loops,2,3,38,0,0
+163a7d7d,Dynamic Programming,4,1,39,0,0
+dc2ec317,Dynamic Programming,4,1,25,1,0
+629f1950,Loops,2,1,19,1,1
+82b05027,Variables,1,1,33,1,1
+aa8a37f4,Loops,2,1,43,0,0
+ec846410,Functions,2,1,15,1,1
+c06c593a,Variables,1,1,50,1,1
+cb5d5a7d,Recursion,3,2,7,1,0
+a13cc4dc,Variables,1,2,20,1,1
+60e2fa70,Dynamic Programming,4,1,33,0,0
+3263dca5,Recursion,3,1,39,1,0
+d7be5c1e,Dynamic Programming,4,2,38,0,0
+717f86c2,Recursion,3,3,13,0,0
+e6574e00,Functions,2,3,24,0,0
+1d4c9cc0,Functions,2,1,25,0,0
+7498baf0,Loops,2,2,32,1,0
+27b49b90,Functions,2,2,25,1,0
+29da264a,Functions,2,1,18,1,1
+6c985f1e,Dynamic Programming,4,1,30,1,0
+8e5699ff,Functions,2,2,40,1,0
+cce7da75,Dynamic Programming,4,1,41,1,0
+99e180db,Dynamic Programming,4,1,39,0,0
+91e64a70,Dynamic Programming,4,1,31,0,0
+5c2bc04a,Dynamic Programming,4,1,21,1,0
+3d59b919,Variables,1,3,27,1,0
+1661ded5,Recursion,3,2,36,1,0
+b87fb52d,Variables,1,1,24,1,1
+4f4a93f9,Functions,2,1,24,1,0
+a8e1ff27,Dynamic Programming,4,3,48,0,0
+29da264a,Recursion,3,3,45,0,0
+96afdb6a,Loops,2,1,25,1,0
+e5b4ad69,Recursion,3,1,24,0,0
+1104d582,Dynamic Programming,4,1,29,0,0
+7b55af79,Recursion,3,3,23,0,0
+897979a0,Recursion,3,1,44,0,0
+56060b4d,Loops,2,3,36,0,0
+fdb66605,Functions,2,1,40,1,0
+a83e881d,Variables,1,2,21,1,1
+d20907be,Variables,1,3,22,1,0
+637f435d,Functions,2,1,41,1,0
+a13cc4dc,Dynamic Programming,4,2,32,0,0
+1661ded5,Loops,2,1,43,0,0
+57691047,Functions,2,3,35,0,0
+48123c8b,Loops,2,3,32,0,0
+72ddfa48,Dynamic Programming,4,1,35,0,0
+847c54fb,Dynamic Programming,4,1,42,0,0
+f6bfc15f,Functions,2,1,29,1,1
+590f8480,Functions,2,1,32,1,1
+52ff1a49,Variables,1,2,35,1,0
+dc54d27c,Variables,1,3,15,1,0
+40bdcaf0,Functions,2,2,23,1,0
+03e26a0b,Loops,2,2,37,1,1
+f6bfc15f,Dynamic Programming,4,1,30,0,0
+a8070b67,Dynamic Programming,4,3,37,0,0
+d49f68ef,Functions,2,1,38,0,0
+daee0007,Variables,1,1,35,1,1
+2dd0eb22,Dynamic Programming,4,2,41,1,0
+ecbc285c,Loops,2,2,18,1,0
+629f1950,Loops,2,1,17,0,0
+1d4c9cc0,Loops,2,1,27,1,0
+080b3811,Functions,2,1,17,1,1
+69487be7,Loops,2,2,32,0,0
+a4e0c28d,Functions,2,1,29,0,0
+abb9c659,Functions,2,1,27,1,1
+c0a8a86f,Loops,2,1,26,1,1
+7d83aaa2,Dynamic Programming,4,1,33,0,0
+0e79cd40,Variables,1,1,25,1,1
+6c0d033e,Functions,2,2,33,0,0
+48123c8b,Variables,1,2,38,1,0
+3d69c0ca,Variables,1,2,38,0,0
+f1fc10b2,Loops,2,1,23,0,0
+9f98a2dc,Loops,2,2,29,1,0
+53716029,Dynamic Programming,4,1,26,0,0
+72ddfa48,Recursion,3,3,27,0,0
+73b88305,Recursion,3,1,25,0,0
+38caeb3c,Variables,1,1,38,1,1
+1d4c9cc0,Dynamic Programming,4,1,33,0,0
+e6237686,Recursion,3,3,22,1,0
+717f86c2,Loops,2,2,15,0,0
+f64a2ed0,Recursion,3,3,34,1,0
+cbc58144,Dynamic Programming,4,3,45,0,0
+cd86db99,Loops,2,1,20,0,0
+64f6fedd,Recursion,3,1,36,1,0
+cbc58144,Loops,2,1,21,1,0
+d26e930c,Dynamic Programming,4,3,43,0,0
+cb5d5a7d,Dynamic Programming,4,1,25,1,0
+af3a75f2,Functions,2,2,38,1,1
+96afdb6a,Recursion,3,2,32,1,0
+637f435d,Functions,2,2,26,0,0
+6c6ea779,Functions,2,1,21,1,0
+df9ead78,Recursion,3,1,34,0,0
+057a3be1,Dynamic Programming,4,2,17,1,0
+a4e0c28d,Loops,2,2,27,0,0
+29da264a,Variables,1,2,28,0,0
+dc2ec317,Functions,2,1,31,0,0
+e9d0c683,Dynamic Programming,4,2,33,0,0
+84392e9a,Loops,2,1,40,0,0
+e1571e55,Recursion,3,2,33,1,0
+a8e1ff27,Functions,2,2,18,0,0
+4e096844,Recursion,3,1,38,1,0
+e9d0c683,Dynamic Programming,4,1,30,0,0
+0efdd7c7,Variables,1,1,19,1,1
+5064bff6,Variables,1,1,14,1,1
+8680f577,Dynamic Programming,4,3,35,0,0
+697ebb27,Loops,2,1,22,0,0
+cc50d102,Dynamic Programming,4,1,38,0,0
+03e26a0b,Loops,2,1,32,1,1
+5745afc1,Loops,2,2,25,1,0
+c30bfd68,Recursion,3,2,24,1,0
+dbd84587,Dynamic Programming,4,2,37,0,0
+84c8caac,Variables,1,2,37,0,0
+d41f22aa,Dynamic Programming,4,2,40,0,0
+72ddfa48,Dynamic Programming,4,1,23,0,0
+ddaf7ca2,Dynamic Programming,4,2,43,0,0
+1e9af1a8,Loops,2,2,18,0,0
+a13cc4dc,Recursion,3,3,34,0,0
+29da264a,Functions,2,1,19,0,0
+67386278,Recursion,3,3,40,0,0
+717f86c2,Loops,2,3,43,1,0
+1932d7f3,Recursion,3,1,29,1,0
+29da264a,Loops,2,2,22,1,0
+e33fb13f,Functions,2,1,29,1,1
+75eee0b0,Dynamic Programming,4,1,44,0,0
+03f4c13e,Recursion,3,2,37,1,0
+52ff1a49,Functions,2,2,27,1,0
+c21eefb7,Recursion,3,2,34,0,0
+080b3811,Recursion,3,1,40,0,0
+b41f7116,Functions,2,2,25,1,0
+dbd84587,Dynamic Programming,4,1,40,0,0
+4e096844,Recursion,3,2,34,0,0
+3a9f6f1f,Dynamic Programming,4,1,40,1,0
+fe579de6,Dynamic Programming,4,2,39,0,0
+df9ead78,Variables,1,3,20,0,0
+f4ad70ed,Functions,2,2,20,0,0
+1c4b0d66,Variables,1,1,22,0,0
+2a9272f0,Functions,2,1,22,1,1
+e3f0ada2,Functions,2,2,27,1,0
+dc54d27c,Recursion,3,1,19,1,0
+0efdd7c7,Dynamic Programming,4,3,33,0,0
+03f4c13e,Recursion,3,1,35,0,0
+e5b4ad69,Recursion,3,2,40,0,0
+e1571e55,Loops,2,1,16,1,1
+1932d7f3,Functions,2,2,36,1,0
+f2af96c0,Loops,2,3,31,0,0
+0413c097,Variables,1,1,24,0,0
+c0a8a86f,Recursion,3,2,34,0,0
+c54abbb6,Recursion,3,2,31,1,0
+1b3c9480,Dynamic Programming,4,1,31,0,0
+4f4a93f9,Variables,1,2,40,1,0
+cbc58144,Dynamic Programming,4,1,34,0,0
+00a8a9a8,Dynamic Programming,4,2,30,1,0
+28fc7c4c,Recursion,3,3,38,0,0
+9f98a2dc,Dynamic Programming,4,3,35,0,0
+dc2ec317,Variables,1,2,25,0,0
+d41f22aa,Functions,2,1,44,0,0
+cbc58144,Dynamic Programming,4,1,32,0,0
+7498baf0,Recursion,3,2,31,0,0
+39119303,Loops,2,1,24,0,0
+d26e930c,Dynamic Programming,4,1,33,0,0
+9f98a2dc,Functions,2,1,24,1,1
+af3a75f2,Recursion,3,3,44,1,0
+283b0d8b,Loops,2,2,22,0,0
+ccd462cf,Recursion,3,3,25,1,0
+3263dca5,Recursion,3,1,19,1,0
+28fc7c4c,Recursion,3,1,26,0,0
+d41f22aa,Recursion,3,2,23,1,0
+60e2fa70,Variables,1,1,26,1,1
+96afdb6a,Loops,2,1,22,1,0
+57691047,Loops,2,2,19,1,1
+00a8a9a8,Recursion,3,1,36,0,0
+2dd0eb22,Dynamic Programming,4,1,26,0,0
+8d26d65b,Variables,1,1,27,0,0
+faf2230c,Functions,2,1,22,0,0
+c54abbb6,Dynamic Programming,4,3,27,0,0
+40bdcaf0,Variables,1,1,26,1,1
+35645b69,Functions,2,1,30,0,0
+59811e5d,Variables,1,2,34,0,0
+ecbc285c,Functions,2,1,32,0,0
+e3f0ada2,Recursion,3,3,42,1,0
+e6d5e657,Recursion,3,1,51,0,0
+283b0d8b,Functions,2,1,20,1,1
+0efdd7c7,Variables,1,3,32,1,0
+60e2fa70,Loops,2,1,24,1,1
+80f3d5b0,Loops,2,2,18,1,0
+27b49b90,Loops,2,2,38,0,0
+e3f0ada2,Variables,1,2,28,1,1
+22394829,Variables,1,1,21,1,0
+3f3826f3,Functions,2,1,29,0,0
+86878cf1,Recursion,3,1,38,1,0
+84b563ae,Functions,2,2,38,1,0
+b1694887,Recursion,3,3,31,0,0
+faf2230c,Functions,2,1,37,0,0
+40bdcaf0,Dynamic Programming,4,1,40,1,0
+1b3c9480,Variables,1,2,21,1,1
+595afe07,Dynamic Programming,4,1,37,1,0
+0db3460b,Dynamic Programming,4,3,39,0,0
+ecbc285c,Recursion,3,1,24,0,0
+283b0d8b,Recursion,3,1,33,1,0
+0bbd03f9,Variables,1,2,29,1,1
+c30bde50,Variables,1,3,35,0,0
+5745afc1,Recursion,3,1,43,0,0
+30b66672,Loops,2,1,19,0,0
+b41f7116,Loops,2,1,26,1,0
+b3f64f19,Dynamic Programming,4,3,41,0,0
+0efdd7c7,Recursion,3,1,36,1,0
+dfcd6b5b,Variables,1,1,26,1,1
+2dd0eb22,Functions,2,3,45,1,0
+cb5d5a7d,Dynamic Programming,4,2,32,0,0
+e6d5e657,Loops,2,1,30,1,1
+39119303,Loops,2,1,23,0,0
+a8e1ff27,Loops,2,2,16,0,0
+c30bfd68,Recursion,3,2,22,0,0
+847c54fb,Loops,2,2,24,0,0
+2d51fd19,Dynamic Programming,4,1,21,0,0
+d41f22aa,Dynamic Programming,4,2,41,0,0
+52ff1a49,Variables,1,1,38,1,1
+7eb5baa2,Variables,1,1,15,0,0
+a9b93c93,Recursion,3,1,23,0,0
+40bdcaf0,Variables,1,1,27,0,0
+163a7d7d,Loops,2,3,40,0,0
+5537bfd1,Functions,2,1,9,0,0
+d26e930c,Dynamic Programming,4,1,34,0,0
+595afe07,Dynamic Programming,4,1,31,1,0
+f6bfc15f,Loops,2,1,22,1,1
+cb7b5ea5,Loops,2,2,24,0,0
+049fc19a,Functions,2,1,32,1,0
+60b5d26b,Functions,2,3,26,0,0
+cce7da75,Functions,2,1,31,1,0
+86878cf1,Functions,2,1,28,1,1
+e96f6898,Variables,1,1,41,0,0
+e9d0c683,Variables,1,2,35,0,0
+0e79cd40,Recursion,3,1,40,0,0
+d41f22aa,Functions,2,2,23,0,0
+8539e3ec,Functions,2,1,17,0,0
+c21eefb7,Recursion,3,1,16,1,0
+96ed030e,Variables,1,2,29,1,1
+bd0c2b39,Recursion,3,3,30,1,0
+45b5de1a,Variables,1,2,16,0,0
+847c54fb,Functions,2,1,37,1,0
+e6574e00,Variables,1,1,22,1,0
+590f8480,Variables,1,2,23,0,0
+96f5f1e4,Functions,2,3,28,0,0
+48123c8b,Functions,2,2,36,0,0
+03e26a0b,Dynamic Programming,4,1,27,0,0
+629f1950,Recursion,3,1,38,1,0
+65c08f13,Variables,1,3,45,0,0
+d7be5c1e,Recursion,3,1,34,0,0
+df9ead78,Dynamic Programming,4,2,34,1,0
+3d1f9bcf,Loops,2,1,29,0,0
+6c0d033e,Dynamic Programming,4,1,29,1,0
+45b5de1a,Variables,1,1,28,0,0
+64f6fedd,Variables,1,2,28,1,0
+e6237686,Functions,2,1,20,0,0
+8fb1f315,Loops,2,2,48,0,0
+e6574e00,Loops,2,2,26,1,0
+72ddfa48,Variables,1,2,19,1,1
+c0a8a86f,Functions,2,1,23,0,0
+057a3be1,Recursion,3,2,22,0,0
+57691047,Recursion,3,2,44,1,0
+22394829,Dynamic Programming,4,1,33,0,0
+f4ad70ed,Variables,1,1,20,1,1
+c06c593a,Functions,2,2,23,1,0
+1b3c9480,Recursion,3,1,41,1,0
+a8070b67,Functions,2,1,33,0,0
+fdb66605,Functions,2,2,25,0,0
+c54abbb6,Loops,2,2,24,1,0
+e9b79c29,Functions,2,1,29,0,0
+1bd8d2b4,Loops,2,2,25,0,0
+4ecbb3b7,Variables,1,3,32,1,0
+c30bde50,Functions,2,2,33,0,0
+cb7b5ea5,Loops,2,1,31,0,0
+342d668c,Dynamic Programming,4,3,42,0,0
+df9ead78,Recursion,3,2,31,1,0
+64f6fedd,Dynamic Programming,4,1,56,0,0
+1c4b0d66,Variables,1,1,26,1,1
+5e4c63f7,Dynamic Programming,4,2,35,0,0
+1661ded5,Recursion,3,1,28,0,0
+00a8a9a8,Variables,1,2,30,0,0
+bf0e5c55,Variables,1,1,16,1,1
+53716029,Dynamic Programming,4,2,47,0,0
+57691047,Recursion,3,2,33,0,0
+1e9af1a8,Dynamic Programming,4,2,36,1,0
+b08626e4,Variables,1,1,44,1,0
+56060b4d,Dynamic Programming,4,2,45,0,0
+35645b69,Loops,2,1,17,1,1
+44e50da6,Variables,1,1,31,1,1
+38caeb3c,Variables,1,1,22,1,0
+3d59b919,Functions,2,3,30,1,0
+abb9c659,Variables,1,1,21,0,0
+a4e0c28d,Variables,1,2,22,1,0
+84b563ae,Dynamic Programming,4,1,38,1,0
+4f4a93f9,Functions,2,1,21,1,0
+1b3c9480,Recursion,3,1,26,0,0
+00a8a9a8,Functions,2,2,25,1,1
+c06c593a,Functions,2,1,18,0,0
+cc50d102,Variables,1,2,28,0,0
+8e5699ff,Recursion,3,1,24,1,1
+96ed030e,Recursion,3,1,37,0,0
+283b0d8b,Loops,2,1,14,1,0
+adef3c23,Loops,2,1,21,0,0
+84b563ae,Variables,1,1,27,1,1
+daee0007,Loops,2,3,34,0,0
+a13cc4dc,Functions,2,1,28,1,1
+6c0d033e,Recursion,3,1,27,1,1
+dc2ec317,Functions,2,3,41,0,0
+6c0d033e,Dynamic Programming,4,3,44,0,0
+22394829,Loops,2,3,42,0,0
+c9d83e66,Variables,1,1,15,1,1
+22394829,Recursion,3,2,25,0,0
+96afdb6a,Loops,2,2,20,0,0
+8539e3ec,Recursion,3,2,30,0,0
+08b99ac1,Loops,2,2,39,0,0
+c54abbb6,Variables,1,3,44,1,0
+d611361f,Recursion,3,1,38,0,0
+6c985f1e,Variables,1,1,31,1,1
+0ae7c5b8,Variables,1,3,21,1,0
+44e50da6,Recursion,3,3,32,0,0
+cce7da75,Dynamic Programming,4,3,38,0,0
+5e4c63f7,Functions,2,3,34,1,0
+f1fc10b2,Variables,1,1,24,1,1
+2a9272f0,Variables,1,2,28,1,0
+27b49b90,Recursion,3,1,30,0,0
+ec60e30b,Recursion,3,1,39,1,0
+c30bde50,Loops,2,1,35,0,0
+163a7d7d,Loops,2,1,30,0,0
+e1571e55,Functions,2,1,47,0,0
+1104d582,Loops,2,3,27,0,0
+3d59b919,Loops,2,1,23,0,0
+e9b79c29,Recursion,3,3,40,0,0
+e5b4ad69,Loops,2,2,28,0,0
+8680f577,Dynamic Programming,4,3,42,1,0
+1d9fc720,Loops,2,1,34,0,0
+342d668c,Loops,2,1,29,0,0
+e9b79c29,Dynamic Programming,4,1,38,1,0
+57691047,Dynamic Programming,4,3,26,1,0
+af3a75f2,Variables,1,1,14,1,1
+f2af96c0,Variables,1,2,20,0,0
+ddaf7ca2,Dynamic Programming,4,3,33,0,0
+08b99ac1,Dynamic Programming,4,1,43,0,0
+342d668c,Dynamic Programming,4,3,40,0,0
+0efdd7c7,Loops,2,3,39,1,0
+25c83068,Functions,2,2,46,0,0
+3dfc2e3a,Variables,1,1,32,1,1
+7882fad6,Loops,2,1,15,1,1
+543086ca,Recursion,3,1,34,0,0
+590f8480,Loops,2,1,23,0,0
+dc54d27c,Variables,1,1,38,1,1
+5e4c63f7,Variables,1,1,23,0,0
+717f86c2,Variables,1,2,30,1,1
+1d9fc720,Recursion,3,1,39,0,0
+7498baf0,Functions,2,1,29,0,0
+f4ad70ed,Dynamic Programming,4,2,40,1,0
+2a9272f0,Functions,2,1,18,1,0
+ec60e30b,Recursion,3,1,31,0,0
+163a7d7d,Loops,2,1,23,1,0
+1bd8d2b4,Recursion,3,2,35,1,0
+629f1950,Recursion,3,2,32,0,0
+03f4c13e,Recursion,3,1,40,0,0
+dc2ec317,Functions,2,3,55,1,0
+aa8a37f4,Variables,1,1,24,1,1
+08d327e6,Dynamic Programming,4,3,38,0,0
+590f8480,Loops,2,2,39,1,0
+7b55af79,Recursion,3,1,35,1,0
+faf2230c,Variables,1,1,21,1,1
+dbd84587,Dynamic Programming,4,1,22,1,0
+a9b93c93,Variables,1,2,23,0,0
+5537bfd1,Variables,1,2,28,1,0
+e3f0ada2,Variables,1,1,40,1,1
+7882fad6,Functions,2,1,28,1,0
+a9b93c93,Variables,1,2,26,0,0
+b1694887,Dynamic Programming,4,1,35,0,0
+56060b4d,Functions,2,2,29,1,0
+84c8caac,Functions,2,2,23,1,1
+c0a8a86f,Recursion,3,3,36,0,0
+c5ebe991,Recursion,3,1,40,0,0
+66429af5,Dynamic Programming,4,2,40,0,0
+bd0c2b39,Functions,2,1,31,0,0
+f4ad70ed,Loops,2,2,31,1,0
+283b0d8b,Recursion,3,1,23,0,0
+4fb1bc31,Variables,1,3,17,0,0
+dc2ec317,Loops,2,1,26,0,0
+fdb66605,Loops,2,1,18,1,1
+65c08f13,Recursion,3,1,30,1,0
+6e99ac2f,Dynamic Programming,4,3,43,0,0
+40bdcaf0,Functions,2,3,50,0,0
+d20907be,Variables,1,1,14,1,1
+adef3c23,Dynamic Programming,4,2,29,0,0
+29da264a,Loops,2,1,28,1,1
+1d4c9cc0,Functions,2,1,26,1,0
+e11c2057,Functions,2,2,26,1,0
+847c54fb,Variables,1,3,12,1,0
+e6574e00,Variables,1,2,24,1,1
+84392e9a,Dynamic Programming,4,1,22,1,0
+bd0c2b39,Recursion,3,1,22,0,0
+80f3d5b0,Recursion,3,2,32,1,0
+82b05027,Dynamic Programming,4,2,30,1,0
+c30bfd68,Dynamic Programming,4,2,14,0,0
+3d69c0ca,Recursion,3,1,21,1,0
+08d327e6,Functions,2,2,28,1,0
+56060b4d,Recursion,3,3,31,0,0
+73b88305,Loops,2,2,20,1,1
+ecbc285c,Recursion,3,2,36,1,0
+b08626e4,Loops,2,1,37,0,0
+59811e5d,Variables,1,2,12,1,1
+72ddfa48,Loops,2,1,39,1,0
+4334f0ec,Variables,1,2,23,0,0
+7498baf0,Functions,2,1,37,1,0
+86878cf1,Recursion,3,1,29,1,0
+29da264a,Variables,1,3,40,0,0
+e6d5e657,Variables,1,3,24,1,0
+6c0d033e,Recursion,3,1,39,0,0
+0413c097,Functions,2,1,42,1,1
+96ed030e,Variables,1,1,24,1,1
+faf2230c,Loops,2,2,17,0,0
+84392e9a,Variables,1,1,28,1,1
+4334f0ec,Functions,2,2,25,1,0
+ecbc285c,Recursion,3,2,28,1,0
+4eba48a6,Dynamic Programming,4,1,40,0,0
+08d327e6,Functions,2,1,20,1,1
+7882fad6,Dynamic Programming,4,3,36,0,0
+66429af5,Variables,1,2,19,1,0
+ec60e30b,Functions,2,1,49,0,0
+7d83aaa2,Functions,2,2,6,0,0
+6e99ac2f,Functions,2,2,45,1,0
+7d83aaa2,Loops,2,1,13,1,1
+c1db4161,Functions,2,3,42,0,0
+60e2fa70,Loops,2,1,34,1,0
+64f6fedd,Dynamic Programming,4,1,28,0,0
+40bdcaf0,Dynamic Programming,4,2,30,1,0
+0db3460b,Recursion,3,3,38,1,0
+c5ebe991,Functions,2,2,32,1,0
+595afe07,Functions,2,1,28,0,0
+f1fc10b2,Loops,2,2,18,1,0
+f6bfc15f,Variables,1,1,30,1,1
+00a8a9a8,Functions,2,1,44,1,0
+f64a2ed0,Variables,1,1,31,1,1
+d7be5c1e,Loops,2,3,27,0,0
+fdb66605,Loops,2,1,16,1,0
+859789fb,Loops,2,1,28,1,0
+08d327e6,Loops,2,3,29,1,0
+2a9272f0,Functions,2,3,20,0,0
+590f8480,Variables,1,1,21,1,1
+a8070b67,Recursion,3,2,45,0,0
+4e096844,Loops,2,3,37,1,0
+049fc19a,Variables,1,1,28,1,1
+637f435d,Loops,2,1,32,0,0
+cbc58144,Recursion,3,3,24,1,0
+40bdcaf0,Dynamic Programming,4,2,35,0,0
+d20907be,Recursion,3,1,29,1,0
+ec846410,Loops,2,2,30,1,0
+df9ead78,Recursion,3,2,40,0,0
+6e99ac2f,Dynamic Programming,4,3,27,0,0
+69487be7,Variables,1,1,12,1,1
+7eb5baa2,Variables,1,1,33,0,0
+590f8480,Variables,1,2,8,1,1
+44110570,Recursion,3,1,31,0,0
+44110570,Dynamic Programming,4,3,42,0,0
+64f6fedd,Dynamic Programming,4,2,26,1,0
+86d4132b,Functions,2,1,47,0,0
+717f86c2,Dynamic Programming,4,1,38,0,0
+40bdcaf0,Dynamic Programming,4,1,33,1,0
+057a3be1,Dynamic Programming,4,3,29,1,0
+86878cf1,Recursion,3,2,34,0,0
+39119303,Variables,1,1,6,1,1
+ccd462cf,Recursion,3,3,37,0,0
+c0a8a86f,Loops,2,3,26,0,0
+dc54d27c,Variables,1,2,21,1,0
+7882fad6,Functions,2,3,30,0,0
+d63b006e,Functions,2,1,27,1,1
+a13cc4dc,Loops,2,1,21,0,0
+f64a2ed0,Loops,2,2,34,1,0
+7d83aaa2,Dynamic Programming,4,1,42,0,0
+38caeb3c,Functions,2,2,32,1,0
+8539e3ec,Loops,2,2,34,0,0
+66429af5,Dynamic Programming,4,1,37,0,0
+96ed030e,Variables,1,2,19,0,0
+08d327e6,Recursion,3,1,31,1,0
+af3a75f2,Functions,2,1,15,0,0
+d7be5c1e,Dynamic Programming,4,3,31,0,0
+4fb1bc31,Functions,2,1,29,1,1
+e33fb13f,Dynamic Programming,4,1,33,0,0
+b87fb52d,Functions,2,2,43,0,0
+a83e881d,Dynamic Programming,4,1,29,0,0
+44110570,Dynamic Programming,4,2,26,1,0
+5ac87020,Recursion,3,2,21,1,0
+8680f577,Loops,2,3,30,0,0
+abb9c659,Functions,2,1,10,0,0
+a8070b67,Functions,2,1,41,1,0
+66429af5,Dynamic Programming,4,1,31,1,0
+c54abbb6,Dynamic Programming,4,1,33,1,0
+e6574e00,Recursion,3,1,37,0,0
+6e99ac2f,Variables,1,1,21,1,1
+73b88305,Recursion,3,2,34,0,0
+0e79cd40,Functions,2,2,23,1,1
+52ff1a49,Recursion,3,1,30,0,0
+fe579de6,Loops,2,1,29,0,0
+cbc58144,Dynamic Programming,4,2,9,0,0
+1bd8d2b4,Dynamic Programming,4,2,44,0,0
+1b3c9480,Variables,1,1,36,1,1
+72ddfa48,Variables,1,3,31,1,0
+d611361f,Functions,2,2,35,1,0
+00a8a9a8,Variables,1,1,39,1,1
+1932d7f3,Functions,2,2,27,0,0
+1d9fc720,Dynamic Programming,4,3,44,0,0
+a8070b67,Functions,2,2,32,1,0
+2d51fd19,Variables,1,1,22,0,0
+af3a75f2,Dynamic Programming,4,2,43,0,0
+d49f68ef,Variables,1,2,38,1,0
+64f6fedd,Loops,2,3,41,1,0
+057a3be1,Variables,1,2,37,0,0
+1104d582,Recursion,3,1,27,0,0
+dc2ec317,Functions,2,3,36,0,0
+1c4b0d66,Variables,1,3,21,0,0
+faf2230c,Recursion,3,3,43,0,0
+057a3be1,Loops,2,1,26,1,0
+bd0c2b39,Functions,2,1,31,1,0
+3d59b919,Functions,2,1,22,1,0
+4f4a93f9,Recursion,3,1,34,1,1
+e6d5e657,Dynamic Programming,4,2,44,0,0
+96f5f1e4,Recursion,3,1,30,0,0
+a13cc4dc,Variables,1,2,15,0,0
+4334f0ec,Recursion,3,1,29,1,0
+637f435d,Loops,2,2,18,1,1
+5ac87020,Dynamic Programming,4,1,31,1,0
+a749cce0,Dynamic Programming,4,1,37,1,0
+48123c8b,Loops,2,2,32,1,0
+2d51fd19,Loops,2,2,22,1,0
+0ae7c5b8,Variables,1,3,33,0,0
+0ae7c5b8,Variables,1,1,22,1,1
+629f1950,Loops,2,2,23,1,0
+637f435d,Functions,2,2,28,1,0
+30b66672,Functions,2,2,36,0,0
+44110570,Dynamic Programming,4,1,45,0,0
+9f98a2dc,Loops,2,2,31,1,0
+96ed030e,Recursion,3,1,31,0,0
+1c4b0d66,Variables,1,3,27,1,0
+e96f6898,Variables,1,1,19,1,1
+cce7da75,Recursion,3,1,28,0,0
+3f3826f3,Dynamic Programming,4,1,31,0,0
+a8e1ff27,Functions,2,1,27,1,0
+c54abbb6,Functions,2,2,21,0,0
+1661ded5,Loops,2,2,39,1,0
+e3f0ada2,Loops,2,1,31,0,0
+29d8241a,Variables,1,2,15,1,1
+25c83068,Variables,1,3,36,0,0
+52ff1a49,Dynamic Programming,4,2,44,1,0
+60b5d26b,Functions,2,1,37,0,0
+ddaf7ca2,Variables,1,3,19,1,0
+a8e1ff27,Loops,2,2,31,1,0
+57691047,Dynamic Programming,4,1,25,0,0
+faf2230c,Functions,2,1,36,0,0
+2a9272f0,Dynamic Programming,4,1,32,0,0
+590f8480,Functions,2,1,29,0,0
+d49f68ef,Functions,2,3,17,0,0
+8d26d65b,Recursion,3,1,19,1,0
+7498baf0,Dynamic Programming,4,2,30,0,0
+4f4a93f9,Loops,2,3,25,0,0
+40bdcaf0,Functions,2,2,24,1,0
+abb9c659,Loops,2,1,40,0,0
+96ed030e,Functions,2,2,37,0,0
+2a9272f0,Functions,2,2,27,0,0
+9f98a2dc,Dynamic Programming,4,1,40,0,0
+03e26a0b,Variables,1,2,27,1,0
+a8070b67,Variables,1,1,20,1,1
+29d8241a,Functions,2,1,22,0,0
+7882fad6,Recursion,3,3,39,0,0
+a9b93c93,Variables,1,1,34,1,1
+a13cc4dc,Functions,2,2,35,0,0
+3d69c0ca,Variables,1,2,28,0,0
+a749cce0,Recursion,3,1,33,1,0
+4e096844,Recursion,3,2,41,0,0
+1f33c4ce,Recursion,3,2,29,1,0
+44e50da6,Loops,2,1,33,1,0
+4e096844,Variables,1,1,27,1,0
+c9d83e66,Variables,1,2,19,1,1
+b1694887,Recursion,3,1,23,0,0
+bd0c2b39,Loops,2,1,40,1,0
+c54abbb6,Recursion,3,3,26,0,0
+2d51fd19,Functions,2,2,24,0,0
+7e3123d1,Recursion,3,1,22,1,0
+3a9f6f1f,Loops,2,1,45,0,0
+72ddfa48,Variables,1,2,25,0,0
+f6bfc15f,Functions,2,3,25,1,0
+3a9f6f1f,Variables,1,2,33,0,0
+7d83aaa2,Dynamic Programming,4,2,39,0,0
+03f4c13e,Recursion,3,3,42,0,0
+5537bfd1,Dynamic Programming,4,1,30,0,0
+283b0d8b,Dynamic Programming,4,1,43,1,0
+5064bff6,Dynamic Programming,4,2,37,0,0
+5064bff6,Recursion,3,1,32,0,0
+fdb66605,Functions,2,3,39,1,0
+3d69c0ca,Loops,2,2,38,0,0
+a6e23819,Dynamic Programming,4,1,29,0,0
+d49f68ef,Loops,2,1,27,0,0
+99e180db,Functions,2,3,19,1,0
+3a9f6f1f,Dynamic Programming,4,2,26,0,0
+4f4a93f9,Variables,1,1,17,0,0
+897979a0,Recursion,3,3,38,0,0
+c54abbb6,Loops,2,1,8,1,0
+f2af96c0,Loops,2,1,13,1,0
+6e99ac2f,Functions,2,1,34,1,1
+6c985f1e,Recursion,3,1,21,0,0
+0e79cd40,Functions,2,1,18,1,0
+7d83aaa2,Dynamic Programming,4,2,38,0,0
+1d4c9cc0,Dynamic Programming,4,2,41,1,0
+84b563ae,Recursion,3,2,35,0,0
+e3f0ada2,Functions,2,1,37,1,1
+faf2230c,Recursion,3,1,42,0,0
+df9ead78,Dynamic Programming,4,1,30,0,0
+28fc7c4c,Dynamic Programming,4,3,45,1,0
+1e9af1a8,Loops,2,1,40,1,1
+1104d582,Functions,2,2,13,1,0
+c54abbb6,Recursion,3,2,23,1,0
+cbc58144,Dynamic Programming,4,1,38,0,0
+44110570,Loops,2,1,22,1,1
+e33fb13f,Recursion,3,2,33,0,0
+5064bff6,Variables,1,2,40,1,1
+d41f22aa,Variables,1,1,18,0,0
+45b5de1a,Loops,2,1,13,0,0
+590f8480,Dynamic Programming,4,1,31,0,0
+96f5f1e4,Recursion,3,2,33,0,0
+e6d5e657,Dynamic Programming,4,1,32,1,0
+d611361f,Functions,2,1,38,1,0
+48123c8b,Loops,2,1,26,0,0
+2dd0eb22,Dynamic Programming,4,1,33,0,0
+a749cce0,Dynamic Programming,4,1,21,1,0
+f4ad70ed,Functions,2,2,8,0,0
+80f3d5b0,Dynamic Programming,4,3,43,0,0
+67386278,Recursion,3,1,25,1,0
+65c08f13,Variables,1,2,38,1,1
+e1571e55,Functions,2,3,25,0,0
+a749cce0,Recursion,3,1,32,1,0
+03f4c13e,Recursion,3,2,36,1,0
+e33fb13f,Recursion,3,1,24,0,0
+fe579de6,Functions,2,1,31,1,1
+a8e1ff27,Dynamic Programming,4,2,28,0,0
+3a9f6f1f,Functions,2,1,35,1,0
+af3a75f2,Dynamic Programming,4,2,19,0,0
+543086ca,Recursion,3,2,42,0,0
+df9ead78,Dynamic Programming,4,3,51,0,0
+8e5699ff,Functions,2,1,31,1,1
+1d9fc720,Functions,2,2,24,1,0
+af3a75f2,Functions,2,2,34,0,0
+1e9af1a8,Variables,1,3,39,1,0
+48123c8b,Dynamic Programming,4,3,27,0,0
+4fb1bc31,Recursion,3,1,25,0,0
+6c0d033e,Recursion,3,2,26,1,0
+03f4c13e,Functions,2,1,25,0,0
+86878cf1,Functions,2,1,30,1,0
+f64a2ed0,Recursion,3,1,14,0,0
+1d4c9cc0,Loops,2,2,31,0,0
+629f1950,Loops,2,2,34,0,0
+0413c097,Recursion,3,2,41,1,0
+56060b4d,Recursion,3,1,24,1,0
+8539e3ec,Variables,1,3,32,0,0
+08d327e6,Dynamic Programming,4,1,30,1,0
+e1571e55,Loops,2,3,36,0,0
+cc50d102,Functions,2,1,27,0,0
+dc54d27c,Variables,1,3,27,0,0
+2a9272f0,Recursion,3,1,14,1,0
+84c8caac,Recursion,3,2,43,1,0
+8e5699ff,Loops,2,3,30,0,0
+847c54fb,Recursion,3,2,21,1,0
+f6bfc15f,Variables,1,1,14,1,1
+bd0c2b39,Recursion,3,2,36,0,0
+39119303,Functions,2,3,34,1,0
+629f1950,Dynamic Programming,4,3,32,0,0
+a749cce0,Dynamic Programming,4,2,38,1,0
+897979a0,Dynamic Programming,4,1,43,1,0
+35645b69,Recursion,3,1,33,0,0
+ccd462cf,Loops,2,1,31,0,0
+d63b006e,Variables,1,2,30,0,0
+0e79cd40,Loops,2,1,23,0,0
+7498baf0,Recursion,3,1,27,1,0
+0413c097,Functions,2,3,40,0,0
+64f6fedd,Variables,1,1,26,0,0
+a6e23819,Loops,2,1,26,1,1
+8539e3ec,Variables,1,3,34,0,0
+03e26a0b,Variables,1,1,22,0,0
+b41f7116,Loops,2,2,45,0,0
+6e99ac2f,Dynamic Programming,4,1,33,1,0
+38caeb3c,Dynamic Programming,4,1,29,1,0
+60b5d26b,Loops,2,3,25,0,0
+abb9c659,Functions,2,3,41,0,0
+dbd84587,Dynamic Programming,4,1,34,0,0
+3d1f9bcf,Functions,2,1,22,0,0
+cb7b5ea5,Loops,2,3,41,0,0
+c1db4161,Loops,2,3,17,0,0
+86878cf1,Functions,2,2,15,0,0
+6e99ac2f,Variables,1,1,29,1,1
+cb5d5a7d,Variables,1,1,26,1,1
+e33fb13f,Loops,2,2,18,1,0
+b1694887,Variables,1,2,29,0,0
+8e5699ff,Loops,2,1,18,1,0
+a6e23819,Loops,2,1,29,0,0
+1f33c4ce,Recursion,3,2,42,1,0
+c1db4161,Functions,2,2,43,0,0
+5c2bc04a,Recursion,3,3,43,0,0
+f1fc10b2,Loops,2,2,35,1,0
+595afe07,Variables,1,1,36,1,0
+cbc58144,Functions,2,2,38,1,0
+c54abbb6,Dynamic Programming,4,2,28,0,0
+cb5d5a7d,Functions,2,2,33,0,0
+75eee0b0,Loops,2,2,29,0,0
+64f6fedd,Recursion,3,1,41,0,0
+342d668c,Recursion,3,1,28,0,0
+8539e3ec,Dynamic Programming,4,2,28,0,0
+0f512b8e,Variables,1,2,46,1,0
+f6bfc15f,Loops,2,2,22,0,0
+1f33c4ce,Loops,2,1,33,1,1
+ddaf7ca2,Dynamic Programming,4,1,50,0,0
+84b563ae,Variables,1,1,10,1,1
+5ac87020,Loops,2,3,30,0,0
+5537bfd1,Functions,2,1,36,0,0
+d26e930c,Variables,1,1,26,0,0
+1c4b0d66,Loops,2,1,16,1,1
+637f435d,Dynamic Programming,4,3,34,0,0
+b8b005de,Loops,2,1,26,0,0
+1c4b0d66,Recursion,3,1,30,1,0
+cb7b5ea5,Variables,1,2,33,1,0
+df9ead78,Dynamic Programming,4,1,35,1,0
+86d4132b,Loops,2,1,29,0,0
+c21eefb7,Variables,1,1,29,1,1
+a13cc4dc,Recursion,3,2,43,0,0
+fe579de6,Recursion,3,1,21,1,1
+5745afc1,Dynamic Programming,4,1,19,0,0
+cc50d102,Loops,2,1,21,0,0
+22394829,Dynamic Programming,4,1,34,1,0
+92807a16,Variables,1,3,21,0,0
+7d83aaa2,Variables,1,1,12,0,0
+57691047,Loops,2,2,27,0,0
+4e096844,Dynamic Programming,4,1,36,0,0
+56060b4d,Dynamic Programming,4,1,35,1,0
+dbd84587,Dynamic Programming,4,2,25,1,0
+91e64a70,Loops,2,1,31,1,1
+00e69998,Loops,2,1,29,0,0
+65c08f13,Dynamic Programming,4,1,34,0,0
+52ff1a49,Loops,2,1,36,0,0
+86d4132b,Variables,1,2,8,0,0
+637f435d,Functions,2,1,23,1,0
+aa8a37f4,Variables,1,1,8,0,0
+4eba48a6,Dynamic Programming,4,3,41,0,0
+64f6fedd,Variables,1,1,17,0,0
+ccd462cf,Variables,1,3,26,0,0
+0fa3f87c,Recursion,3,1,36,1,0
+af3a75f2,Loops,2,3,41,1,0
+fdb66605,Recursion,3,1,22,0,0
+b87fb52d,Variables,1,1,34,1,1
+29da264a,Recursion,3,1,21,0,0
+67386278,Functions,2,1,26,1,0
+2a9272f0,Loops,2,2,34,1,0
+1d9fc720,Recursion,3,1,42,0,0
+0bbd03f9,Recursion,3,1,40,0,0
+4e096844,Dynamic Programming,4,3,30,0,0
+4ecbb3b7,Dynamic Programming,4,2,33,0,0
+2d51fd19,Functions,2,1,27,0,0
+dc54d27c,Functions,2,3,34,1,0
+86d4132b,Dynamic Programming,4,2,45,0,0
+00a8a9a8,Functions,2,1,27,1,1
+2d51fd19,Loops,2,1,27,1,0
+b41f7116,Dynamic Programming,4,1,42,0,0
+86878cf1,Loops,2,2,35,1,0
+3d69c0ca,Recursion,3,3,31,0,0
+0413c097,Loops,2,3,38,1,0
+b8b005de,Loops,2,1,43,1,1
+ddaf7ca2,Variables,1,3,30,0,0
+0813b66c,Variables,1,2,36,1,0
+7498baf0,Loops,2,2,36,1,0
+abb9c659,Dynamic Programming,4,3,43,0,0
+859789fb,Loops,2,2,23,0,0
+d41f22aa,Recursion,3,2,39,0,0
+6313f2f8,Loops,2,1,33,1,1
+48123c8b,Functions,2,1,32,0,0
+0f512b8e,Functions,2,2,29,1,0
+ddaf7ca2,Loops,2,1,30,0,0
+daee0007,Dynamic Programming,4,1,38,1,0
+29d8241a,Recursion,3,1,39,1,0
+b1694887,Functions,2,3,34,1,0
+080b3811,Dynamic Programming,4,2,39,0,0
+e9b79c29,Functions,2,1,25,1,0
+d26e930c,Loops,2,2,26,1,1
+fe579de6,Functions,2,1,37,0,0
+faf2230c,Recursion,3,2,39,1,0
+e9b79c29,Loops,2,1,19,0,0
+1bd8d2b4,Variables,1,1,30,0,0
+60b5d26b,Functions,2,1,37,1,1
+c0a8a86f,Variables,1,1,29,0,0
+e1571e55,Recursion,3,1,19,1,0
+80f3d5b0,Recursion,3,2,36,0,0
+2a9272f0,Recursion,3,1,23,1,0
+44e50da6,Variables,1,2,21,1,1
+66429af5,Loops,2,1,12,1,0
+a6e23819,Recursion,3,1,36,1,0
+0e79cd40,Loops,2,2,36,0,0
+0813b66c,Dynamic Programming,4,2,32,0,0
+c5ebe991,Recursion,3,2,45,0,0
+6313f2f8,Dynamic Programming,4,1,27,1,0
+c30bfd68,Loops,2,2,29,0,0
+25823a23,Loops,2,2,30,0,0
+a13cc4dc,Variables,1,2,22,1,1
+e6d5e657,Variables,1,1,20,1,1
+57691047,Functions,2,2,32,1,0
+60e2fa70,Dynamic Programming,4,2,51,0,0
+e96f6898,Loops,2,1,28,1,1
+52ff1a49,Variables,1,1,32,1,1
+08b99ac1,Functions,2,3,30,0,0
+86d4132b,Functions,2,1,18,0,0
+0bbd03f9,Loops,2,1,34,1,1
+0ae7c5b8,Variables,1,3,40,0,0
+e6237686,Loops,2,3,28,0,0
+22394829,Dynamic Programming,4,1,41,0,0
+08b99ac1,Variables,1,2,32,0,0
+00e69998,Recursion,3,1,37,0,0
+7498baf0,Dynamic Programming,4,1,32,0,0
+f2af96c0,Dynamic Programming,4,1,49,1,0
+08d327e6,Functions,2,2,38,1,0
+283b0d8b,Dynamic Programming,4,3,31,0,0
+a4e0c28d,Recursion,3,1,41,1,0
+48123c8b,Loops,2,1,23,0,0
+66429af5,Variables,1,1,25,1,0
+b08626e4,Variables,1,3,28,1,0
+1c4b0d66,Recursion,3,1,25,0,0
+44110570,Variables,1,1,27,1,1
+4eba48a6,Functions,2,1,21,1,0
+6c985f1e,Variables,1,3,44,1,0
+e33fb13f,Functions,2,3,37,1,0
+f6bfc15f,Variables,1,2,27,1,0
+897979a0,Loops,2,1,16,1,1
+03e26a0b,Dynamic Programming,4,1,24,1,0
+283b0d8b,Dynamic Programming,4,1,36,0,0
+29da264a,Functions,2,1,42,0,0
+c1c9edb9,Variables,1,1,34,0,0
+69487be7,Functions,2,1,36,1,1
+39119303,Loops,2,1,19,1,0
+daee0007,Recursion,3,1,43,1,0
+3d69c0ca,Dynamic Programming,4,1,24,1,0
+3d69c0ca,Recursion,3,2,35,0,0
+897979a0,Recursion,3,1,55,0,0
+3dfc2e3a,Functions,2,2,20,1,0
+a4e0c28d,Loops,2,1,34,0,0
+6c0d033e,Recursion,3,2,32,0,0
+629f1950,Dynamic Programming,4,2,35,0,0
+ccd462cf,Variables,1,2,26,1,0
+3d1f9bcf,Variables,1,1,17,1,1
+8e5699ff,Loops,2,1,33,1,1
+a8e1ff27,Loops,2,1,25,1,1
+6313f2f8,Loops,2,1,31,1,1
+35645b69,Loops,2,1,23,0,0
+4f4a93f9,Recursion,3,2,44,0,0
+35645b69,Loops,2,1,25,0,0
+7498baf0,Loops,2,2,19,1,0
+1c4b0d66,Recursion,3,3,44,0,0
+f64a2ed0,Functions,2,1,31,1,0
+6313f2f8,Recursion,3,1,28,0,0
+590f8480,Dynamic Programming,4,1,35,1,0
+3263dca5,Loops,2,1,19,0,0
+0efdd7c7,Variables,1,2,31,0,0
+6c0d033e,Dynamic Programming,4,2,37,0,0
+629f1950,Loops,2,3,33,0,0
+22394829,Loops,2,1,24,1,0
+af3a75f2,Functions,2,1,22,1,0
+1661ded5,Recursion,3,1,44,0,0
+0efdd7c7,Dynamic Programming,4,2,49,1,0
+0bbd03f9,Recursion,3,1,31,0,0
+35645b69,Functions,2,1,30,1,1
+6313f2f8,Recursion,3,2,33,0,0
+c9d83e66,Recursion,3,1,30,0,0
+cd86db99,Variables,1,3,31,1,1
+163a7d7d,Variables,1,2,40,1,1
+99e180db,Recursion,3,2,24,0,0
+c0a8a86f,Variables,1,1,25,1,1
+44110570,Variables,1,2,27,1,0
+6c6ea779,Dynamic Programming,4,1,33,0,0
+adef3c23,Recursion,3,2,22,0,0
+3263dca5,Loops,2,2,27,0,0
+859789fb,Recursion,3,3,19,0,0
+faf2230c,Functions,2,3,35,0,0
+00e69998,Recursion,3,1,29,0,0
+4ecbb3b7,Loops,2,1,24,1,1
+67386278,Variables,1,3,10,0,0
+1bd8d2b4,Loops,2,1,18,0,0
+e9d0c683,Functions,2,2,24,0,0
+1d4c9cc0,Functions,2,2,36,0,0
+e9d0c683,Variables,1,1,30,1,1
+057a3be1,Dynamic Programming,4,3,43,1,0
+d611361f,Functions,2,1,23,0,0
+1d4c9cc0,Functions,2,2,27,1,0
+60e2fa70,Loops,2,3,30,0,0
+1f33c4ce,Functions,2,3,24,1,0
+25823a23,Recursion,3,3,30,0,0
+80f3d5b0,Variables,1,1,22,1,1
+1d9fc720,Loops,2,2,32,0,0
+86878cf1,Dynamic Programming,4,1,39,1,0
+080b3811,Loops,2,1,46,1,0
+69487be7,Recursion,3,1,25,0,0
+1932d7f3,Recursion,3,2,21,1,0
+80f3d5b0,Recursion,3,2,37,0,0
+08b99ac1,Loops,2,1,35,0,0
+cb7b5ea5,Loops,2,3,29,0,0
+45b5de1a,Functions,2,1,30,0,0
+f6bfc15f,Dynamic Programming,4,2,26,0,0
+e96f6898,Loops,2,1,33,0,0
+b87fb52d,Variables,1,2,34,1,1
+0f512b8e,Recursion,3,1,40,0,0
+64f6fedd,Loops,2,1,29,0,0
+b3f64f19,Recursion,3,1,39,1,0
+0efdd7c7,Dynamic Programming,4,2,31,1,0
+3d69c0ca,Recursion,3,1,31,1,0
+0f512b8e,Loops,2,2,43,1,0
+82b05027,Loops,2,2,31,0,0
+b8b005de,Recursion,3,3,21,1,0
+44e50da6,Recursion,3,1,27,1,0
+84c8caac,Variables,1,1,34,1,1
+44110570,Loops,2,1,23,1,0
+0e79cd40,Recursion,3,1,16,1,1
+b1694887,Variables,1,1,32,0,0
+3d69c0ca,Recursion,3,1,38,1,0
+3f3826f3,Recursion,3,2,32,1,0
+60b5d26b,Dynamic Programming,4,1,39,0,0
+d611361f,Recursion,3,3,38,0,0
+45b5de1a,Functions,2,1,30,0,0
+fdb66605,Loops,2,1,32,1,1
+c21eefb7,Functions,2,3,26,0,0
+92807a16,Recursion,3,3,28,1,0
+bd0c2b39,Loops,2,1,40,0,0
+59811e5d,Recursion,3,3,29,1,0
+80f3d5b0,Functions,2,1,24,0,0
+6c0d033e,Recursion,3,1,20,1,0
+595afe07,Variables,1,1,23,1,1
+ccd462cf,Variables,1,3,23,0,0
+45b5de1a,Recursion,3,3,40,1,0
+35645b69,Dynamic Programming,4,2,28,0,0
+08d327e6,Variables,1,1,21,1,1
+dc54d27c,Recursion,3,2,33,0,0
+d41f22aa,Functions,2,3,23,0,0
+4fb1bc31,Recursion,3,3,35,1,0
+4f4a93f9,Recursion,3,1,28,1,0
+5ac87020,Loops,2,1,22,1,0
+7882fad6,Dynamic Programming,4,1,17,1,0
+25c83068,Recursion,3,3,36,0,0
+86878cf1,Variables,1,1,39,0,0
+b87fb52d,Variables,1,2,27,1,1
+3dfc2e3a,Variables,1,2,27,1,1
+ec846410,Functions,2,1,30,1,1
+df9ead78,Dynamic Programming,4,1,32,0,0
+45b5de1a,Dynamic Programming,4,1,41,1,0
+1f33c4ce,Variables,1,2,27,1,1
+29da264a,Dynamic Programming,4,2,29,1,0
+df9ead78,Functions,2,1,27,1,1
+3d69c0ca,Recursion,3,3,32,0,0
+dc2ec317,Variables,1,2,31,1,1
+08d327e6,Dynamic Programming,4,1,44,1,0
+27b49b90,Dynamic Programming,4,3,26,0,0
+35645b69,Loops,2,2,21,0,0
+7e3123d1,Dynamic Programming,4,1,29,0,0
+1e9af1a8,Variables,1,1,18,0,0
+2dd0eb22,Dynamic Programming,4,2,39,0,0
+4334f0ec,Recursion,3,2,39,1,0
+e11c2057,Functions,2,2,24,1,0
+09505742,Functions,2,1,17,1,0
+39119303,Dynamic Programming,4,3,41,1,0
+4eba48a6,Dynamic Programming,4,1,29,0,0
+b41f7116,Recursion,3,1,26,1,0
+c9d83e66,Variables,1,1,25,0,0
+3263dca5,Variables,1,3,39,1,0
+3a9f6f1f,Loops,2,1,36,1,1
+dc54d27c,Variables,1,3,31,0,0
+6313f2f8,Variables,1,2,14,1,1
+60e2fa70,Variables,1,1,25,0,0
+25c83068,Loops,2,1,44,1,1
+7b55af79,Dynamic Programming,4,1,43,1,0
+7882fad6,Recursion,3,2,29,1,0
+1bd8d2b4,Dynamic Programming,4,1,37,0,0
+bf0e5c55,Functions,2,1,40,0,0
+53716029,Variables,1,3,31,1,0
+e9b79c29,Functions,2,3,30,0,0
+08d327e6,Functions,2,3,47,0,0
+73b88305,Functions,2,2,46,0,0
+84c8caac,Recursion,3,2,31,0,0
+84b563ae,Variables,1,1,20,0,0
+c5ebe991,Dynamic Programming,4,1,16,1,0
+1bd8d2b4,Recursion,3,3,46,0,0
+faf2230c,Loops,2,1,22,1,1
+c30bfd68,Variables,1,1,30,1,1
+ec846410,Loops,2,1,21,1,1
+cce7da75,Functions,2,2,30,1,0
+8d26d65b,Variables,1,1,16,1,0
+057a3be1,Functions,2,1,40,0,0
+4334f0ec,Functions,2,3,38,1,0
+4eba48a6,Variables,1,2,37,1,1
+96f5f1e4,Functions,2,3,19,0,0
+faf2230c,Dynamic Programming,4,1,35,0,0
+0f512b8e,Loops,2,3,32,0,0
+f4ad70ed,Functions,2,2,33,1,0
+7d83aaa2,Loops,2,1,38,1,0
+8680f577,Variables,1,1,23,0,0
+1661ded5,Variables,1,1,37,1,1
+57691047,Dynamic Programming,4,2,38,0,0
+faf2230c,Recursion,3,1,34,0,0
+ccd462cf,Loops,2,1,39,0,0
+ccd462cf,Recursion,3,1,33,1,0
+2a9272f0,Recursion,3,2,33,0,0
+25823a23,Loops,2,2,38,0,0
+4334f0ec,Functions,2,1,29,0,0
+1c4b0d66,Recursion,3,1,42,0,0
+56060b4d,Recursion,3,1,39,1,0
+ccd462cf,Recursion,3,1,23,1,0
+057a3be1,Variables,1,2,23,1,0
+c54abbb6,Variables,1,2,27,1,1
+cce7da75,Loops,2,1,21,1,0
+39119303,Loops,2,3,27,0,0
+897979a0,Loops,2,2,26,1,0
+5745afc1,Functions,2,1,31,1,0
+e6237686,Recursion,3,2,38,1,0
+dfcd6b5b,Dynamic Programming,4,1,25,0,0
+39119303,Variables,1,2,28,1,0
+b87fb52d,Recursion,3,2,43,0,0
+cc50d102,Loops,2,2,38,0,0
+57691047,Recursion,3,2,41,0,0
+b41f7116,Recursion,3,2,25,0,0
+80f3d5b0,Dynamic Programming,4,1,41,1,0
+e11c2057,Recursion,3,1,25,0,0
+342d668c,Dynamic Programming,4,3,30,1,0
+bf0e5c55,Variables,1,1,20,1,1
+7e3123d1,Recursion,3,2,31,0,0
+69487be7,Functions,2,3,15,1,0
+96afdb6a,Loops,2,1,23,1,0
+4ecbb3b7,Variables,1,2,30,0,0
+e9d0c683,Functions,2,1,34,1,0
+e96f6898,Recursion,3,2,23,0,0
+697ebb27,Loops,2,3,32,0,0
+00e69998,Dynamic Programming,4,2,31,0,0
+859789fb,Variables,1,1,30,1,1
+38caeb3c,Loops,2,3,33,1,0
+0ae7c5b8,Functions,2,1,19,0,0
+897979a0,Recursion,3,3,29,1,0
+5745afc1,Variables,1,1,15,0,0
+a83e881d,Loops,2,1,40,0,0
+c54abbb6,Loops,2,1,32,1,0
+86d4132b,Dynamic Programming,4,1,43,1,0
+44e50da6,Loops,2,2,30,0,0
+e33fb13f,Dynamic Programming,4,1,39,0,0
+adef3c23,Functions,2,3,37,0,0
+1104d582,Functions,2,2,22,1,0
+1e9af1a8,Dynamic Programming,4,3,38,1,0
+5e4c63f7,Functions,2,2,45,0,0
+0f512b8e,Recursion,3,1,27,0,0
+5537bfd1,Functions,2,3,25,1,0
+847c54fb,Recursion,3,2,35,1,0
+5ac87020,Dynamic Programming,4,2,43,1,0
+aa8a37f4,Loops,2,1,16,1,1
+03f4c13e,Loops,2,1,18,1,0
+0efdd7c7,Recursion,3,3,31,1,0
+80459ec7,Recursion,3,1,11,1,1
+99e180db,Functions,2,2,30,1,1
+c1c9edb9,Variables,1,1,30,1,1
+44110570,Functions,2,1,19,1,1
+29da264a,Functions,2,1,22,1,1
+c5ebe991,Recursion,3,2,42,0,0
+f2af96c0,Functions,2,1,36,0,0
+1bd8d2b4,Functions,2,2,27,1,0
+67386278,Functions,2,1,34,1,0
+d41f22aa,Functions,2,1,38,0,0
+1f33c4ce,Recursion,3,2,21,0,0
+a4e0c28d,Loops,2,1,33,0,0
+cc50d102,Variables,1,1,19,1,1
+342d668c,Recursion,3,1,34,0,0
+57691047,Variables,1,3,25,1,0
+590f8480,Variables,1,2,30,1,0
+717f86c2,Recursion,3,1,15,0,0
+b3f64f19,Recursion,3,1,24,1,0
+f2af96c0,Variables,1,2,21,1,0
+a9b93c93,Variables,1,1,38,1,1
+cbc58144,Functions,2,2,26,0,0
+00a8a9a8,Dynamic Programming,4,1,45,0,0
+ec846410,Variables,1,3,37,1,0
+59811e5d,Functions,2,3,28,0,0
+2d51fd19,Dynamic Programming,4,2,21,0,0
+d63b006e,Variables,1,2,33,1,1
+cd86db99,Variables,1,3,34,0,0
+1d9fc720,Loops,2,3,36,1,0
+1f33c4ce,Loops,2,2,28,1,0
+049fc19a,Functions,2,1,30,1,1
+1e9af1a8,Functions,2,1,33,0,0
+8539e3ec,Loops,2,1,26,0,0
+9f98a2dc,Loops,2,1,27,0,0
+03e26a0b,Functions,2,2,39,1,0
+faf2230c,Dynamic Programming,4,2,37,0,0
+a4e0c28d,Loops,2,2,35,1,0
+03e26a0b,Recursion,3,1,36,0,0
+af3a75f2,Loops,2,1,23,0,0
+0e79cd40,Functions,2,1,38,1,1
+f6bfc15f,Loops,2,1,40,1,0
+847c54fb,Functions,2,3,28,0,0
+c1c9edb9,Recursion,3,1,29,0,0
+859789fb,Recursion,3,3,42,0,0
+1104d582,Recursion,3,3,30,0,0
+3d59b919,Recursion,3,3,55,0,0
+ccd462cf,Dynamic Programming,4,2,36,0,0
+0efdd7c7,Variables,1,1,11,1,1
+ddaf7ca2,Variables,1,2,40,0,0
+0efdd7c7,Functions,2,3,31,0,0
+67386278,Recursion,3,1,29,0,0
+8fb1f315,Variables,1,1,10,1,1
+53716029,Dynamic Programming,4,2,31,0,0
+a749cce0,Functions,2,1,35,0,0
+cb5d5a7d,Recursion,3,3,22,1,0
+72ddfa48,Loops,2,3,45,0,0
+25c83068,Loops,2,1,26,1,0
+08b99ac1,Functions,2,2,17,0,0
+f4ad70ed,Variables,1,1,13,1,1
+0e79cd40,Dynamic Programming,4,2,46,0,0
+60b5d26b,Variables,1,1,9,1,1
+53716029,Variables,1,2,26,0,0
+f2af96c0,Recursion,3,2,22,1,0
+27b49b90,Recursion,3,1,24,1,0
+22394829,Loops,2,2,25,1,0
+c1db4161,Functions,2,2,42,0,0
+73b88305,Dynamic Programming,4,1,35,0,0
+4eba48a6,Loops,2,1,24,0,0
+64f6fedd,Variables,1,2,19,1,1
+9f98a2dc,Recursion,3,1,18,1,0
+0f512b8e,Recursion,3,3,40,0,0
+28fc7c4c,Variables,1,1,27,1,1
+29d8241a,Variables,1,1,12,1,1
+6e99ac2f,Dynamic Programming,4,1,31,1,0
+c30bfd68,Loops,2,2,32,1,0
+e9b79c29,Functions,2,1,19,0,0
+72ddfa48,Functions,2,2,21,1,0
+897979a0,Functions,2,1,24,0,0
+dfcd6b5b,Functions,2,2,21,0,0
+75eee0b0,Loops,2,1,24,1,1
+72ddfa48,Loops,2,2,35,0,0
+22394829,Recursion,3,3,37,0,0
+84392e9a,Recursion,3,2,35,0,0
+b8b005de,Recursion,3,1,33,1,0
+8e5699ff,Variables,1,2,12,1,0
+049fc19a,Functions,2,1,18,1,1
+f1fc10b2,Recursion,3,1,30,0,0
+080b3811,Functions,2,1,34,0,0
+1c4b0d66,Recursion,3,1,38,0,0
+1214605f,Recursion,3,1,32,0,0
+67386278,Loops,2,3,40,0,0
+8539e3ec,Recursion,3,1,39,1,0
+717f86c2,Functions,2,2,29,0,0
+897979a0,Variables,1,2,43,0,0
+a83e881d,Dynamic Programming,4,1,21,1,0
+08d327e6,Functions,2,1,25,0,0
+82b05027,Loops,2,1,23,1,0
+08d327e6,Loops,2,1,40,1,1
+1104d582,Functions,2,1,20,0,0
+1104d582,Functions,2,1,21,1,1
+c9d83e66,Functions,2,1,33,1,0
+049fc19a,Functions,2,3,35,0,0
+99e180db,Functions,2,1,29,1,1
+1104d582,Variables,1,1,26,1,1
+00a8a9a8,Recursion,3,2,23,0,0
+4e096844,Loops,2,1,38,1,0
+897979a0,Variables,1,2,15,1,0
+049fc19a,Variables,1,1,19,1,1
+080b3811,Variables,1,2,15,1,1
+0413c097,Recursion,3,1,43,1,0
+5537bfd1,Dynamic Programming,4,1,23,0,0
+b87fb52d,Recursion,3,1,41,0,0
+96ed030e,Loops,2,2,30,0,0
+0db3460b,Functions,2,2,40,0,0
+897979a0,Variables,1,1,26,1,1
+a8070b67,Loops,2,2,24,0,0
+049fc19a,Loops,2,2,38,0,0
+1932d7f3,Recursion,3,2,32,0,0
+00a8a9a8,Loops,2,1,33,1,0
+df9ead78,Loops,2,1,19,0,0
+99e180db,Dynamic Programming,4,2,41,0,0
+59811e5d,Dynamic Programming,4,3,27,1,0
+45b5de1a,Functions,2,1,27,0,0
+a9b93c93,Dynamic Programming,4,2,26,0,0
+2d51fd19,Loops,2,2,34,0,0
+a6e23819,Dynamic Programming,4,2,18,0,0
+aa8a37f4,Functions,2,1,23,0,0
+e5b4ad69,Dynamic Programming,4,1,50,1,0
+af3a75f2,Loops,2,1,48,1,0
+a749cce0,Functions,2,2,32,0,0
+82b05027,Loops,2,2,37,0,0
+b87fb52d,Loops,2,1,31,1,0
+e9d0c683,Recursion,3,1,44,0,0
+e11c2057,Loops,2,1,14,1,1
+96f5f1e4,Variables,1,1,29,0,0
+64f6fedd,Functions,2,1,32,1,0
+6c6ea779,Variables,1,1,21,0,0
+080b3811,Dynamic Programming,4,3,38,0,0
+e1571e55,Recursion,3,1,20,0,0
+5ac87020,Variables,1,1,31,0,0
+91e64a70,Dynamic Programming,4,1,42,0,0
+b08626e4,Dynamic Programming,4,2,26,1,0
+38caeb3c,Dynamic Programming,4,1,45,0,0
+859789fb,Variables,1,2,40,1,1
+abb9c659,Variables,1,2,14,1,0
+39119303,Functions,2,2,40,0,0
+1d4c9cc0,Recursion,3,1,46,0,0
+f1fc10b2,Functions,2,3,44,1,0
+c1c9edb9,Loops,2,1,21,1,0
+53716029,Variables,1,3,25,1,0
+5e4c63f7,Dynamic Programming,4,3,45,1,0
+96f5f1e4,Variables,1,2,12,0,0
+1214605f,Variables,1,2,38,0,0
+6e99ac2f,Dynamic Programming,4,1,42,0,0
+daee0007,Functions,2,3,32,0,0
+dc54d27c,Recursion,3,2,34,1,0
+f6bfc15f,Recursion,3,1,22,0,0
+1b3c9480,Loops,2,2,33,1,0
+d26e930c,Functions,2,3,33,1,0
+25c83068,Loops,2,2,26,0,0
+1214605f,Functions,2,3,34,1,0
+84c8caac,Functions,2,1,49,1,0
+a9b93c93,Recursion,3,1,31,0,0
+d611361f,Functions,2,1,14,1,0
+1661ded5,Loops,2,3,27,1,0
+5064bff6,Loops,2,1,18,0,0
+8fb1f315,Recursion,3,1,45,1,0
+5ac87020,Functions,2,1,18,1,0
+c21eefb7,Dynamic Programming,4,2,32,0,0
+595afe07,Dynamic Programming,4,1,23,0,0
+d41f22aa,Loops,2,3,33,0,0
+c30bde50,Dynamic Programming,4,3,35,0,0
+29da264a,Dynamic Programming,4,2,39,0,0
+96ed030e,Variables,1,2,31,1,0
+28fc7c4c,Variables,1,2,29,0,0
+91e64a70,Recursion,3,1,30,1,0
+44110570,Loops,2,1,33,0,0
+c30bde50,Dynamic Programming,4,2,37,0,0
+a8e1ff27,Loops,2,2,27,0,0
+590f8480,Loops,2,1,20,1,0
+f4ad70ed,Recursion,3,3,25,0,0
+faf2230c,Recursion,3,3,50,0,0
+2dd0eb22,Recursion,3,1,36,0,0
+08b99ac1,Dynamic Programming,4,3,37,0,0
+7882fad6,Loops,2,1,13,1,0
+48123c8b,Loops,2,2,29,1,0
+f2af96c0,Variables,1,3,20,1,0
+a8070b67,Recursion,3,2,32,0,0
+d49f68ef,Functions,2,2,32,1,0
+cc50d102,Dynamic Programming,4,2,30,1,0
+96afdb6a,Loops,2,1,22,1,0
+6c0d033e,Functions,2,3,41,0,0
+3a9f6f1f,Dynamic Programming,4,1,36,0,0
+543086ca,Loops,2,1,30,0,0
+0bbd03f9,Functions,2,1,42,0,0
+dc54d27c,Dynamic Programming,4,2,14,1,0
+80f3d5b0,Dynamic Programming,4,1,45,0,0
+2d51fd19,Loops,2,1,30,0,0
+637f435d,Recursion,3,2,32,0,0
+00e69998,Variables,1,1,22,1,1
+3d69c0ca,Recursion,3,2,21,1,0
+5e4c63f7,Loops,2,1,22,1,1
+b08626e4,Variables,1,2,18,1,0
+cbc58144,Loops,2,3,34,1,0
+d20907be,Functions,2,1,16,1,0
+7882fad6,Variables,1,1,23,0,0
+53716029,Recursion,3,2,33,0,0
+e9b79c29,Variables,1,1,20,1,1
+29d8241a,Functions,2,1,34,0,0
+45b5de1a,Variables,1,1,15,1,1
+b8b005de,Variables,1,1,28,1,1
+daee0007,Variables,1,2,37,1,0
+35645b69,Recursion,3,1,28,0,0
+5537bfd1,Variables,1,1,25,1,1
+629f1950,Functions,2,2,31,0,0
+e3f0ada2,Recursion,3,1,37,0,0
+44e50da6,Dynamic Programming,4,3,29,1,0
+91e64a70,Dynamic Programming,4,1,33,0,0
+67386278,Recursion,3,1,38,0,0
+3d69c0ca,Loops,2,1,31,0,0
+d7be5c1e,Recursion,3,1,24,0,0
+fdb66605,Recursion,3,1,19,1,1
+39119303,Loops,2,2,28,0,0
+aa8a37f4,Variables,1,1,23,0,0
+44110570,Dynamic Programming,4,1,44,0,0
+1bd8d2b4,Dynamic Programming,4,2,21,0,0
+1214605f,Loops,2,1,45,0,0
+52ff1a49,Dynamic Programming,4,1,10,0,0
+9f98a2dc,Variables,1,3,41,0,0
+ec846410,Loops,2,2,30,0,0
+a13cc4dc,Loops,2,2,35,0,0
+08b99ac1,Dynamic Programming,4,2,35,1,0
+abb9c659,Recursion,3,2,35,0,0
+29da264a,Variables,1,3,13,1,0
+cb5d5a7d,Loops,2,3,34,1,0
+c54abbb6,Recursion,3,1,23,0,0
+8d26d65b,Dynamic Programming,4,1,24,0,0
+48123c8b,Variables,1,2,20,0,0
+84b563ae,Recursion,3,1,34,0,0
+65c08f13,Dynamic Programming,4,1,33,0,0
+a13cc4dc,Functions,2,1,31,0,0
+86d4132b,Variables,1,1,12,1,1
+0813b66c,Variables,1,2,21,1,1
+7eb5baa2,Dynamic Programming,4,2,37,0,0
+3263dca5,Functions,2,1,12,0,0
+a8070b67,Variables,1,1,26,1,1
+a13cc4dc,Variables,1,2,16,0,0
+30b66672,Loops,2,1,20,1,0
+29da264a,Recursion,3,1,34,1,1
+fe579de6,Recursion,3,1,45,1,0
+a6e23819,Dynamic Programming,4,2,42,0,0
+09505742,Variables,1,1,29,0,0
+0ae7c5b8,Loops,2,1,17,1,1
+84b563ae,Dynamic Programming,4,3,43,0,0
+4e096844,Recursion,3,3,53,1,0
+5c2bc04a,Dynamic Programming,4,1,37,0,0
+f1fc10b2,Variables,1,1,35,0,0
+52ff1a49,Functions,2,2,24,1,0
+45b5de1a,Loops,2,1,30,0,0
+3d1f9bcf,Dynamic Programming,4,3,43,0,0
+84c8caac,Loops,2,1,30,1,0
+ccd462cf,Dynamic Programming,4,2,33,0,0
+e6d5e657,Loops,2,1,33,0,0
+3d69c0ca,Recursion,3,2,42,0,0
+d63b006e,Variables,1,2,35,0,0
+ecbc285c,Recursion,3,1,30,1,0
+629f1950,Recursion,3,3,37,0,0
+1d9fc720,Recursion,3,2,42,0,0
+590f8480,Dynamic Programming,4,2,47,1,0
+ecbc285c,Variables,1,1,13,1,0
+53716029,Functions,2,1,32,1,1
+38caeb3c,Recursion,3,1,24,0,0
+e96f6898,Functions,2,1,21,1,1
+b8b005de,Recursion,3,2,45,0,0
+a83e881d,Variables,1,3,24,0,0
+5537bfd1,Recursion,3,3,38,0,0
+08b99ac1,Recursion,3,1,33,0,0
+c06c593a,Functions,2,1,30,1,0
+4eba48a6,Functions,2,3,34,0,0
+dc2ec317,Dynamic Programming,4,2,38,0,0
+ccd462cf,Loops,2,1,20,0,0
+859789fb,Variables,1,1,37,0,0
+faf2230c,Dynamic Programming,4,1,33,0,0
+60e2fa70,Recursion,3,1,32,1,0
+dfcd6b5b,Recursion,3,2,28,0,0
+96ed030e,Recursion,3,3,30,0,0
+cb5d5a7d,Dynamic Programming,4,2,38,0,0
+2a9272f0,Dynamic Programming,4,2,27,0,0
+84392e9a,Functions,2,1,14,0,0
+35645b69,Loops,2,2,27,0,0
+0efdd7c7,Dynamic Programming,4,3,32,0,0
+cbc58144,Loops,2,1,38,1,0
+73b88305,Variables,1,1,34,1,1
+48123c8b,Variables,1,2,29,1,1
+80459ec7,Dynamic Programming,4,2,23,0,0
+f4ad70ed,Functions,2,2,24,0,0
+ecbc285c,Functions,2,1,28,1,0
+53716029,Recursion,3,2,29,1,0
+af3a75f2,Functions,2,2,27,0,0
+aa8a37f4,Functions,2,1,26,1,0
+629f1950,Dynamic Programming,4,3,44,0,0
+dc2ec317,Functions,2,2,27,1,0
+08d327e6,Recursion,3,2,33,1,0
+c0a8a86f,Variables,1,2,20,0,0
+66429af5,Loops,2,2,33,1,0
+a8070b67,Variables,1,2,31,1,1
+fe579de6,Recursion,3,3,43,0,0
+859789fb,Dynamic Programming,4,2,46,0,0
+b3f64f19,Recursion,3,2,29,1,0
+859789fb,Loops,2,2,39,0,0
+847c54fb,Variables,1,2,14,0,0
+86878cf1,Functions,2,1,23,1,0
+60e2fa70,Variables,1,1,21,1,1
+91e64a70,Dynamic Programming,4,3,42,0,0
+65c08f13,Recursion,3,1,29,1,0
+bf0e5c55,Dynamic Programming,4,2,25,0,0
+163a7d7d,Functions,2,3,44,1,0
+84392e9a,Dynamic Programming,4,2,43,0,0
+44110570,Recursion,3,2,27,0,0
+44110570,Loops,2,1,23,0,0
+6c0d033e,Recursion,3,1,21,0,0
+b87fb52d,Functions,2,2,33,1,0
+56060b4d,Dynamic Programming,4,2,40,1,0
+a13cc4dc,Loops,2,1,29,0,0
+637f435d,Variables,1,1,35,1,1
+96f5f1e4,Functions,2,2,21,1,0
+45b5de1a,Loops,2,3,38,1,0
+e1571e55,Functions,2,2,44,0,0
+00e69998,Dynamic Programming,4,3,41,1,0
+80459ec7,Recursion,3,2,34,0,0
+daee0007,Variables,1,1,19,1,0
+b87fb52d,Loops,2,2,35,1,0
+cb7b5ea5,Functions,2,3,40,1,0
+80459ec7,Dynamic Programming,4,3,37,0,0
+5064bff6,Variables,1,2,22,1,1
+84392e9a,Functions,2,2,35,1,1
+6c985f1e,Dynamic Programming,4,1,42,1,0
+29d8241a,Recursion,3,3,16,0,0
+8680f577,Loops,2,3,19,0,0
+6313f2f8,Dynamic Programming,4,1,28,0,0
+d26e930c,Functions,2,1,32,1,1
+df9ead78,Recursion,3,1,28,0,0
+c30bfd68,Functions,2,1,32,1,1
+80459ec7,Functions,2,1,23,1,0
+f6bfc15f,Dynamic Programming,4,1,34,1,0
+4f4a93f9,Recursion,3,1,35,0,0
+590f8480,Variables,1,1,28,1,1
+6c985f1e,Functions,2,1,32,1,0
+4ecbb3b7,Variables,1,2,14,1,0
+a4e0c28d,Recursion,3,1,29,0,0
+0ae7c5b8,Loops,2,1,14,1,0
+f2af96c0,Loops,2,2,28,1,1
+65c08f13,Loops,2,2,38,0,0
+1d9fc720,Recursion,3,1,30,0,0
+65c08f13,Dynamic Programming,4,1,17,1,0
+e1571e55,Functions,2,1,16,1,0
+28fc7c4c,Loops,2,3,31,0,0
+67386278,Variables,1,1,18,1,1
+8539e3ec,Loops,2,1,29,0,0
+637f435d,Recursion,3,1,12,1,0
+4fb1bc31,Dynamic Programming,4,2,44,1,0
+5064bff6,Functions,2,1,39,0,0
+ecbc285c,Dynamic Programming,4,2,34,0,0
+bf0e5c55,Functions,2,1,24,1,1
+ec846410,Variables,1,1,42,1,1
+717f86c2,Dynamic Programming,4,3,27,1,0
+cd86db99,Variables,1,2,19,0,0
+d63b006e,Functions,2,2,41,1,0
+2dd0eb22,Variables,1,2,22,1,0
+1e9af1a8,Recursion,3,1,32,0,0
+e9d0c683,Dynamic Programming,4,1,37,0,0
+96f5f1e4,Recursion,3,1,22,0,0
+ec60e30b,Variables,1,2,29,1,0
+7b55af79,Functions,2,3,34,0,0
+5ac87020,Dynamic Programming,4,1,49,0,0
+4e096844,Recursion,3,3,36,0,0
+5e4c63f7,Variables,1,2,29,1,0
+69487be7,Dynamic Programming,4,1,29,0,0
+82b05027,Loops,2,3,24,1,0
+00a8a9a8,Variables,1,1,15,1,0
+09505742,Loops,2,1,27,1,0
+717f86c2,Dynamic Programming,4,1,39,0,0
+0813b66c,Loops,2,2,37,1,0
+f64a2ed0,Loops,2,2,25,0,0
+f2af96c0,Variables,1,1,16,0,0
+86d4132b,Recursion,3,1,34,1,0
+4334f0ec,Functions,2,3,46,0,0
+3263dca5,Recursion,3,1,19,1,0
+d26e930c,Recursion,3,2,34,1,0
+48123c8b,Variables,1,2,23,1,0
+c1c9edb9,Dynamic Programming,4,1,33,0,0
+d7be5c1e,Dynamic Programming,4,1,33,1,0
+283b0d8b,Functions,2,1,16,1,1
+7b55af79,Recursion,3,2,34,0,0
+2a9272f0,Recursion,3,2,20,0,0
+0f512b8e,Loops,2,1,25,1,0
+e9b79c29,Variables,1,2,32,1,1
+ddaf7ca2,Functions,2,1,17,1,1
+99e180db,Loops,2,1,30,0,0
+3f3826f3,Recursion,3,1,20,0,0
+96afdb6a,Loops,2,2,36,1,0
+b8b005de,Recursion,3,2,37,1,0
+4eba48a6,Functions,2,3,37,0,0
+72ddfa48,Variables,1,3,17,0,0
+2d51fd19,Recursion,3,3,44,1,0
+b08626e4,Variables,1,2,27,1,1
+a8070b67,Loops,2,2,37,1,0
+30b66672,Variables,1,1,18,1,1
+8680f577,Loops,2,1,20,0,0
+283b0d8b,Loops,2,1,30,0,0
+d41f22aa,Loops,2,1,20,0,0
+1104d582,Variables,1,1,22,1,1
+e9d0c683,Variables,1,2,33,0,0
+dfcd6b5b,Variables,1,2,37,0,0
+3d59b919,Recursion,3,1,42,1,0
+7b55af79,Functions,2,1,31,0,0
+af3a75f2,Functions,2,1,52,0,0
+c1c9edb9,Variables,1,1,29,1,1
+c1db4161,Variables,1,1,28,1,1
+080b3811,Recursion,3,3,29,0,0
+60b5d26b,Recursion,3,2,28,0,0
+1b3c9480,Loops,2,3,31,1,0
+7e3123d1,Variables,1,1,31,1,1
+ccd462cf,Dynamic Programming,4,2,35,0,0
+e1571e55,Recursion,3,2,36,0,0
+c54abbb6,Functions,2,1,36,0,0
+e3f0ada2,Variables,1,2,29,0,0
+3d69c0ca,Dynamic Programming,4,3,39,0,0
+fdb66605,Variables,1,1,40,1,1
+af3a75f2,Functions,2,3,17,0,0
+fdb66605,Loops,2,1,17,1,0
+abb9c659,Dynamic Programming,4,1,30,0,0
+38caeb3c,Variables,1,1,18,1,1
+e33fb13f,Recursion,3,1,27,0,0
+080b3811,Functions,2,2,41,0,0
+aa8a37f4,Loops,2,1,24,1,0
+82b05027,Variables,1,3,20,0,0
+897979a0,Functions,2,1,25,1,0
+d41f22aa,Dynamic Programming,4,3,40,0,0
+6c0d033e,Functions,2,1,21,0,0
+163a7d7d,Variables,1,2,16,1,0
+57691047,Recursion,3,3,27,0,0
+5ac87020,Variables,1,2,18,0,0
+c30bde50,Variables,1,1,29,0,0
+03f4c13e,Functions,2,1,33,0,0
+dc2ec317,Loops,2,3,19,0,0
+adef3c23,Variables,1,1,21,1,1
+d41f22aa,Recursion,3,1,38,1,0
+5745afc1,Recursion,3,1,34,1,0
+3263dca5,Loops,2,3,36,1,0
+e6d5e657,Loops,2,1,28,1,0
+bd0c2b39,Variables,1,2,21,0,0
+b3f64f19,Recursion,3,1,22,1,0
+163a7d7d,Functions,2,3,31,0,0
+66429af5,Variables,1,3,20,1,0
+1932d7f3,Functions,2,1,14,1,1
+44110570,Functions,2,2,25,1,0
+637f435d,Dynamic Programming,4,1,42,1,0
+d41f22aa,Loops,2,2,30,1,0
+00a8a9a8,Variables,1,2,36,1,1
+0813b66c,Dynamic Programming,4,1,26,0,0
+66429af5,Recursion,3,2,36,1,0
+a4e0c28d,Loops,2,1,34,1,1
+e9d0c683,Recursion,3,1,34,1,0
+e9b79c29,Loops,2,2,27,0,0
+d49f68ef,Dynamic Programming,4,1,21,0,0
+e6237686,Dynamic Programming,4,1,35,1,0
+fe579de6,Dynamic Programming,4,1,40,0,0
+5e4c63f7,Variables,1,1,25,1,1
+f64a2ed0,Variables,1,1,33,1,1
+66429af5,Loops,2,1,28,0,0
+e6d5e657,Dynamic Programming,4,1,24,0,0
+b1694887,Dynamic Programming,4,3,40,1,0
+8fb1f315,Variables,1,1,44,1,1
+0f512b8e,Loops,2,1,25,1,1
+abb9c659,Dynamic Programming,4,1,41,1,0
+7882fad6,Variables,1,2,29,1,0
+73b88305,Loops,2,2,30,1,0
+b8b005de,Dynamic Programming,4,1,36,1,0
+049fc19a,Variables,1,2,31,1,0
+72ddfa48,Recursion,3,3,32,0,0
+cd86db99,Dynamic Programming,4,2,27,0,0
+e9b79c29,Loops,2,1,29,1,1
+1e9af1a8,Loops,2,1,24,1,1
+5e4c63f7,Functions,2,1,35,0,0
+342d668c,Recursion,3,1,29,1,0
+25c83068,Functions,2,2,25,0,0
+28fc7c4c,Dynamic Programming,4,1,22,0,0
+5c2bc04a,Functions,2,2,31,0,0
+629f1950,Functions,2,1,25,0,0
+53716029,Dynamic Programming,4,2,28,0,0
+c9d83e66,Recursion,3,2,20,1,0
+859789fb,Loops,2,1,13,1,1
+40bdcaf0,Functions,2,2,6,0,0
+e6574e00,Variables,1,3,29,0,0
+03e26a0b,Recursion,3,2,24,1,0
+60e2fa70,Functions,2,1,39,0,0
+0bbd03f9,Functions,2,2,9,1,0
+d26e930c,Loops,2,3,22,1,0
+ccd462cf,Loops,2,2,17,1,0
+25c83068,Variables,1,1,23,0,0
+c21eefb7,Recursion,3,2,38,0,0
+48123c8b,Recursion,3,1,49,1,0
+0413c097,Functions,2,3,26,1,0
+0bbd03f9,Recursion,3,1,30,0,0
+03f4c13e,Variables,1,2,11,1,1
+f4ad70ed,Recursion,3,1,51,0,0
+ccd462cf,Dynamic Programming,4,1,30,0,0
+96afdb6a,Loops,2,2,41,0,0
+39119303,Functions,2,1,28,0,0
+38caeb3c,Functions,2,1,29,0,0
+96afdb6a,Recursion,3,1,22,1,0
+c06c593a,Functions,2,1,18,1,0
+2dd0eb22,Variables,1,1,22,1,1
+d7be5c1e,Recursion,3,1,21,0,0
+a8e1ff27,Functions,2,2,49,0,0
+e33fb13f,Functions,2,2,41,1,0
+ec60e30b,Loops,2,2,34,0,0
+dbd84587,Recursion,3,3,29,1,0
+dc54d27c,Functions,2,1,27,0,0
+595afe07,Functions,2,3,43,0,0
+00e69998,Recursion,3,1,39,1,0
+629f1950,Functions,2,1,10,0,0
+25823a23,Loops,2,3,18,0,0
+049fc19a,Functions,2,1,31,0,0
+44e50da6,Loops,2,1,40,1,1
+3a9f6f1f,Dynamic Programming,4,1,39,1,0
+f6bfc15f,Variables,1,1,25,0,0
+cce7da75,Variables,1,1,24,1,1
+d20907be,Loops,2,2,29,1,1
+40bdcaf0,Dynamic Programming,4,3,32,0,0
+8fb1f315,Variables,1,1,8,0,0
+53716029,Variables,1,1,33,0,0
+cd86db99,Recursion,3,1,25,1,0
+cbc58144,Dynamic Programming,4,2,23,0,0
+a6e23819,Variables,1,3,26,0,0
+e96f6898,Recursion,3,3,14,1,0
+c30bfd68,Loops,2,1,30,1,0
+91e64a70,Variables,1,1,37,1,1
+ec846410,Loops,2,1,21,1,1
+72ddfa48,Functions,2,2,32,0,0
+2d51fd19,Loops,2,1,27,0,0
+4f4a93f9,Dynamic Programming,4,1,29,0,0
+1d9fc720,Dynamic Programming,4,2,35,0,0
+00e69998,Dynamic Programming,4,1,47,0,0
+d20907be,Loops,2,1,31,0,0
+86d4132b,Loops,2,2,27,1,0
+7e3123d1,Loops,2,1,29,1,1
+c30bde50,Recursion,3,1,32,0,0
+65c08f13,Functions,2,1,33,0,0
+c06c593a,Dynamic Programming,4,1,27,1,0
+f2af96c0,Dynamic Programming,4,1,43,1,0
+48123c8b,Loops,2,2,46,1,0
+91e64a70,Functions,2,2,33,1,0
+e96f6898,Loops,2,2,24,0,0
+4334f0ec,Variables,1,2,26,1,0
+96afdb6a,Recursion,3,1,55,1,0
+6c6ea779,Loops,2,1,29,0,0
+b08626e4,Variables,1,2,20,1,0
+697ebb27,Functions,2,2,41,0,0
+057a3be1,Loops,2,1,7,0,0
+aa8a37f4,Dynamic Programming,4,2,45,0,0
+44e50da6,Functions,2,1,34,1,1
+cce7da75,Recursion,3,1,31,0,0
+ddaf7ca2,Functions,2,2,27,1,0
+03e26a0b,Variables,1,1,34,1,1
+09505742,Functions,2,2,29,0,0
+8e5699ff,Recursion,3,1,37,1,0
+5745afc1,Variables,1,2,13,1,0
+56060b4d,Dynamic Programming,4,1,41,0,0
+342d668c,Functions,2,2,36,0,0
+09505742,Variables,1,2,16,0,0
+96ed030e,Recursion,3,2,20,0,0
+163a7d7d,Variables,1,3,27,1,1
+3263dca5,Functions,2,1,32,1,0
+92807a16,Variables,1,1,20,1,1
+c30bde50,Functions,2,1,27,1,0
+e3f0ada2,Loops,2,1,18,1,0
+6c0d033e,Dynamic Programming,4,3,32,0,0
+75eee0b0,Loops,2,2,31,1,0
+86878cf1,Functions,2,1,21,1,1
+c0a8a86f,Variables,1,3,25,1,0
+897979a0,Functions,2,2,22,1,0
+4334f0ec,Variables,1,1,18,1,1
+cb5d5a7d,Loops,2,2,22,1,0
+b08626e4,Recursion,3,1,19,1,0
+697ebb27,Variables,1,2,19,0,0
+697ebb27,Functions,2,2,14,0,0
+69487be7,Recursion,3,1,29,0,0
+0db3460b,Functions,2,1,36,1,0
+0fa3f87c,Variables,1,3,33,1,0
+c30bde50,Dynamic Programming,4,1,47,0,0
+7882fad6,Variables,1,2,28,1,1
+3d59b919,Dynamic Programming,4,1,32,0,0
+fdb66605,Variables,1,1,24,1,1
+8680f577,Dynamic Programming,4,1,44,0,0
+e5b4ad69,Dynamic Programming,4,1,49,1,0
+283b0d8b,Functions,2,1,31,0,0
+dc54d27c,Loops,2,1,24,1,1
+c0a8a86f,Functions,2,2,42,0,0
+67386278,Recursion,3,1,29,1,0
+92807a16,Variables,1,3,27,1,0
+4e096844,Functions,2,2,39,0,0
+cb5d5a7d,Loops,2,1,28,1,0
+b3f64f19,Loops,2,1,28,1,1
+4ecbb3b7,Variables,1,2,22,0,0
+86878cf1,Dynamic Programming,4,1,28,0,0
+27b49b90,Dynamic Programming,4,1,24,0,0
+66429af5,Functions,2,3,23,0,0
+6c6ea779,Functions,2,2,35,1,0
+0e79cd40,Recursion,3,1,34,1,0
+3d69c0ca,Dynamic Programming,4,2,36,0,0
+09505742,Recursion,3,1,32,1,0
+dbd84587,Variables,1,1,26,0,0
+6313f2f8,Loops,2,3,31,1,0
+3d59b919,Functions,2,1,23,1,0
+09505742,Recursion,3,1,38,0,0
+0413c097,Loops,2,2,36,0,0
+82b05027,Loops,2,2,30,0,0
+c1c9edb9,Dynamic Programming,4,1,33,1,0
+2a9272f0,Loops,2,1,32,1,0
+a8e1ff27,Dynamic Programming,4,2,44,0,0
+dfcd6b5b,Dynamic Programming,4,3,42,0,0
+b8b005de,Functions,2,2,31,0,0
+09505742,Loops,2,1,34,1,0
+3d59b919,Loops,2,2,26,1,1
+22394829,Dynamic Programming,4,2,25,1,0
+c21eefb7,Recursion,3,2,39,0,0
+7eb5baa2,Recursion,3,1,34,0,0
+595afe07,Functions,2,3,25,0,0
+dfcd6b5b,Variables,1,3,38,0,0
+5745afc1,Recursion,3,1,10,1,1
+03f4c13e,Dynamic Programming,4,1,31,1,0
+29da264a,Loops,2,1,23,0,0
+1d9fc720,Dynamic Programming,4,3,44,0,0
+a9b93c93,Dynamic Programming,4,2,56,1,0
+590f8480,Loops,2,1,52,0,0
+92807a16,Functions,2,2,27,0,0
+1214605f,Loops,2,1,24,1,0
+595afe07,Variables,1,2,18,0,0
+5c2bc04a,Recursion,3,1,27,1,0
+1b3c9480,Variables,1,3,31,1,0
+1932d7f3,Recursion,3,3,27,1,0
+fdb66605,Dynamic Programming,4,3,55,1,0
+cd86db99,Dynamic Programming,4,1,43,0,0
+df9ead78,Loops,2,1,39,0,0
+5537bfd1,Dynamic Programming,4,3,33,0,0
+a83e881d,Variables,1,3,24,1,1
+3263dca5,Recursion,3,1,34,0,0
+7b55af79,Loops,2,2,37,0,0
+7d83aaa2,Loops,2,1,30,1,1
+cc50d102,Recursion,3,1,22,0,0
+b08626e4,Dynamic Programming,4,1,29,1,0
+2d51fd19,Loops,2,2,28,1,0
+aa8a37f4,Recursion,3,3,21,0,0
+48123c8b,Dynamic Programming,4,1,35,0,0
+f2af96c0,Loops,2,1,44,0,0
+0fa3f87c,Dynamic Programming,4,1,26,0,0
+fdb66605,Recursion,3,1,35,0,0
+08b99ac1,Loops,2,1,25,1,0
+d49f68ef,Variables,1,1,12,1,0
+dfcd6b5b,Dynamic Programming,4,1,23,1,0
+e9b79c29,Loops,2,1,18,0,0
+dc2ec317,Loops,2,1,24,0,0
+38caeb3c,Dynamic Programming,4,3,40,0,0
+f2af96c0,Loops,2,2,26,1,0
+d63b006e,Variables,1,1,20,0,0
+e9d0c683,Recursion,3,1,36,0,0
+67386278,Dynamic Programming,4,3,28,0,0
+a8070b67,Functions,2,1,27,1,0
+e6574e00,Dynamic Programming,4,3,54,0,0
+897979a0,Loops,2,1,22,1,0
+abb9c659,Loops,2,3,40,1,0
+44110570,Dynamic Programming,4,1,28,0,0
+2d51fd19,Recursion,3,3,40,0,0
+595afe07,Recursion,3,2,22,0,0
+6e99ac2f,Dynamic Programming,4,2,31,0,0
+3f3826f3,Variables,1,2,40,0,0
+bd0c2b39,Recursion,3,1,36,1,0
+80f3d5b0,Loops,2,2,48,0,0
+30b66672,Variables,1,3,25,1,0
+0efdd7c7,Dynamic Programming,4,1,30,1,0
+f64a2ed0,Variables,1,3,34,1,0
+80f3d5b0,Recursion,3,2,31,0,0
+ecbc285c,Loops,2,2,21,1,0
+cb5d5a7d,Recursion,3,1,28,1,0
+d41f22aa,Functions,2,1,26,1,0
+f6bfc15f,Dynamic Programming,4,3,45,0,0
+22394829,Functions,2,1,25,1,1
+99e180db,Recursion,3,3,34,0,0
+6313f2f8,Variables,1,2,30,0,0
+27b49b90,Recursion,3,1,35,1,0
+e33fb13f,Functions,2,3,43,0,0
+38caeb3c,Functions,2,3,32,0,0
+1bd8d2b4,Variables,1,2,16,0,0
+0813b66c,Variables,1,2,16,1,1
+1e9af1a8,Loops,2,3,27,0,0
+cbc58144,Variables,1,2,19,1,1
+ddaf7ca2,Loops,2,2,32,0,0
+dbd84587,Dynamic Programming,4,1,36,1,0
+1d4c9cc0,Recursion,3,1,18,1,0
+1b3c9480,Loops,2,1,22,1,1
+0e79cd40,Dynamic Programming,4,3,43,0,0
+1932d7f3,Loops,2,1,33,1,1
+2a9272f0,Loops,2,2,26,0,0
+0bbd03f9,Dynamic Programming,4,2,44,0,0
+35645b69,Variables,1,1,22,0,0
+cbc58144,Recursion,3,3,41,0,0
+40bdcaf0,Loops,2,2,37,0,0
+30b66672,Variables,1,2,33,1,0
+342d668c,Recursion,3,1,32,0,0
+84c8caac,Loops,2,1,24,1,0
+7eb5baa2,Dynamic Programming,4,1,25,1,0
+6313f2f8,Dynamic Programming,4,1,53,1,0
+897979a0,Recursion,3,1,33,0,0
+6c985f1e,Dynamic Programming,4,2,38,1,0
+f1fc10b2,Loops,2,2,34,1,0
+cc50d102,Dynamic Programming,4,2,23,1,0
+f64a2ed0,Dynamic Programming,4,1,34,0,0
+897979a0,Variables,1,1,25,1,1
+a9b93c93,Recursion,3,2,30,1,0
+5064bff6,Variables,1,3,23,1,0
+e6574e00,Dynamic Programming,4,2,31,1,0
+b41f7116,Variables,1,3,26,0,0
+4fb1bc31,Variables,1,3,30,1,0
+0e79cd40,Loops,2,2,25,0,0
+59811e5d,Recursion,3,1,19,1,0
+5c2bc04a,Loops,2,3,33,0,0
+cb7b5ea5,Functions,2,3,42,0,0
+283b0d8b,Dynamic Programming,4,1,39,0,0
+d49f68ef,Variables,1,1,22,0,0
+4ecbb3b7,Variables,1,2,24,1,1
+1c4b0d66,Loops,2,1,26,0,0
+e96f6898,Loops,2,1,30,1,0
+637f435d,Recursion,3,1,32,1,0
+82b05027,Functions,2,1,32,1,1
+f1fc10b2,Recursion,3,1,22,1,0
+7882fad6,Variables,1,2,36,1,0
+2a9272f0,Functions,2,1,51,1,0
+a8070b67,Dynamic Programming,4,1,40,1,0
+3f3826f3,Loops,2,2,23,1,0
+b08626e4,Functions,2,2,42,0,0
+d7be5c1e,Recursion,3,3,36,1,0
+283b0d8b,Dynamic Programming,4,2,31,0,0
+30b66672,Variables,1,3,33,0,0
+c54abbb6,Dynamic Programming,4,2,40,1,0
+8680f577,Recursion,3,1,30,1,0
+60b5d26b,Functions,2,2,24,1,0
+c30bfd68,Recursion,3,1,27,0,0
+4eba48a6,Variables,1,1,21,0,0
+ecbc285c,Recursion,3,2,44,1,0
+8e5699ff,Loops,2,2,41,0,0
+cb7b5ea5,Dynamic Programming,4,1,37,0,0
+91e64a70,Loops,2,2,37,1,0
+80459ec7,Recursion,3,2,16,0,0
+25823a23,Functions,2,1,17,0,0
+1d9fc720,Loops,2,2,25,0,0
+86878cf1,Functions,2,2,34,0,0
+2a9272f0,Functions,2,1,28,1,1
+f6bfc15f,Loops,2,1,29,1,0
+637f435d,Dynamic Programming,4,3,43,1,0
+4334f0ec,Recursion,3,3,39,0,0
+6e99ac2f,Recursion,3,3,44,1,0
+bf0e5c55,Recursion,3,1,14,1,0
+590f8480,Variables,1,2,42,1,0
+dc2ec317,Dynamic Programming,4,2,38,1,0
+f6bfc15f,Functions,2,2,29,0,0
+1932d7f3,Loops,2,1,26,0,0
+b3f64f19,Recursion,3,2,48,0,0
+5c2bc04a,Loops,2,2,40,1,0
+25c83068,Recursion,3,2,28,1,0
+9f98a2dc,Variables,1,3,35,1,0
+48123c8b,Recursion,3,2,41,0,0
+4fb1bc31,Loops,2,1,11,0,0
+4334f0ec,Dynamic Programming,4,1,42,1,0
+3dfc2e3a,Loops,2,1,17,1,1
+5ac87020,Functions,2,2,35,1,0
+8e5699ff,Loops,2,3,25,0,0
+0413c097,Recursion,3,2,31,0,0
+84392e9a,Recursion,3,1,32,1,0
+84c8caac,Variables,1,1,15,1,1
+1d9fc720,Functions,2,1,24,0,0
+f64a2ed0,Recursion,3,1,48,0,0
+0fa3f87c,Loops,2,2,32,0,0
+44110570,Functions,2,2,24,1,0
+a9b93c93,Functions,2,2,28,1,0
+1932d7f3,Dynamic Programming,4,1,33,0,0
+7e3123d1,Dynamic Programming,4,1,32,1,0
+c1c9edb9,Dynamic Programming,4,1,34,0,0
+590f8480,Recursion,3,1,37,1,0
+84c8caac,Variables,1,1,33,0,0
+39119303,Dynamic Programming,4,1,17,0,0
+48123c8b,Functions,2,1,15,0,0
+6c985f1e,Variables,1,3,29,0,0
+96afdb6a,Recursion,3,1,11,0,0
+4fb1bc31,Recursion,3,2,25,0,0
+080b3811,Loops,2,3,26,0,0
+629f1950,Recursion,3,2,31,0,0
+65c08f13,Variables,1,3,27,0,0
+0813b66c,Dynamic Programming,4,3,26,0,0
+b1694887,Functions,2,1,22,1,1
+7eb5baa2,Variables,1,2,17,1,0
